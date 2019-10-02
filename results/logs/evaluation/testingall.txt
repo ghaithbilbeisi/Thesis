@@ -1,0 +1,41 @@
+bilbeisi@dgx1:~/Thesis/Testing$ sh batch_test.sh                                                                                                                                                                                             Wrote 10355 lines to ../results/predictions/results14_90.txt
+2019-08-06 14:53:05,624 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_bleu.py
+2019-08-06 14:53:10,605 root  INFO     Jobs finished
+2019-08-06 14:53:10,691 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_text_edit_distance.py
+2019-08-06 14:53:28,592 root  INFO     Jobs finished
+bBLEU = 87.23, 97.1/94.0/91.2/88.4 (BP=0.942, ratio=0.943, hyp_len=640921, ref_len=679364)
+
+Edit Distance Accuracy: 0.898178
+Wrote 10355 lines to ../results/predictions/results14_100.txt
+2019-08-06 15:03:42,148 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_bleu.py
+2019-08-06 15:03:47,218 root  INFO     Jobs finished
+2019-08-06 15:03:47,312 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_text_edit_distance.py
+2019-08-06 15:04:06,116 root  INFO     Jobs finished
+bBLEU = 87.33, 97.1/94.1/91.3/88.5 (BP=0.942, ratio=0.944, hyp_len=641192, ref_len=679364)
+
+Edit Distance Accuracy: 0.899283
+Wrote 10355 lines to ../results/predictions/results15_100.txt
+2019-08-06 15:14:39,202 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_bleu.py
+2019-08-06 15:14:44,878 root  INFO     Jobs finished
+2019-08-06 15:14:44,966 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_text_edit_distance.py
+2019-08-06 15:15:05,292 root  INFO     Jobs finished
+bBLEU = 87.88, 97.4/94.5/91.7/89.0 (BP=0.944, ratio=0.945, hyp_len=642117, ref_len=679364)
+
+Edit Distance Accuracy: 0.904473
+Wrote 1620 lines to ../results/predictions/results16_100.txt
+2019-08-06 15:17:17,277 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_bleu.py
+2019-08-06 15:17:20,277 root  INFO     Jobs finished
+2019-08-06 15:17:20,365 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_text_edit_distance.py
+2019-08-06 15:17:23,705 root  INFO     Jobs finished
+bBLEU = 0.32, 97.2/94.3/91.5/88.8 (BP=0.003, ratio=0.150, hyp_len=102010, ref_len=679364)
+
+Edit Distance Accuracy: 0.904446
+Wrote 1620 lines to ../results/predictions/results17_100.txt
+2019-08-06 15:19:32,800 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_bleu.py
+2019-08-06 15:19:36,178 root  INFO     Jobs finished
+2019-08-06 15:19:36,319 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_text_edit_distance.py
+2019-08-06 15:19:39,869 root  INFO     Jobs finished
+bBLEU = 0.31, 97.3/94.4/91.5/88.8 (BP=0.003, ratio=0.149, hyp_len=101489, ref_len=679364)
+
+Edit Distance Accuracy: 0.902340
+

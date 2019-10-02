@@ -1,0 +1,32 @@
+Wrote 10355 lines to ../results/predictions/results16_100.txt
+bBLEU = 87.86, 97.4/94.5/91.7/89.1 (BP=0.944, ratio=0.945, hyp_len=642058, ref_len=679364)
+
+Edit Distance Accuracy: 0.903530
+Wrote 10355 lines to ../results/predictions/results17_100.txt
+bBLEU = 87.48, 97.5/94.6/91.7/89.0 (BP=0.939, ratio=0.941, hyp_len=639249, ref_len=679364)
+
+Edit Distance Accuracy: 0.901395
+Wrote 10355 lines to ../results/predictions/results18_100.txt
+bBLEU = 87.10, 97.0/94.0/91.1/88.4 (BP=0.941, ratio=0.942, hyp_len=640201, ref_len=679364)
+
+Edit Distance Accuracy: 0.897597
+Wrote 10355 lines to ../results/predictions/results19_100.txt
+bBLEU = 86.82, 96.7/93.5/90.4/87.4 (BP=0.944, ratio=0.946, hyp_len=642634, ref_len=679364)
+
+Edit Distance Accuracy: 0.893740
+Wrote 10355 lines to ../results/predictions/results20_80.txt
+bBLEU = 86.78, 97.2/94.1/91.2/88.4 (BP=0.936, ratio=0.938, hyp_len=637487, ref_len=679364)
+
+Edit Distance Accuracy: 0.894769
+Wrote 10355 lines to ../results/predictions/results20_100.txt
+bBLEU = 86.81, 97.2/94.2/91.3/88.6 (BP=0.936, ratio=0.938, hyp_len=636978, ref_len=679364)
+
+Edit Distance Accuracy: 0.894565
+Wrote 10355 lines to ../results/predictions/results21_80.txt
+bBLEU = 87.24, 97.0/94.0/91.2/88.4 (BP=0.942, ratio=0.944, hyp_len=641171, ref_len=679364)
+
+Edit Distance Accuracy: 0.896485
+Wrote 10355 lines to ../results/predictions/results21_100.txt
+bBLEU = 87.63, 97.2/94.2/91.4/88.7 (BP=0.944, ratio=0.946, hyp_len=642473, ref_len=679364)
+
+Edit Distance Accuracy: 0.900583

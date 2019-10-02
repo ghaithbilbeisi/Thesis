@@ -1,0 +1,1880 @@
+lbeisi@dgx1:~/Thesis/Testing$ python3 ../im2latex/im2markup/scripts/evaluation/evaluate_image.py --images-dir ../results/images_rendered/
+2019-07-31 23:49:28,742 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_image.py
+2019-07-31 23:49:53,198 root  INFO     Total Num: 100
+2019-07-31 23:49:53,199 root  INFO     Accuracy (w spaces): 0.780000
+2019-07-31 23:49:53,199 root  INFO     Accuracy (w/o spaces): 0.800000
+2019-07-31 23:49:53,199 root  INFO     Edit Dist (w spaces): 0.925168
+2019-07-31 23:49:53,199 root  INFO     Total Correct (w spaces): 78
+2019-07-31 23:49:53,199 root  INFO     Total Correct (w/o spaces): 80
+2019-07-31 23:49:53,199 root  INFO     Total Edit Dist (w spaces): 4146
+2019-07-31 23:49:53,199 root  INFO     Total Ref (w spaces): 55404
+2019-07-31 23:49:53,199 root  INFO
+2019-07-31 23:50:20,909 root  INFO     Total Num: 200
+2019-07-31 23:50:20,909 root  INFO     Accuracy (w spaces): 0.820000
+2019-07-31 23:50:20,910 root  INFO     Accuracy (w/o spaces): 0.845000
+2019-07-31 23:50:20,910 root  INFO     Edit Dist (w spaces): 0.934189
+2019-07-31 23:50:20,910 root  INFO     Total Correct (w spaces): 164
+2019-07-31 23:50:20,910 root  INFO     Total Correct (w/o spaces): 169
+2019-07-31 23:50:20,910 root  INFO     Total Edit Dist (w spaces): 7401
+2019-07-31 23:50:20,910 root  INFO     Total Ref (w spaces): 112459
+2019-07-31 23:50:20,910 root  INFO
+2019-07-31 23:50:42,994 root  INFO     Total Num: 300
+2019-07-31 23:50:42,995 root  INFO     Accuracy (w spaces): 0.830000
+2019-07-31 23:50:42,995 root  INFO     Accuracy (w/o spaces): 0.850000
+2019-07-31 23:50:42,995 root  INFO     Edit Dist (w spaces): 0.934252
+2019-07-31 23:50:42,996 root  INFO     Total Correct (w spaces): 249
+2019-07-31 23:50:42,996 root  INFO     Total Correct (w/o spaces): 255
+2019-07-31 23:50:42,996 root  INFO     Total Edit Dist (w spaces): 10729
+2019-07-31 23:50:42,996 root  INFO     Total Ref (w spaces): 163184
+2019-07-31 23:50:42,996 root  INFO
+2019-07-31 23:51:14,203 root  INFO     Total Num: 400
+2019-07-31 23:51:14,204 root  INFO     Accuracy (w spaces): 0.822500
+2019-07-31 23:51:14,204 root  INFO     Accuracy (w/o spaces): 0.840000
+2019-07-31 23:51:14,204 root  INFO     Edit Dist (w spaces): 0.928460
+2019-07-31 23:51:14,204 root  INFO     Total Correct (w spaces): 329
+2019-07-31 23:51:14,204 root  INFO     Total Correct (w/o spaces): 336
+2019-07-31 23:51:14,204 root  INFO     Total Edit Dist (w spaces): 15827
+2019-07-31 23:51:14,204 root  INFO     Total Ref (w spaces): 221234
+2019-07-31 23:51:14,204 root  INFO
+2019-07-31 23:51:35,955 root  INFO     Total Num: 500
+2019-07-31 23:51:35,955 root  INFO     Accuracy (w spaces): 0.828000
+2019-07-31 23:51:35,955 root  INFO     Accuracy (w/o spaces): 0.844000
+2019-07-31 23:51:35,955 root  INFO     Edit Dist (w spaces): 0.927298
+2019-07-31 23:51:35,956 root  INFO     Total Correct (w spaces): 414
+2019-07-31 23:51:35,956 root  INFO     Total Correct (w/o spaces): 422
+2019-07-31 23:51:35,956 root  INFO     Total Edit Dist (w spaces): 19928
+2019-07-31 23:51:35,956 root  INFO     Total Ref (w spaces): 274104
+2019-07-31 23:51:35,956 root  INFO
+2019-07-31 23:51:59,427 root  INFO     Total Num: 600
+2019-07-31 23:51:59,428 root  INFO     Accuracy (w spaces): 0.825000
+2019-07-31 23:51:59,428 root  INFO     Accuracy (w/o spaces): 0.841667
+2019-07-31 23:51:59,428 root  INFO     Edit Dist (w spaces): 0.920570
+2019-07-31 23:51:59,428 root  INFO     Total Correct (w spaces): 495
+2019-07-31 23:51:59,428 root  INFO     Total Correct (w/o spaces): 505
+2019-07-31 23:51:59,428 root  INFO     Total Edit Dist (w spaces): 25918
+2019-07-31 23:51:59,428 root  INFO     Total Ref (w spaces): 326301
+2019-07-31 23:51:59,428 root  INFO
+2019-07-31 23:52:19,767 root  INFO     Total Num: 700
+2019-07-31 23:52:19,768 root  INFO     Accuracy (w spaces): 0.818571
+2019-07-31 23:52:19,768 root  INFO     Accuracy (w/o spaces): 0.831429
+2019-07-31 23:52:19,768 root  INFO     Edit Dist (w spaces): 0.921672
+2019-07-31 23:52:19,768 root  INFO     Total Correct (w spaces): 573
+2019-07-31 23:52:19,768 root  INFO     Total Correct (w/o spaces): 582
+2019-07-31 23:52:19,768 root  INFO     Total Edit Dist (w spaces): 29953
+2019-07-31 23:52:19,768 root  INFO     Total Ref (w spaces): 382407
+2019-07-31 23:52:19,768 root  INFO
+2019-07-31 23:52:43,583 root  INFO     Total Num: 800
+2019-07-31 23:52:43,584 root  INFO     Accuracy (w spaces): 0.817500
+2019-07-31 23:52:43,584 root  INFO     Accuracy (w/o spaces): 0.831250
+2019-07-31 23:52:43,584 root  INFO     Edit Dist (w spaces): 0.918328
+2019-07-31 23:52:43,584 root  INFO     Total Correct (w spaces): 654
+2019-07-31 23:52:43,584 root  INFO     Total Correct (w/o spaces): 665
+2019-07-31 23:52:43,584 root  INFO     Total Edit Dist (w spaces): 35780
+2019-07-31 23:52:43,584 root  INFO     Total Ref (w spaces): 438095
+2019-07-31 23:52:43,584 root  INFO
+2019-07-31 23:53:08,078 root  INFO     Total Num: 900
+2019-07-31 23:53:08,078 root  INFO     Accuracy (w spaces): 0.810000
+2019-07-31 23:53:08,079 root  INFO     Accuracy (w/o spaces): 0.826667
+2019-07-31 23:53:08,079 root  INFO     Edit Dist (w spaces): 0.917551
+2019-07-31 23:53:08,079 root  INFO     Total Correct (w spaces): 729
+2019-07-31 23:53:08,079 root  INFO     Total Correct (w/o spaces): 744
+2019-07-31 23:53:08,079 root  INFO     Total Edit Dist (w spaces): 40667
+2019-07-31 23:53:08,079 root  INFO     Total Ref (w spaces): 493239
+2019-07-31 23:53:08,079 root  INFO
+2019-07-31 23:53:31,392 root  INFO     Total Num: 1000
+2019-07-31 23:53:31,393 root  INFO     Accuracy (w spaces): 0.811000
+2019-07-31 23:53:31,393 root  INFO     Accuracy (w/o spaces): 0.829000
+2019-07-31 23:53:31,393 root  INFO     Edit Dist (w spaces): 0.915926
+2019-07-31 23:53:31,393 root  INFO     Total Correct (w spaces): 811
+2019-07-31 23:53:31,393 root  INFO     Total Correct (w/o spaces): 829
+2019-07-31 23:53:31,393 root  INFO     Total Edit Dist (w spaces): 46104
+2019-07-31 23:53:31,393 root  INFO     Total Ref (w spaces): 548374
+2019-07-31 23:53:31,393 root  INFO
+2019-07-31 23:53:53,098 root  INFO     Total Num: 1100
+2019-07-31 23:53:53,098 root  INFO     Accuracy (w spaces): 0.810909
+2019-07-31 23:53:53,098 root  INFO     Accuracy (w/o spaces): 0.829091
+2019-07-31 23:53:53,099 root  INFO     Edit Dist (w spaces): 0.916033
+2019-07-31 23:53:53,099 root  INFO     Total Correct (w spaces): 892
+2019-07-31 23:53:53,099 root  INFO     Total Correct (w/o spaces): 912
+2019-07-31 23:53:53,099 root  INFO     Total Edit Dist (w spaces): 50470
+2019-07-31 23:53:53,099 root  INFO     Total Ref (w spaces): 601069
+2019-07-31 23:53:53,099 root  INFO
+2019-07-31 23:54:13,484 root  INFO     Total Num: 1200
+2019-07-31 23:54:13,485 root  INFO     Accuracy (w spaces): 0.812500
+2019-07-31 23:54:13,485 root  INFO     Accuracy (w/o spaces): 0.832500
+2019-07-31 23:54:13,485 root  INFO     Edit Dist (w spaces): 0.916525
+2019-07-31 23:54:13,485 root  INFO     Total Correct (w spaces): 975
+2019-07-31 23:54:13,485 root  INFO     Total Correct (w/o spaces): 999
+2019-07-31 23:54:13,485 root  INFO     Total Edit Dist (w spaces): 54516
+2019-07-31 23:54:13,486 root  INFO     Total Ref (w spaces): 653079
+2019-07-31 23:54:13,486 root  INFO
+2019-07-31 23:54:34,155 root  INFO     Total Num: 1300
+2019-07-31 23:54:34,156 root  INFO     Accuracy (w spaces): 0.811538
+2019-07-31 23:54:34,156 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-07-31 23:54:34,156 root  INFO     Edit Dist (w spaces): 0.912221
+2019-07-31 23:54:34,156 root  INFO     Total Correct (w spaces): 1055
+2019-07-31 23:54:34,156 root  INFO     Total Correct (w/o spaces): 1079
+2019-07-31 23:54:34,156 root  INFO     Total Edit Dist (w spaces): 61808
+2019-07-31 23:54:34,156 root  INFO     Total Ref (w spaces): 704131
+2019-07-31 23:54:34,156 root  INFO
+2019-07-31 23:54:59,700 root  INFO     Total Num: 1400
+2019-07-31 23:54:59,701 root  INFO     Accuracy (w spaces): 0.812143
+2019-07-31 23:54:59,701 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-07-31 23:54:59,701 root  INFO     Edit Dist (w spaces): 0.912029
+2019-07-31 23:54:59,701 root  INFO     Total Correct (w spaces): 1137
+2019-07-31 23:54:59,701 root  INFO     Total Correct (w/o spaces): 1162
+2019-07-31 23:54:59,701 root  INFO     Total Edit Dist (w spaces): 66641
+2019-07-31 23:54:59,701 root  INFO     Total Ref (w spaces): 757537
+2019-07-31 23:54:59,701 root  INFO
+2019-07-31 23:55:23,590 root  INFO     Total Num: 1500
+2019-07-31 23:55:23,591 root  INFO     Accuracy (w spaces): 0.812667
+2019-07-31 23:55:23,591 root  INFO     Accuracy (w/o spaces): 0.831333
+2019-07-31 23:55:23,591 root  INFO     Edit Dist (w spaces): 0.909758
+2019-07-31 23:55:23,591 root  INFO     Total Correct (w spaces): 1219
+2019-07-31 23:55:23,591 root  INFO     Total Correct (w/o spaces): 1247
+2019-07-31 23:55:23,591 root  INFO     Total Edit Dist (w spaces): 73242
+2019-07-31 23:55:23,591 root  INFO     Total Ref (w spaces): 811615
+2019-07-31 23:55:23,591 root  INFO
+2019-07-31 23:55:46,171 root  INFO     Total Num: 1600
+2019-07-31 23:55:46,172 root  INFO     Accuracy (w spaces): 0.813750
+2019-07-31 23:55:46,172 root  INFO     Accuracy (w/o spaces): 0.833125
+2019-07-31 23:55:46,172 root  INFO     Edit Dist (w spaces): 0.912747
+2019-07-31 23:55:46,172 root  INFO     Total Correct (w spaces): 1302
+2019-07-31 23:55:46,172 root  INFO     Total Correct (w/o spaces): 1333
+2019-07-31 23:55:46,172 root  INFO     Total Edit Dist (w spaces): 75729
+2019-07-31 23:55:46,172 root  INFO     Total Ref (w spaces): 867929
+2019-07-31 23:55:46,173 root  INFO
+2019-07-31 23:56:06,578 root  INFO     Total Num: 1700
+2019-07-31 23:56:06,579 root  INFO     Accuracy (w spaces): 0.814706
+2019-07-31 23:56:06,579 root  INFO     Accuracy (w/o spaces): 0.833529
+2019-07-31 23:56:06,579 root  INFO     Edit Dist (w spaces): 0.911228
+2019-07-31 23:56:06,579 root  INFO     Total Correct (w spaces): 1385
+2019-07-31 23:56:06,579 root  INFO     Total Correct (w/o spaces): 1417
+2019-07-31 23:56:06,579 root  INFO     Total Edit Dist (w spaces): 82082
+2019-07-31 23:56:06,579 root  INFO     Total Ref (w spaces): 924640
+2019-07-31 23:56:06,579 root  INFO
+2019-07-31 23:56:31,355 root  INFO     Total Num: 1800
+2019-07-31 23:56:31,356 root  INFO     Accuracy (w spaces): 0.813333
+2019-07-31 23:56:31,356 root  INFO     Accuracy (w/o spaces): 0.831111
+2019-07-31 23:56:31,356 root  INFO     Edit Dist (w spaces): 0.909257
+2019-07-31 23:56:31,356 root  INFO     Total Correct (w spaces): 1464
+2019-07-31 23:56:31,356 root  INFO     Total Correct (w/o spaces): 1496
+2019-07-31 23:56:31,356 root  INFO     Total Edit Dist (w spaces): 88872
+2019-07-31 23:56:31,356 root  INFO     Total Ref (w spaces): 979381
+2019-07-31 23:56:31,356 root  INFO
+2019-07-31 23:56:54,879 root  INFO     Total Num: 1900
+2019-07-31 23:56:54,880 root  INFO     Accuracy (w spaces): 0.811053
+2019-07-31 23:56:54,880 root  INFO     Accuracy (w/o spaces): 0.828421
+2019-07-31 23:56:54,880 root  INFO     Edit Dist (w spaces): 0.908131
+2019-07-31 23:56:54,880 root  INFO     Total Correct (w spaces): 1541
+2019-07-31 23:56:54,880 root  INFO     Total Correct (w/o spaces): 1574
+2019-07-31 23:56:54,880 root  INFO     Total Edit Dist (w spaces): 94733
+2019-07-31 23:56:54,881 root  INFO     Total Ref (w spaces): 1031175
+2019-07-31 23:56:54,881 root  INFO
+2019-07-31 23:57:19,726 root  INFO     Total Num: 2000
+2019-07-31 23:57:19,727 root  INFO     Accuracy (w spaces): 0.812000
+2019-07-31 23:57:19,727 root  INFO     Accuracy (w/o spaces): 0.828500
+2019-07-31 23:57:19,727 root  INFO     Edit Dist (w spaces): 0.908972
+2019-07-31 23:57:19,727 root  INFO     Total Correct (w spaces): 1624
+2019-07-31 23:57:19,727 root  INFO     Total Correct (w/o spaces): 1657
+2019-07-31 23:57:19,727 root  INFO     Total Edit Dist (w spaces): 98907
+2019-07-31 23:57:19,727 root  INFO     Total Ref (w spaces): 1086551
+2019-07-31 23:57:19,727 root  INFO
+2019-07-31 23:57:45,546 root  INFO     Total Num: 2100
+2019-07-31 23:57:45,547 root  INFO     Accuracy (w spaces): 0.810000
+2019-07-31 23:57:45,547 root  INFO     Accuracy (w/o spaces): 0.826190
+2019-07-31 23:57:45,547 root  INFO     Edit Dist (w spaces): 0.907168
+2019-07-31 23:57:45,547 root  INFO     Total Correct (w spaces): 1701
+2019-07-31 23:57:45,547 root  INFO     Total Correct (w/o spaces): 1735
+2019-07-31 23:57:45,547 root  INFO     Total Edit Dist (w spaces): 105763
+2019-07-31 23:57:45,547 root  INFO     Total Ref (w spaces): 1139292
+2019-07-31 23:57:45,547 root  INFO
+2019-07-31 23:58:05,696 root  INFO     Total Num: 2200
+2019-07-31 23:58:05,697 root  INFO     Accuracy (w spaces): 0.812273
+2019-07-31 23:58:05,697 root  INFO     Accuracy (w/o spaces): 0.827727
+2019-07-31 23:58:05,697 root  INFO     Edit Dist (w spaces): 0.908394
+2019-07-31 23:58:05,697 root  INFO     Total Correct (w spaces): 1787
+2019-07-31 23:58:05,697 root  INFO     Total Correct (w/o spaces): 1821
+2019-07-31 23:58:05,697 root  INFO     Total Edit Dist (w spaces): 109208
+2019-07-31 23:58:05,697 root  INFO     Total Ref (w spaces): 1192148
+2019-07-31 23:58:05,697 root  INFO
+2019-07-31 23:58:29,981 root  INFO     Total Num: 2300
+2019-07-31 23:58:29,982 root  INFO     Accuracy (w spaces): 0.813043
+2019-07-31 23:58:29,982 root  INFO     Accuracy (w/o spaces): 0.828261
+2019-07-31 23:58:29,982 root  INFO     Edit Dist (w spaces): 0.909193
+2019-07-31 23:58:29,982 root  INFO     Total Correct (w spaces): 1870
+2019-07-31 23:58:29,982 root  INFO     Total Correct (w/o spaces): 1905
+2019-07-31 23:58:29,982 root  INFO     Total Edit Dist (w spaces): 113101
+2019-07-31 23:58:29,982 root  INFO     Total Ref (w spaces): 1245504
+2019-07-31 23:58:29,982 root  INFO
+2019-07-31 23:58:57,799 root  INFO     Total Num: 2400
+2019-07-31 23:58:57,800 root  INFO     Accuracy (w spaces): 0.812500
+2019-07-31 23:58:57,800 root  INFO     Accuracy (w/o spaces): 0.827917
+2019-07-31 23:58:57,800 root  INFO     Edit Dist (w spaces): 0.908981
+2019-07-31 23:58:57,800 root  INFO     Total Correct (w spaces): 1950
+2019-07-31 23:58:57,800 root  INFO     Total Correct (w/o spaces): 1987
+2019-07-31 23:58:57,800 root  INFO     Total Edit Dist (w spaces): 118509
+2019-07-31 23:58:57,800 root  INFO     Total Ref (w spaces): 1302018
+2019-07-31 23:58:57,800 root  INFO
+2019-07-31 23:59:20,396 root  INFO     Total Num: 2500
+2019-07-31 23:59:20,396 root  INFO     Accuracy (w spaces): 0.816400
+2019-07-31 23:59:20,396 root  INFO     Accuracy (w/o spaces): 0.831600
+2019-07-31 23:59:20,397 root  INFO     Edit Dist (w spaces): 0.910634
+2019-07-31 23:59:20,397 root  INFO     Total Correct (w spaces): 2041
+2019-07-31 23:59:20,397 root  INFO     Total Correct (w/o spaces): 2079
+2019-07-31 23:59:20,397 root  INFO     Total Edit Dist (w spaces): 120875
+2019-07-31 23:59:20,397 root  INFO     Total Ref (w spaces): 1352591
+2019-07-31 23:59:20,397 root  INFO
+2019-07-31 23:59:47,321 root  INFO     Total Num: 2600
+2019-07-31 23:59:47,322 root  INFO     Accuracy (w spaces): 0.817308
+2019-07-31 23:59:47,322 root  INFO     Accuracy (w/o spaces): 0.832308
+2019-07-31 23:59:47,322 root  INFO     Edit Dist (w spaces): 0.911066
+2019-07-31 23:59:47,322 root  INFO     Total Correct (w spaces): 2125
+2019-07-31 23:59:47,322 root  INFO     Total Correct (w/o spaces): 2164
+2019-07-31 23:59:47,322 root  INFO     Total Edit Dist (w spaces): 125395
+2019-07-31 23:59:47,322 root  INFO     Total Ref (w spaces): 1409981
+2019-07-31 23:59:47,322 root  INFO
+2019-08-01 00:00:08,431 root  INFO     Total Num: 2700
+2019-08-01 00:00:08,431 root  INFO     Accuracy (w spaces): 0.818148
+2019-08-01 00:00:08,431 root  INFO     Accuracy (w/o spaces): 0.832963
+2019-08-01 00:00:08,432 root  INFO     Edit Dist (w spaces): 0.910833
+2019-08-01 00:00:08,432 root  INFO     Total Correct (w spaces): 2209
+2019-08-01 00:00:08,432 root  INFO     Total Correct (w/o spaces): 2249
+2019-08-01 00:00:08,432 root  INFO     Total Edit Dist (w spaces): 130415
+2019-08-01 00:00:08,432 root  INFO     Total Ref (w spaces): 1462592
+2019-08-01 00:00:08,432 root  INFO
+2019-08-01 00:00:29,494 root  INFO     Total Num: 2800
+2019-08-01 00:00:29,494 root  INFO     Accuracy (w spaces): 0.818929
+2019-08-01 00:00:29,494 root  INFO     Accuracy (w/o spaces): 0.833929
+2019-08-01 00:00:29,495 root  INFO     Edit Dist (w spaces): 0.911139
+2019-08-01 00:00:29,495 root  INFO     Total Correct (w spaces): 2293
+2019-08-01 00:00:29,495 root  INFO     Total Correct (w/o spaces): 2335
+2019-08-01 00:00:29,495 root  INFO     Total Edit Dist (w spaces): 134820
+2019-08-01 00:00:29,495 root  INFO     Total Ref (w spaces): 1517201
+2019-08-01 00:00:29,495 root  INFO
+2019-08-01 00:00:51,341 root  INFO     Total Num: 2900
+2019-08-01 00:00:51,342 root  INFO     Accuracy (w spaces): 0.820345
+2019-08-01 00:00:51,342 root  INFO     Accuracy (w/o spaces): 0.834828
+2019-08-01 00:00:51,342 root  INFO     Edit Dist (w spaces): 0.912192
+2019-08-01 00:00:51,342 root  INFO     Total Correct (w spaces): 2379
+2019-08-01 00:00:51,342 root  INFO     Total Correct (w/o spaces): 2421
+2019-08-01 00:00:51,342 root  INFO     Total Edit Dist (w spaces): 137782
+2019-08-01 00:00:51,342 root  INFO     Total Ref (w spaces): 1569137
+2019-08-01 00:00:51,343 root  INFO
+2019-08-01 00:01:08,814 root  INFO     Total Num: 3000
+2019-08-01 00:01:08,815 root  INFO     Accuracy (w spaces): 0.821333
+2019-08-01 00:01:08,815 root  INFO     Accuracy (w/o spaces): 0.836000
+2019-08-01 00:01:08,815 root  INFO     Edit Dist (w spaces): 0.914011
+2019-08-01 00:01:08,815 root  INFO     Total Correct (w spaces): 2464
+2019-08-01 00:01:08,815 root  INFO     Total Correct (w/o spaces): 2508
+2019-08-01 00:01:08,815 root  INFO     Total Edit Dist (w spaces): 139361
+2019-08-01 00:01:08,815 root  INFO     Total Ref (w spaces): 1620677
+2019-08-01 00:01:08,815 root  INFO
+2019-08-01 00:01:32,730 root  INFO     Total Num: 3100
+2019-08-01 00:01:32,731 root  INFO     Accuracy (w spaces): 0.820323
+2019-08-01 00:01:32,731 root  INFO     Accuracy (w/o spaces): 0.834516
+2019-08-01 00:01:32,731 root  INFO     Edit Dist (w spaces): 0.912942
+2019-08-01 00:01:32,731 root  INFO     Total Correct (w spaces): 2543
+2019-08-01 00:01:32,731 root  INFO     Total Correct (w/o spaces): 2587
+2019-08-01 00:01:32,731 root  INFO     Total Edit Dist (w spaces): 145924
+2019-08-01 00:01:32,731 root  INFO     Total Ref (w spaces): 1676176
+2019-08-01 00:01:32,732 root  INFO
+2019-08-01 00:01:58,544 root  INFO     Total Num: 3200
+2019-08-01 00:01:58,544 root  INFO     Accuracy (w spaces): 0.818750
+2019-08-01 00:01:58,545 root  INFO     Accuracy (w/o spaces): 0.833438
+2019-08-01 00:01:58,545 root  INFO     Edit Dist (w spaces): 0.912348
+2019-08-01 00:01:58,545 root  INFO     Total Correct (w spaces): 2620
+2019-08-01 00:01:58,545 root  INFO     Total Correct (w/o spaces): 2667
+2019-08-01 00:01:58,545 root  INFO     Total Edit Dist (w spaces): 151730
+2019-08-01 00:01:58,545 root  INFO     Total Ref (w spaces): 1731056
+2019-08-01 00:01:58,545 root  INFO
+2019-08-01 00:02:20,294 root  INFO     Total Num: 3300
+2019-08-01 00:02:20,294 root  INFO     Accuracy (w spaces): 0.819091
+2019-08-01 00:02:20,294 root  INFO     Accuracy (w/o spaces): 0.834545
+2019-08-01 00:02:20,295 root  INFO     Edit Dist (w spaces): 0.913128
+2019-08-01 00:02:20,295 root  INFO     Total Correct (w spaces): 2703
+2019-08-01 00:02:20,295 root  INFO     Total Correct (w/o spaces): 2754
+2019-08-01 00:02:20,295 root  INFO     Total Edit Dist (w spaces): 154996
+2019-08-01 00:02:20,295 root  INFO     Total Ref (w spaces): 1784183
+2019-08-01 00:02:20,295 root  INFO
+2019-08-01 00:02:49,617 root  INFO     Total Num: 3400
+2019-08-01 00:02:49,618 root  INFO     Accuracy (w spaces): 0.817353
+2019-08-01 00:02:49,618 root  INFO     Accuracy (w/o spaces): 0.833529
+2019-08-01 00:02:49,618 root  INFO     Edit Dist (w spaces): 0.912204
+2019-08-01 00:02:49,618 root  INFO     Total Correct (w spaces): 2779
+2019-08-01 00:02:49,618 root  INFO     Total Correct (w/o spaces): 2834
+2019-08-01 00:02:49,618 root  INFO     Total Edit Dist (w spaces): 161606
+2019-08-01 00:02:49,618 root  INFO     Total Ref (w spaces): 1840705
+2019-08-01 00:02:49,618 root  INFO
+2019-08-01 00:03:17,962 root  INFO     Total Num: 3500
+2019-08-01 00:03:17,963 root  INFO     Accuracy (w spaces): 0.817143
+2019-08-01 00:03:17,964 root  INFO     Accuracy (w/o spaces): 0.834000
+2019-08-01 00:03:17,964 root  INFO     Edit Dist (w spaces): 0.911535
+2019-08-01 00:03:17,964 root  INFO     Total Correct (w spaces): 2860
+2019-08-01 00:03:17,964 root  INFO     Total Correct (w/o spaces): 2919
+2019-08-01 00:03:17,964 root  INFO     Total Edit Dist (w spaces): 168112
+2019-08-01 00:03:17,964 root  INFO     Total Ref (w spaces): 1900313
+2019-08-01 00:03:17,964 root  INFO
+2019-08-01 00:03:45,223 root  INFO     Total Num: 3600
+2019-08-01 00:03:45,224 root  INFO     Accuracy (w spaces): 0.818056
+2019-08-01 00:03:45,224 root  INFO     Accuracy (w/o spaces): 0.835000
+2019-08-01 00:03:45,224 root  INFO     Edit Dist (w spaces): 0.911431
+2019-08-01 00:03:45,224 root  INFO     Total Correct (w spaces): 2945
+2019-08-01 00:03:45,224 root  INFO     Total Correct (w/o spaces): 3006
+2019-08-01 00:03:45,224 root  INFO     Total Edit Dist (w spaces): 173242
+2019-08-01 00:03:45,224 root  INFO     Total Ref (w spaces): 1956006
+2019-08-01 00:03:45,224 root  INFO
+2019-08-01 00:04:15,620 root  INFO     Total Num: 3700
+2019-08-01 00:04:15,620 root  INFO     Accuracy (w spaces): 0.816757
+2019-08-01 00:04:15,621 root  INFO     Accuracy (w/o spaces): 0.833784
+2019-08-01 00:04:15,621 root  INFO     Edit Dist (w spaces): 0.911570
+2019-08-01 00:04:15,621 root  INFO     Total Correct (w spaces): 3022
+2019-08-01 00:04:15,621 root  INFO     Total Correct (w/o spaces): 3085
+2019-08-01 00:04:15,621 root  INFO     Total Edit Dist (w spaces): 178321
+2019-08-01 00:04:15,621 root  INFO     Total Ref (w spaces): 2016521
+2019-08-01 00:04:15,621 root  INFO
+2019-08-01 00:04:39,553 root  INFO     Total Num: 3800
+2019-08-01 00:04:39,554 root  INFO     Accuracy (w spaces): 0.816579
+2019-08-01 00:04:39,554 root  INFO     Accuracy (w/o spaces): 0.833421
+2019-08-01 00:04:39,554 root  INFO     Edit Dist (w spaces): 0.911313
+2019-08-01 00:04:39,554 root  INFO     Total Correct (w spaces): 3103
+2019-08-01 00:04:39,554 root  INFO     Total Correct (w/o spaces): 3167
+2019-08-01 00:04:39,554 root  INFO     Total Edit Dist (w spaces): 183367
+2019-08-01 00:04:39,554 root  INFO     Total Ref (w spaces): 2067571
+2019-08-01 00:04:39,554 root  INFO
+2019-08-01 00:05:03,865 root  INFO     Total Num: 3900
+2019-08-01 00:05:03,866 root  INFO     Accuracy (w spaces): 0.817179
+2019-08-01 00:05:03,866 root  INFO     Accuracy (w/o spaces): 0.834103
+2019-08-01 00:05:03,866 root  INFO     Edit Dist (w spaces): 0.910873
+2019-08-01 00:05:03,866 root  INFO     Total Correct (w spaces): 3187
+2019-08-01 00:05:03,866 root  INFO     Total Correct (w/o spaces): 3253
+2019-08-01 00:05:03,866 root  INFO     Total Edit Dist (w spaces): 188706
+2019-08-01 00:05:03,866 root  INFO     Total Ref (w spaces): 2117270
+2019-08-01 00:05:03,866 root  INFO
+2019-08-01 00:05:32,597 root  INFO     Total Num: 4000
+2019-08-01 00:05:32,598 root  INFO     Accuracy (w spaces): 0.817500
+2019-08-01 00:05:32,598 root  INFO     Accuracy (w/o spaces): 0.834500
+2019-08-01 00:05:32,598 root  INFO     Edit Dist (w spaces): 0.910822
+2019-08-01 00:05:32,598 root  INFO     Total Correct (w spaces): 3270
+2019-08-01 00:05:32,598 root  INFO     Total Correct (w/o spaces): 3338
+2019-08-01 00:05:32,598 root  INFO     Total Edit Dist (w spaces): 193805
+2019-08-01 00:05:32,598 root  INFO     Total Ref (w spaces): 2173241
+2019-08-01 00:05:32,599 root  INFO
+2019-08-01 00:06:04,142 root  INFO     Total Num: 4100
+2019-08-01 00:06:04,143 root  INFO     Accuracy (w spaces): 0.817073
+2019-08-01 00:06:04,143 root  INFO     Accuracy (w/o spaces): 0.834146
+2019-08-01 00:06:04,143 root  INFO     Edit Dist (w spaces): 0.911194
+2019-08-01 00:06:04,143 root  INFO     Total Correct (w spaces): 3350
+2019-08-01 00:06:04,143 root  INFO     Total Correct (w/o spaces): 3420
+2019-08-01 00:06:04,143 root  INFO     Total Edit Dist (w spaces): 198253
+2019-08-01 00:06:04,143 root  INFO     Total Ref (w spaces): 2232434
+2019-08-01 00:06:04,143 root  INFO
+2019-08-01 00:06:33,554 root  INFO     Total Num: 4200
+2019-08-01 00:06:33,555 root  INFO     Accuracy (w spaces): 0.817619
+2019-08-01 00:06:33,555 root  INFO     Accuracy (w/o spaces): 0.834524
+2019-08-01 00:06:33,555 root  INFO     Edit Dist (w spaces): 0.911330
+2019-08-01 00:06:33,556 root  INFO     Total Correct (w spaces): 3434
+2019-08-01 00:06:33,556 root  INFO     Total Correct (w/o spaces): 3505
+2019-08-01 00:06:33,556 root  INFO     Total Edit Dist (w spaces): 203164
+2019-08-01 00:06:33,556 root  INFO     Total Ref (w spaces): 2291228
+2019-08-01 00:06:33,556 root  INFO
+2019-08-01 00:07:02,516 root  INFO     Total Num: 4300
+2019-08-01 00:07:02,516 root  INFO     Accuracy (w spaces): 0.815814
+2019-08-01 00:07:02,516 root  INFO     Accuracy (w/o spaces): 0.833023
+2019-08-01 00:07:02,517 root  INFO     Edit Dist (w spaces): 0.910102
+2019-08-01 00:07:02,517 root  INFO     Total Correct (w spaces): 3508
+2019-08-01 00:07:02,517 root  INFO     Total Correct (w/o spaces): 3582
+2019-08-01 00:07:02,517 root  INFO     Total Edit Dist (w spaces): 211371
+2019-08-01 00:07:02,517 root  INFO     Total Ref (w spaces): 2351238
+2019-08-01 00:07:02,517 root  INFO
+2019-08-01 00:07:34,913 root  INFO     Total Num: 4400
+2019-08-01 00:07:34,914 root  INFO     Accuracy (w spaces): 0.815000
+2019-08-01 00:07:34,914 root  INFO     Accuracy (w/o spaces): 0.833182
+2019-08-01 00:07:34,914 root  INFO     Edit Dist (w spaces): 0.909499
+2019-08-01 00:07:34,914 root  INFO     Total Correct (w spaces): 3586
+2019-08-01 00:07:34,914 root  INFO     Total Correct (w/o spaces): 3666
+2019-08-01 00:07:34,914 root  INFO     Total Edit Dist (w spaces): 217794
+2019-08-01 00:07:34,914 root  INFO     Total Ref (w spaces): 2406544
+2019-08-01 00:07:34,914 root  INFO
+2019-08-01 00:08:03,886 root  INFO     Total Num: 4500
+2019-08-01 00:08:03,887 root  INFO     Accuracy (w spaces): 0.814000
+2019-08-01 00:08:03,887 root  INFO     Accuracy (w/o spaces): 0.832667
+2019-08-01 00:08:03,887 root  INFO     Edit Dist (w spaces): 0.909733
+2019-08-01 00:08:03,887 root  INFO     Total Correct (w spaces): 3663
+2019-08-01 00:08:03,887 root  INFO     Total Correct (w/o spaces): 3747
+2019-08-01 00:08:03,887 root  INFO     Total Edit Dist (w spaces): 222535
+2019-08-01 00:08:03,887 root  INFO     Total Ref (w spaces): 2465307
+2019-08-01 00:08:03,887 root  INFO
+2019-08-01 00:08:40,083 root  INFO     Total Num: 4600
+2019-08-01 00:08:40,083 root  INFO     Accuracy (w spaces): 0.812391
+2019-08-01 00:08:40,084 root  INFO     Accuracy (w/o spaces): 0.831304
+2019-08-01 00:08:40,084 root  INFO     Edit Dist (w spaces): 0.907545
+2019-08-01 00:08:40,084 root  INFO     Total Correct (w spaces): 3737
+2019-08-01 00:08:40,084 root  INFO     Total Correct (w/o spaces): 3824
+2019-08-01 00:08:40,084 root  INFO     Total Edit Dist (w spaces): 233147
+2019-08-01 00:08:40,084 root  INFO     Total Ref (w spaces): 2521724
+2019-08-01 00:08:40,084 root  INFO
+2019-08-01 00:09:05,177 root  INFO     Total Num: 4700
+2019-08-01 00:09:05,177 root  INFO     Accuracy (w spaces): 0.812128
+2019-08-01 00:09:05,177 root  INFO     Accuracy (w/o spaces): 0.831277
+2019-08-01 00:09:05,177 root  INFO     Edit Dist (w spaces): 0.907117
+2019-08-01 00:09:05,178 root  INFO     Total Correct (w spaces): 3817
+2019-08-01 00:09:05,178 root  INFO     Total Correct (w/o spaces): 3907
+2019-08-01 00:09:05,178 root  INFO     Total Edit Dist (w spaces): 239061
+2019-08-01 00:09:05,178 root  INFO     Total Ref (w spaces): 2573792
+2019-08-01 00:09:05,178 root  INFO
+2019-08-01 00:09:33,902 root  INFO     Total Num: 4800
+2019-08-01 00:09:33,903 root  INFO     Accuracy (w spaces): 0.811875
+2019-08-01 00:09:33,903 root  INFO     Accuracy (w/o spaces): 0.831042
+2019-08-01 00:09:33,903 root  INFO     Edit Dist (w spaces): 0.906626
+2019-08-01 00:09:33,903 root  INFO     Total Correct (w spaces): 3897
+2019-08-01 00:09:33,903 root  INFO     Total Correct (w/o spaces): 3989
+2019-08-01 00:09:33,903 root  INFO     Total Edit Dist (w spaces): 245523
+2019-08-01 00:09:33,903 root  INFO     Total Ref (w spaces): 2629450
+2019-08-01 00:09:33,903 root  INFO
+2019-08-01 00:09:50,576 root  INFO     Total Num: 4900
+2019-08-01 00:09:50,577 root  INFO     Accuracy (w spaces): 0.813265
+2019-08-01 00:09:50,577 root  INFO     Accuracy (w/o spaces): 0.832041
+2019-08-01 00:09:50,577 root  INFO     Edit Dist (w spaces): 0.906654
+2019-08-01 00:09:50,577 root  INFO     Total Correct (w spaces): 3985
+2019-08-01 00:09:50,577 root  INFO     Total Correct (w/o spaces): 4077
+2019-08-01 00:09:50,577 root  INFO     Total Edit Dist (w spaces): 250407
+2019-08-01 00:09:50,577 root  INFO     Total Ref (w spaces): 2682575
+2019-08-01 00:09:50,577 root  INFO
+2019-08-01 00:10:20,392 root  INFO     Total Num: 5000
+2019-08-01 00:10:20,393 root  INFO     Accuracy (w spaces): 0.814000
+2019-08-01 00:10:20,393 root  INFO     Accuracy (w/o spaces): 0.832400
+2019-08-01 00:10:20,393 root  INFO     Edit Dist (w spaces): 0.906766
+2019-08-01 00:10:20,393 root  INFO     Total Correct (w spaces): 4070
+2019-08-01 00:10:20,393 root  INFO     Total Correct (w/o spaces): 4162
+2019-08-01 00:10:20,393 root  INFO     Total Edit Dist (w spaces): 255513
+2019-08-01 00:10:20,393 root  INFO     Total Ref (w spaces): 2740550
+2019-08-01 00:10:20,393 root  INFO
+2019-08-01 00:10:43,920 root  INFO     Total Num: 5100
+2019-08-01 00:10:43,921 root  INFO     Accuracy (w spaces): 0.813725
+2019-08-01 00:10:43,921 root  INFO     Accuracy (w/o spaces): 0.832157
+2019-08-01 00:10:43,921 root  INFO     Edit Dist (w spaces): 0.907233
+2019-08-01 00:10:43,921 root  INFO     Total Correct (w spaces): 4150
+2019-08-01 00:10:43,921 root  INFO     Total Correct (w/o spaces): 4244
+2019-08-01 00:10:43,921 root  INFO     Total Edit Dist (w spaces): 259449
+2019-08-01 00:10:43,921 root  INFO     Total Ref (w spaces): 2796777
+2019-08-01 00:10:43,921 root  INFO
+2019-08-01 00:11:08,266 root  INFO     Total Num: 5200
+2019-08-01 00:11:08,267 root  INFO     Accuracy (w spaces): 0.813846
+2019-08-01 00:11:08,267 root  INFO     Accuracy (w/o spaces): 0.832308
+2019-08-01 00:11:08,267 root  INFO     Edit Dist (w spaces): 0.907934
+2019-08-01 00:11:08,267 root  INFO     Total Correct (w spaces): 4232
+2019-08-01 00:11:08,267 root  INFO     Total Correct (w/o spaces): 4328
+2019-08-01 00:11:08,267 root  INFO     Total Edit Dist (w spaces): 262516
+2019-08-01 00:11:08,267 root  INFO     Total Ref (w spaces): 2851398
+2019-08-01 00:11:08,268 root  INFO
+2019-08-01 00:11:28,934 root  INFO     Total Num: 5300
+2019-08-01 00:11:28,935 root  INFO     Accuracy (w spaces): 0.813962
+2019-08-01 00:11:28,935 root  INFO     Accuracy (w/o spaces): 0.832830
+2019-08-01 00:11:28,936 root  INFO     Edit Dist (w spaces): 0.908183
+2019-08-01 00:11:28,936 root  INFO     Total Correct (w spaces): 4314
+2019-08-01 00:11:28,936 root  INFO     Total Correct (w/o spaces): 4414
+2019-08-01 00:11:28,936 root  INFO     Total Edit Dist (w spaces): 266525
+2019-08-01 00:11:28,936 root  INFO     Total Ref (w spaces): 2902787
+2019-08-01 00:11:28,936 root  INFO
+2019-08-01 00:11:50,401 root  INFO     Total Num: 5400
+2019-08-01 00:11:50,402 root  INFO     Accuracy (w spaces): 0.813889
+2019-08-01 00:11:50,402 root  INFO     Accuracy (w/o spaces): 0.832407
+2019-08-01 00:11:50,402 root  INFO     Edit Dist (w spaces): 0.907678
+2019-08-01 00:11:50,402 root  INFO     Total Correct (w spaces): 4395
+2019-08-01 00:11:50,402 root  INFO     Total Correct (w/o spaces): 4495
+2019-08-01 00:11:50,402 root  INFO     Total Edit Dist (w spaces): 273063
+2019-08-01 00:11:50,402 root  INFO     Total Ref (w spaces): 2957725
+2019-08-01 00:11:50,402 root  INFO
+2019-08-01 00:12:17,964 root  INFO     Total Num: 5500
+2019-08-01 00:12:17,965 root  INFO     Accuracy (w spaces): 0.812909
+2019-08-01 00:12:17,965 root  INFO     Accuracy (w/o spaces): 0.831455
+2019-08-01 00:12:17,966 root  INFO     Edit Dist (w spaces): 0.906829
+2019-08-01 00:12:17,966 root  INFO     Total Correct (w spaces): 4471
+2019-08-01 00:12:17,966 root  INFO     Total Correct (w/o spaces): 4573
+2019-08-01 00:12:17,966 root  INFO     Total Edit Dist (w spaces): 280742
+2019-08-01 00:12:17,966 root  INFO     Total Ref (w spaces): 3013202
+2019-08-01 00:12:17,966 root  INFO
+2019-08-01 00:12:44,478 root  INFO     Total Num: 5600
+2019-08-01 00:12:44,479 root  INFO     Accuracy (w spaces): 0.813214
+2019-08-01 00:12:44,479 root  INFO     Accuracy (w/o spaces): 0.831607
+2019-08-01 00:12:44,479 root  INFO     Edit Dist (w spaces): 0.907405
+2019-08-01 00:12:44,479 root  INFO     Total Correct (w spaces): 4554
+2019-08-01 00:12:44,479 root  INFO     Total Correct (w/o spaces): 4657
+2019-08-01 00:12:44,479 root  INFO     Total Edit Dist (w spaces): 284175
+2019-08-01 00:12:44,479 root  INFO     Total Ref (w spaces): 3069015
+2019-08-01 00:12:44,479 root  INFO
+2019-08-01 00:13:20,582 root  INFO     Total Num: 5700
+2019-08-01 00:13:20,583 root  INFO     Accuracy (w spaces): 0.812807
+2019-08-01 00:13:20,583 root  INFO     Accuracy (w/o spaces): 0.831754
+2019-08-01 00:13:20,583 root  INFO     Edit Dist (w spaces): 0.907730
+2019-08-01 00:13:20,583 root  INFO     Total Correct (w spaces): 4633
+2019-08-01 00:13:20,583 root  INFO     Total Correct (w/o spaces): 4741
+2019-08-01 00:13:20,583 root  INFO     Total Edit Dist (w spaces): 288590
+2019-08-01 00:13:20,583 root  INFO     Total Ref (w spaces): 3127657
+2019-08-01 00:13:20,583 root  INFO
+2019-08-01 00:13:43,757 root  INFO     Total Num: 5800
+2019-08-01 00:13:43,758 root  INFO     Accuracy (w spaces): 0.812414
+2019-08-01 00:13:43,758 root  INFO     Accuracy (w/o spaces): 0.831552
+2019-08-01 00:13:43,758 root  INFO     Edit Dist (w spaces): 0.907560
+2019-08-01 00:13:43,758 root  INFO     Total Correct (w spaces): 4712
+2019-08-01 00:13:43,758 root  INFO     Total Correct (w/o spaces): 4823
+2019-08-01 00:13:43,758 root  INFO     Total Edit Dist (w spaces): 294064
+2019-08-01 00:13:43,758 root  INFO     Total Ref (w spaces): 3181142
+2019-08-01 00:13:43,758 root  INFO
+2019-08-01 00:14:10,229 root  INFO     Total Num: 5900
+2019-08-01 00:14:10,230 root  INFO     Accuracy (w spaces): 0.811186
+2019-08-01 00:14:10,231 root  INFO     Accuracy (w/o spaces): 0.831186
+2019-08-01 00:14:10,231 root  INFO     Edit Dist (w spaces): 0.907690
+2019-08-01 00:14:10,231 root  INFO     Total Correct (w spaces): 4786
+2019-08-01 00:14:10,231 root  INFO     Total Correct (w/o spaces): 4904
+2019-08-01 00:14:10,231 root  INFO     Total Edit Dist (w spaces): 298727
+2019-08-01 00:14:10,231 root  INFO     Total Ref (w spaces): 3236123
+2019-08-01 00:14:10,231 root  INFO
+2019-08-01 00:14:35,958 root  INFO     Total Num: 6000
+2019-08-01 00:14:35,959 root  INFO     Accuracy (w spaces): 0.809667
+2019-08-01 00:14:35,959 root  INFO     Accuracy (w/o spaces): 0.829667
+2019-08-01 00:14:35,959 root  INFO     Edit Dist (w spaces): 0.906734
+2019-08-01 00:14:35,959 root  INFO     Total Correct (w spaces): 4858
+2019-08-01 00:14:35,959 root  INFO     Total Correct (w/o spaces): 4978
+2019-08-01 00:14:35,959 root  INFO     Total Edit Dist (w spaces): 306705
+2019-08-01 00:14:35,959 root  INFO     Total Ref (w spaces): 3288511
+2019-08-01 00:14:35,959 root  INFO
+        2019-08-01 00:15:02,401 root  INFO     Total Num: 6100
+2019-08-01 00:15:02,402 root  INFO     Accuracy (w spaces): 0.809672
+2019-08-01 00:15:02,402 root  INFO     Accuracy (w/o spaces): 0.829508
+2019-08-01 00:15:02,402 root  INFO     Edit Dist (w spaces): 0.907409
+2019-08-01 00:15:02,402 root  INFO     Total Correct (w spaces): 4939
+2019-08-01 00:15:02,402 root  INFO     Total Correct (w/o spaces): 5060
+2019-08-01 00:15:02,402 root  INFO     Total Edit Dist (w spaces): 309612
+2019-08-01 00:15:02,402 root  INFO     Total Ref (w spaces): 3343856
+2019-08-01 00:15:02,402 root  INFO
+2019-08-01 00:15:25,707 root  INFO     Total Num: 6200
+2019-08-01 00:15:25,708 root  INFO     Accuracy (w spaces): 0.809194
+2019-08-01 00:15:25,708 root  INFO     Accuracy (w/o spaces): 0.828871
+2019-08-01 00:15:25,708 root  INFO     Edit Dist (w spaces): 0.907163
+2019-08-01 00:15:25,708 root  INFO     Total Correct (w spaces): 5017
+2019-08-01 00:15:25,708 root  INFO     Total Correct (w/o spaces): 5139
+2019-08-01 00:15:25,708 root  INFO     Total Edit Dist (w spaces): 315153
+2019-08-01 00:15:25,708 root  INFO     Total Ref (w spaces): 3394701
+2019-08-01 00:15:25,708 root  INFO
+2019-08-01 00:15:45,895 root  INFO     Total Num: 6300
+2019-08-01 00:15:45,896 root  INFO     Accuracy (w spaces): 0.809365
+2019-08-01 00:15:45,896 root  INFO     Accuracy (w/o spaces): 0.829365
+2019-08-01 00:15:45,896 root  INFO     Edit Dist (w spaces): 0.907588
+2019-08-01 00:15:45,896 root  INFO     Total Correct (w spaces): 5099
+2019-08-01 00:15:45,896 root  INFO     Total Correct (w/o spaces): 5225
+2019-08-01 00:15:45,896 root  INFO     Total Edit Dist (w spaces): 318614
+2019-08-01 00:15:45,896 root  INFO     Total Ref (w spaces): 3447752
+2019-08-01 00:15:45,896 root  INFO
+2019-08-01 00:16:09,165 root  INFO     Total Num: 6400
+2019-08-01 00:16:09,166 root  INFO     Accuracy (w spaces): 0.809688
+2019-08-01 00:16:09,166 root  INFO     Accuracy (w/o spaces): 0.829844
+2019-08-01 00:16:09,166 root  INFO     Edit Dist (w spaces): 0.908065
+2019-08-01 00:16:09,166 root  INFO     Total Correct (w spaces): 5182
+2019-08-01 00:16:09,166 root  INFO     Total Correct (w/o spaces): 5311
+2019-08-01 00:16:09,166 root  INFO     Total Edit Dist (w spaces): 322049
+2019-08-01 00:16:09,166 root  INFO     Total Ref (w spaces): 3502998
+2019-08-01 00:16:09,166 root  INFO
+2019-08-01 00:16:38,677 root  INFO     Total Num: 6500
+2019-08-01 00:16:38,678 root  INFO     Accuracy (w spaces): 0.809385
+2019-08-01 00:16:38,678 root  INFO     Accuracy (w/o spaces): 0.829385
+2019-08-01 00:16:38,678 root  INFO     Edit Dist (w spaces): 0.907136
+2019-08-01 00:16:38,678 root  INFO     Total Correct (w spaces): 5261
+2019-08-01 00:16:38,678 root  INFO     Total Correct (w/o spaces): 5391
+2019-08-01 00:16:38,678 root  INFO     Total Edit Dist (w spaces): 330449
+2019-08-01 00:16:38,678 root  INFO     Total Ref (w spaces): 3558401
+2019-08-01 00:16:38,678 root  INFO
+2019-08-01 00:16:59,901 root  INFO     Total Num: 6600
+2019-08-01 00:16:59,901 root  INFO     Accuracy (w spaces): 0.810152
+2019-08-01 00:16:59,901 root  INFO     Accuracy (w/o spaces): 0.830303
+2019-08-01 00:16:59,901 root  INFO     Edit Dist (w spaces): 0.906937
+2019-08-01 00:16:59,902 root  INFO     Total Correct (w spaces): 5347
+2019-08-01 00:16:59,902 root  INFO     Total Correct (w/o spaces): 5480
+2019-08-01 00:16:59,902 root  INFO     Total Edit Dist (w spaces): 336114
+2019-08-01 00:16:59,902 root  INFO     Total Ref (w spaces): 3611698
+2019-08-01 00:16:59,902 root  INFO
+2019-08-01 00:17:37,185 root  INFO     Total Num: 6700
+2019-08-01 00:17:37,186 root  INFO     Accuracy (w spaces): 0.809701
+2019-08-01 00:17:37,186 root  INFO     Accuracy (w/o spaces): 0.829552
+2019-08-01 00:17:37,186 root  INFO     Edit Dist (w spaces): 0.906497
+2019-08-01 00:17:37,186 root  INFO     Total Correct (w spaces): 5425
+2019-08-01 00:17:37,186 root  INFO     Total Correct (w/o spaces): 5558
+2019-08-01 00:17:37,186 root  INFO     Total Edit Dist (w spaces): 342686
+2019-08-01 00:17:37,186 root  INFO     Total Ref (w spaces): 3664967
+2019-08-01 00:17:37,187 root  INFO
+2019-08-01 00:18:01,354 root  INFO     Total Num: 6800
+2019-08-01 00:18:01,355 root  INFO     Accuracy (w spaces): 0.808971
+2019-08-01 00:18:01,355 root  INFO     Accuracy (w/o spaces): 0.829118
+2019-08-01 00:18:01,355 root  INFO     Edit Dist (w spaces): 0.906640
+2019-08-01 00:18:01,355 root  INFO     Total Correct (w spaces): 5501
+2019-08-01 00:18:01,355 root  INFO     Total Correct (w/o spaces): 5638
+2019-08-01 00:18:01,355 root  INFO     Total Edit Dist (w spaces): 347283
+2019-08-01 00:18:01,355 root  INFO     Total Ref (w spaces): 3719830
+2019-08-01 00:18:01,355 root  INFO
+2019-08-01 00:18:30,106 root  INFO     Total Num: 6900
+2019-08-01 00:18:30,106 root  INFO     Accuracy (w spaces): 0.809565
+2019-08-01 00:18:30,107 root  INFO     Accuracy (w/o spaces): 0.829710
+2019-08-01 00:18:30,107 root  INFO     Edit Dist (w spaces): 0.906866
+2019-08-01 00:18:30,107 root  INFO     Total Correct (w spaces): 5586
+2019-08-01 00:18:30,107 root  INFO     Total Correct (w/o spaces): 5725
+2019-08-01 00:18:30,107 root  INFO     Total Edit Dist (w spaces): 351636
+2019-08-01 00:18:30,107 root  INFO     Total Ref (w spaces): 3775588
+2019-08-01 00:18:30,107 root  INFO
+2019-08-01 00:18:51,513 root  INFO     Total Num: 7000
+2019-08-01 00:18:51,514 root  INFO     Accuracy (w spaces): 0.809000
+2019-08-01 00:18:51,515 root  INFO     Accuracy (w/o spaces): 0.828857
+2019-08-01 00:18:51,515 root  INFO     Edit Dist (w spaces): 0.906883
+2019-08-01 00:18:51,515 root  INFO     Total Correct (w spaces): 5663
+2019-08-01 00:18:51,515 root  INFO     Total Correct (w/o spaces): 5802
+2019-08-01 00:18:51,515 root  INFO     Total Edit Dist (w spaces): 356329
+2019-08-01 00:18:51,515 root  INFO     Total Ref (w spaces): 3826694
+2019-08-01 00:18:51,515 root  INFO
+2019-08-01 00:19:20,952 root  INFO     Total Num: 7100
+2019-08-01 00:19:20,952 root  INFO     Accuracy (w spaces): 0.809577
+2019-08-01 00:19:20,953 root  INFO     Accuracy (w/o spaces): 0.829296
+2019-08-01 00:19:20,953 root  INFO     Edit Dist (w spaces): 0.906731
+2019-08-01 00:19:20,953 root  INFO     Total Correct (w spaces): 5748
+2019-08-01 00:19:20,953 root  INFO     Total Correct (w/o spaces): 5888
+2019-08-01 00:19:20,953 root  INFO     Total Edit Dist (w spaces): 362002
+2019-08-01 00:19:20,953 root  INFO     Total Ref (w spaces): 3881259
+2019-08-01 00:19:20,953 root  INFO
+2019-08-01 00:19:47,733 root  INFO     Total Num: 7200
+2019-08-01 00:19:47,734 root  INFO     Accuracy (w spaces): 0.810000
+2019-08-01 00:19:47,734 root  INFO     Accuracy (w/o spaces): 0.829583
+2019-08-01 00:19:47,734 root  INFO     Edit Dist (w spaces): 0.906822
+2019-08-01 00:19:47,734 root  INFO     Total Correct (w spaces): 5832
+2019-08-01 00:19:47,734 root  INFO     Total Correct (w/o spaces): 5973
+2019-08-01 00:19:47,734 root  INFO     Total Edit Dist (w spaces): 366760
+2019-08-01 00:19:47,734 root  INFO     Total Ref (w spaces): 3936136
+2019-08-01 00:19:47,734 root  INFO
+2019-08-01 00:20:14,443 root  INFO     Total Num: 7300
+2019-08-01 00:20:14,443 root  INFO     Accuracy (w spaces): 0.809726
+2019-08-01 00:20:14,443 root  INFO     Accuracy (w/o spaces): 0.830137
+2019-08-01 00:20:14,444 root  INFO     Edit Dist (w spaces): 0.906627
+2019-08-01 00:20:14,444 root  INFO     Total Correct (w spaces): 5911
+2019-08-01 00:20:14,444 root  INFO     Total Correct (w/o spaces): 6060
+2019-08-01 00:20:14,444 root  INFO     Total Edit Dist (w spaces): 372426
+2019-08-01 00:20:14,444 root  INFO     Total Ref (w spaces): 3988584
+2019-08-01 00:20:14,444 root  INFO
+2019-08-01 00:20:52,558 root  INFO     Total Num: 7400
+2019-08-01 00:20:52,558 root  INFO     Accuracy (w spaces): 0.808919
+2019-08-01 00:20:52,558 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:20:52,559 root  INFO     Edit Dist (w spaces): 0.906795
+2019-08-01 00:20:52,559 root  INFO     Total Correct (w spaces): 5986
+2019-08-01 00:20:52,559 root  INFO     Total Correct (w/o spaces): 6142
+2019-08-01 00:20:52,559 root  INFO     Total Edit Dist (w spaces): 377294
+2019-08-01 00:20:52,559 root  INFO     Total Ref (w spaces): 4048017
+2019-08-01 00:20:52,559 root  INFO
+2019-08-01 00:21:17,493 root  INFO     Total Num: 7500
+2019-08-01 00:21:17,494 root  INFO     Accuracy (w spaces): 0.808533
+2019-08-01 00:21:17,494 root  INFO     Accuracy (w/o spaces): 0.829467
+2019-08-01 00:21:17,494 root  INFO     Edit Dist (w spaces): 0.906534
+2019-08-01 00:21:17,494 root  INFO     Total Correct (w spaces): 6064
+2019-08-01 00:21:17,494 root  INFO     Total Correct (w/o spaces): 6221
+2019-08-01 00:21:17,494 root  INFO     Total Edit Dist (w spaces): 383534
+2019-08-01 00:21:17,494 root  INFO     Total Ref (w spaces): 4103479
+2019-08-01 00:21:17,494 root  INFO
+2019-08-01 00:21:44,896 root  INFO     Total Num: 7600
+2019-08-01 00:21:44,897 root  INFO     Accuracy (w spaces): 0.808684
+2019-08-01 00:21:44,897 root  INFO     Accuracy (w/o spaces): 0.829868
+2019-08-01 00:21:44,897 root  INFO     Edit Dist (w spaces): 0.906812
+2019-08-01 00:21:44,897 root  INFO     Total Correct (w spaces): 6146
+2019-08-01 00:21:44,897 root  INFO     Total Correct (w/o spaces): 6307
+2019-08-01 00:21:44,897 root  INFO     Total Edit Dist (w spaces): 387398
+2019-08-01 00:21:44,897 root  INFO     Total Ref (w spaces): 4157156
+2019-08-01 00:21:44,897 root  INFO
+2019-08-01 00:22:16,521 root  INFO     Total Num: 7700
+2019-08-01 00:22:16,522 root  INFO     Accuracy (w spaces): 0.809221
+2019-08-01 00:22:16,523 root  INFO     Accuracy (w/o spaces): 0.830130
+2019-08-01 00:22:16,523 root  INFO     Edit Dist (w spaces): 0.906942
+2019-08-01 00:22:16,523 root  INFO     Total Correct (w spaces): 6231
+2019-08-01 00:22:16,523 root  INFO     Total Correct (w/o spaces): 6392
+2019-08-01 00:22:16,523 root  INFO     Total Edit Dist (w spaces): 392159
+2019-08-01 00:22:16,523 root  INFO     Total Ref (w spaces): 4214113
+2019-08-01 00:22:16,523 root  INFO
+2019-08-01 00:22:46,129 root  INFO     Total Num: 7800
+2019-08-01 00:22:46,130 root  INFO     Accuracy (w spaces): 0.809359
+2019-08-01 00:22:46,130 root  INFO     Accuracy (w/o spaces): 0.830385
+2019-08-01 00:22:46,130 root  INFO     Edit Dist (w spaces): 0.907007
+2019-08-01 00:22:46,130 root  INFO     Total Correct (w spaces): 6313
+2019-08-01 00:22:46,130 root  INFO     Total Correct (w/o spaces): 6477
+2019-08-01 00:22:46,130 root  INFO     Total Edit Dist (w spaces): 396989
+2019-08-01 00:22:46,130 root  INFO     Total Ref (w spaces): 4269003
+2019-08-01 00:22:46,130 root  INFO
+2019-08-01 00:23:09,725 root  INFO     Total Num: 7900
+2019-08-01 00:23:09,726 root  INFO     Accuracy (w spaces): 0.808987
+2019-08-01 00:23:09,726 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:23:09,726 root  INFO     Edit Dist (w spaces): 0.907300
+2019-08-01 00:23:09,726 root  INFO     Total Correct (w spaces): 6391
+2019-08-01 00:23:09,726 root  INFO     Total Correct (w/o spaces): 6557
+2019-08-01 00:23:09,726 root  INFO     Total Edit Dist (w spaces): 400790
+2019-08-01 00:23:09,726 root  INFO     Total Ref (w spaces): 4323516
+2019-08-01 00:23:09,726 root  INFO
+2019-08-01 00:23:43,538 root  INFO     Total Num: 8000
+2019-08-01 00:23:43,539 root  INFO     Accuracy (w spaces): 0.808625
+2019-08-01 00:23:43,539 root  INFO     Accuracy (w/o spaces): 0.829750
+2019-08-01 00:23:43,539 root  INFO     Edit Dist (w spaces): 0.907443
+2019-08-01 00:23:43,539 root  INFO     Total Correct (w spaces): 6469
+2019-08-01 00:23:43,539 root  INFO     Total Correct (w/o spaces): 6638
+2019-08-01 00:23:43,539 root  INFO     Total Edit Dist (w spaces): 405595
+2019-08-01 00:23:43,539 root  INFO     Total Ref (w spaces): 4382088
+2019-08-01 00:23:43,539 root  INFO
+2019-08-01 00:24:12,381 root  INFO     Total Num: 8100
+2019-08-01 00:24:12,382 root  INFO     Accuracy (w spaces): 0.808148
+2019-08-01 00:24:12,382 root  INFO     Accuracy (w/o spaces): 0.829383
+2019-08-01 00:24:12,382 root  INFO     Edit Dist (w spaces): 0.907140
+2019-08-01 00:24:12,382 root  INFO     Total Correct (w spaces): 6546
+2019-08-01 00:24:12,382 root  INFO     Total Correct (w/o spaces): 6718
+2019-08-01 00:24:12,382 root  INFO     Total Edit Dist (w spaces): 411833
+2019-08-01 00:24:12,382 root  INFO     Total Ref (w spaces): 4434997
+2019-08-01 00:24:12,383 root  INFO
+2019-08-01 00:24:36,586 root  INFO     Total Num: 8200
+2019-08-01 00:24:36,587 root  INFO     Accuracy (w spaces): 0.807927
+2019-08-01 00:24:36,587 root  INFO     Accuracy (w/o spaces): 0.829390
+2019-08-01 00:24:36,587 root  INFO     Edit Dist (w spaces): 0.907197
+2019-08-01 00:24:36,587 root  INFO     Total Correct (w spaces): 6625
+2019-08-01 00:24:36,587 root  INFO     Total Correct (w/o spaces): 6801
+2019-08-01 00:24:36,587 root  INFO     Total Edit Dist (w spaces): 416431
+2019-08-01 00:24:36,587 root  INFO     Total Ref (w spaces): 4487258
+2019-08-01 00:24:36,587 root  INFO
+2019-08-01 00:25:01,052 root  INFO     Total Num: 8300
+2019-08-01 00:25:01,052 root  INFO     Accuracy (w spaces): 0.807711
+2019-08-01 00:25:01,052 root  INFO     Accuracy (w/o spaces): 0.829398
+2019-08-01 00:25:01,053 root  INFO     Edit Dist (w spaces): 0.906876
+2019-08-01 00:25:01,053 root  INFO     Total Correct (w spaces): 6704
+2019-08-01 00:25:01,053 root  INFO     Total Correct (w/o spaces): 6884
+2019-08-01 00:25:01,053 root  INFO     Total Edit Dist (w spaces): 422847
+2019-08-01 00:25:01,053 root  INFO     Total Ref (w spaces): 4540704
+2019-08-01 00:25:01,053 root  INFO
+2019-08-01 00:25:39,992 root  INFO     Total Num: 8400
+2019-08-01 00:25:39,993 root  INFO     Accuracy (w spaces): 0.807976
+2019-08-01 00:25:39,993 root  INFO     Accuracy (w/o spaces): 0.829524
+2019-08-01 00:25:39,993 root  INFO     Edit Dist (w spaces): 0.906850
+2019-08-01 00:25:39,993 root  INFO     Total Correct (w spaces): 6787
+2019-08-01 00:25:39,993 root  INFO     Total Correct (w/o spaces): 6968
+2019-08-01 00:25:39,993 root  INFO     Total Edit Dist (w spaces): 428437
+2019-08-01 00:25:39,993 root  INFO     Total Ref (w spaces): 4599455
+2019-08-01 00:25:39,993 root  INFO
+2019-08-01 00:26:07,449 root  INFO     Total Num: 8500
+2019-08-01 00:26:07,450 root  INFO     Accuracy (w spaces): 0.807647
+2019-08-01 00:26:07,450 root  INFO     Accuracy (w/o spaces): 0.829294
+2019-08-01 00:26:07,450 root  INFO     Edit Dist (w spaces): 0.906544
+2019-08-01 00:26:07,450 root  INFO     Total Correct (w spaces): 6865
+2019-08-01 00:26:07,450 root  INFO     Total Correct (w/o spaces): 7049
+2019-08-01 00:26:07,450 root  INFO     Total Edit Dist (w spaces): 434973
+2019-08-01 00:26:07,450 root  INFO     Total Ref (w spaces): 4654304
+2019-08-01 00:26:07,450 root  INFO
+2019-08-01 00:26:25,681 root  INFO     Total Num: 8600
+2019-08-01 00:26:25,682 root  INFO     Accuracy (w spaces): 0.808372
+2019-08-01 00:26:25,682 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:26:25,682 root  INFO     Edit Dist (w spaces): 0.907036
+2019-08-01 00:26:25,682 root  INFO     Total Correct (w spaces): 6952
+2019-08-01 00:26:25,682 root  INFO     Total Correct (w/o spaces): 7138
+2019-08-01 00:26:25,682 root  INFO     Total Edit Dist (w spaces): 437550
+2019-08-01 00:26:25,682 root  INFO     Total Ref (w spaces): 4706647
+2019-08-01 00:26:25,682 root  INFO
+2019-08-01 00:26:56,577 root  INFO     Total Num: 8700
+2019-08-01 00:26:56,578 root  INFO     Accuracy (w spaces): 0.807816
+2019-08-01 00:26:56,578 root  INFO     Accuracy (w/o spaces): 0.829540
+2019-08-01 00:26:56,578 root  INFO     Edit Dist (w spaces): 0.907011
+2019-08-01 00:26:56,578 root  INFO     Total Correct (w spaces): 7028
+2019-08-01 00:26:56,578 root  INFO     Total Correct (w/o spaces): 7217
+2019-08-01 00:26:56,578 root  INFO     Total Edit Dist (w spaces): 443196
+2019-08-01 00:26:56,578 root  INFO     Total Ref (w spaces): 4766090
+2019-08-01 00:26:56,578 root  INFO
+2019-08-01 00:27:16,793 root  INFO     Total Num: 8800
+2019-08-01 00:27:16,794 root  INFO     Accuracy (w spaces): 0.808636
+2019-08-01 00:27:16,794 root  INFO     Accuracy (w/o spaces): 0.830114
+2019-08-01 00:27:16,794 root  INFO     Edit Dist (w spaces): 0.906995
+2019-08-01 00:27:16,794 root  INFO     Total Correct (w spaces): 7116
+2019-08-01 00:27:16,794 root  INFO     Total Correct (w/o spaces): 7305
+2019-08-01 00:27:16,794 root  INFO     Total Edit Dist (w spaces): 448433
+2019-08-01 00:27:16,794 root  INFO     Total Ref (w spaces): 4821614
+2019-08-01 00:27:16,794 root  INFO
+2019-08-01 00:27:44,636 root  INFO     Total Num: 8900
+2019-08-01 00:27:44,637 root  INFO     Accuracy (w spaces): 0.808876
+2019-08-01 00:27:44,637 root  INFO     Accuracy (w/o spaces): 0.830112
+2019-08-01 00:27:44,637 root  INFO     Edit Dist (w spaces): 0.906534
+2019-08-01 00:27:44,637 root  INFO     Total Correct (w spaces): 7199
+2019-08-01 00:27:44,637 root  INFO     Total Correct (w/o spaces): 7388
+2019-08-01 00:27:44,637 root  INFO     Total Edit Dist (w spaces): 455987
+2019-08-01 00:27:44,637 root  INFO     Total Ref (w spaces): 4878651
+2019-08-01 00:27:44,637 root  INFO
+2019-08-01 00:28:11,348 root  INFO     Total Num: 9000
+2019-08-01 00:28:11,349 root  INFO     Accuracy (w spaces): 0.808556
+2019-08-01 00:28:11,349 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:28:11,349 root  INFO     Edit Dist (w spaces): 0.906430
+2019-08-01 00:28:11,349 root  INFO     Total Correct (w spaces): 7277
+2019-08-01 00:28:11,349 root  INFO     Total Correct (w/o spaces): 7470
+2019-08-01 00:28:11,349 root  INFO     Total Edit Dist (w spaces): 461608
+2019-08-01 00:28:11,349 root  INFO     Total Ref (w spaces): 4933312
+2019-08-01 00:28:11,349 root  INFO
+2019-08-01 00:28:32,785 root  INFO     Total Num: 9100
+2019-08-01 00:28:32,786 root  INFO     Accuracy (w spaces): 0.808901
+2019-08-01 00:28:32,786 root  INFO     Accuracy (w/o spaces): 0.830220
+2019-08-01 00:28:32,786 root  INFO     Edit Dist (w spaces): 0.906221
+2019-08-01 00:28:32,786 root  INFO     Total Correct (w spaces): 7361
+2019-08-01 00:28:32,786 root  INFO     Total Correct (w/o spaces): 7555
+2019-08-01 00:28:32,786 root  INFO     Total Edit Dist (w spaces): 467773
+2019-08-01 00:28:32,786 root  INFO     Total Ref (w spaces): 4988044
+2019-08-01 00:28:32,786 root  INFO
+2019-08-01 00:28:58,669 root  INFO     Total Num: 9200
+2019-08-01 00:28:58,670 root  INFO     Accuracy (w spaces): 0.808804
+2019-08-01 00:28:58,670 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:28:58,670 root  INFO     Edit Dist (w spaces): 0.906274
+2019-08-01 00:28:58,670 root  INFO     Total Correct (w spaces): 7441
+2019-08-01 00:28:58,670 root  INFO     Total Correct (w/o spaces): 7636
+2019-08-01 00:28:58,670 root  INFO     Total Edit Dist (w spaces): 472625
+2019-08-01 00:28:58,670 root  INFO     Total Ref (w spaces): 5042606
+2019-08-01 00:28:58,670 root  INFO
+2019-08-01 00:29:24,991 root  INFO     Total Num: 9300
+2019-08-01 00:29:24,992 root  INFO     Accuracy (w spaces): 0.808710
+2019-08-01 00:29:24,992 root  INFO     Accuracy (w/o spaces): 0.830108
+2019-08-01 00:29:24,992 root  INFO     Edit Dist (w spaces): 0.906052
+2019-08-01 00:29:24,992 root  INFO     Total Correct (w spaces): 7521
+2019-08-01 00:29:24,992 root  INFO     Total Correct (w/o spaces): 7720
+2019-08-01 00:29:24,992 root  INFO     Total Edit Dist (w spaces): 479175
+2019-08-01 00:29:24,992 root  INFO     Total Ref (w spaces): 5100436
+2019-08-01 00:29:24,992 root  INFO
+2019-08-01 00:29:43,660 root  INFO     Total Num: 9400
+2019-08-01 00:29:43,662 root  INFO     Accuracy (w spaces): 0.808936
+2019-08-01 00:29:43,662 root  INFO     Accuracy (w/o spaces): 0.830319
+2019-08-01 00:29:43,662 root  INFO     Edit Dist (w spaces): 0.906203
+2019-08-01 00:29:43,662 root  INFO     Total Correct (w spaces): 7604
+2019-08-01 00:29:43,662 root  INFO     Total Correct (w/o spaces): 7805
+2019-08-01 00:29:43,662 root  INFO     Total Edit Dist (w spaces): 483069
+2019-08-01 00:29:43,662 root  INFO     Total Ref (w spaces): 5150154
+2019-08-01 00:29:43,662 root  INFO
+2019-08-01 00:30:04,351 root  INFO     Total Num: 9500
+2019-08-01 00:30:04,352 root  INFO     Accuracy (w spaces): 0.808947
+2019-08-01 00:30:04,352 root  INFO     Accuracy (w/o spaces): 0.830632
+2019-08-01 00:30:04,352 root  INFO     Edit Dist (w spaces): 0.906722
+2019-08-01 00:30:04,352 root  INFO     Total Correct (w spaces): 7685
+2019-08-01 00:30:04,352 root  INFO     Total Correct (w/o spaces): 7891
+2019-08-01 00:30:04,352 root  INFO     Total Edit Dist (w spaces): 485487
+2019-08-01 00:30:04,352 root  INFO     Total Ref (w spaces): 5204713
+2019-08-01 00:30:04,352 root  INFO
+2019-08-01 00:30:27,401 root  INFO     Total Num: 9600
+2019-08-01 00:30:27,402 root  INFO     Accuracy (w spaces): 0.809479
+2019-08-01 00:30:27,402 root  INFO     Accuracy (w/o spaces): 0.830937
+2019-08-01 00:30:27,402 root  INFO     Edit Dist (w spaces): 0.906807
+2019-08-01 00:30:27,402 root  INFO     Total Correct (w spaces): 7771
+2019-08-01 00:30:27,402 root  INFO     Total Correct (w/o spaces): 7977
+2019-08-01 00:30:27,402 root  INFO     Total Edit Dist (w spaces): 490341
+2019-08-01 00:30:27,402 root  INFO     Total Ref (w spaces): 5261552
+2019-08-01 00:30:27,402 root  INFO
+2019-08-01 00:30:51,715 root  INFO     Total Num: 9700
+2019-08-01 00:30:51,716 root  INFO     Accuracy (w spaces): 0.809794
+2019-08-01 00:30:51,716 root  INFO     Accuracy (w/o spaces): 0.831134
+2019-08-01 00:30:51,716 root  INFO     Edit Dist (w spaces): 0.907282
+2019-08-01 00:30:51,716 root  INFO     Total Correct (w spaces): 7855
+2019-08-01 00:30:51,716 root  INFO     Total Correct (w/o spaces): 8062
+2019-08-01 00:30:51,716 root  INFO     Total Edit Dist (w spaces): 492824
+2019-08-01 00:30:51,716 root  INFO     Total Ref (w spaces): 5315302
+2019-08-01 00:30:51,716 root  INFO
+2019-08-01 00:31:13,889 root  INFO     Total Num: 9800
+2019-08-01 00:31:13,890 root  INFO     Accuracy (w spaces): 0.809592
+2019-08-01 00:31:13,890 root  INFO     Accuracy (w/o spaces): 0.831224
+2019-08-01 00:31:13,890 root  INFO     Edit Dist (w spaces): 0.907491
+2019-08-01 00:31:13,890 root  INFO     Total Correct (w spaces): 7934
+2019-08-01 00:31:13,890 root  INFO     Total Correct (w/o spaces): 8146
+2019-08-01 00:31:13,890 root  INFO     Total Edit Dist (w spaces): 496686
+2019-08-01 00:31:13,890 root  INFO     Total Ref (w spaces): 5369065
+2019-08-01 00:31:13,890 root  INFO
+2019-08-01 00:31:34,422 root  INFO     Total Num: 9900
+2019-08-01 00:31:34,422 root  INFO     Accuracy (w spaces): 0.809596
+2019-08-01 00:31:34,422 root  INFO     Accuracy (w/o spaces): 0.831212
+2019-08-01 00:31:34,423 root  INFO     Edit Dist (w spaces): 0.907669
+2019-08-01 00:31:34,423 root  INFO     Total Correct (w spaces): 8015
+2019-08-01 00:31:34,423 root  INFO     Total Correct (w/o spaces): 8229
+2019-08-01 00:31:34,423 root  INFO     Total Edit Dist (w spaces): 500388
+2019-08-01 00:31:34,423 root  INFO     Total Ref (w spaces): 5419505
+2019-08-01 00:31:34,423 root  INFO
+2019-08-01 00:31:59,123 root  INFO     Total Num: 10000
+2019-08-01 00:31:59,124 root  INFO     Accuracy (w spaces): 0.809200
+2019-08-01 00:31:59,124 root  INFO     Accuracy (w/o spaces): 0.830700
+2019-08-01 00:31:59,124 root  INFO     Edit Dist (w spaces): 0.907381
+2019-08-01 00:31:59,124 root  INFO     Total Correct (w spaces): 8092
+2019-08-01 00:31:59,124 root  INFO     Total Correct (w/o spaces): 8307
+2019-08-01 00:31:59,124 root  INFO     Total Edit Dist (w spaces): 506901
+2019-08-01 00:31:59,124 root  INFO     Total Ref (w spaces): 5472948
+2019-08-01 00:31:59,124 root  INFO
+2019-08-01 00:32:17,429 root  INFO     Total Num: 10100
+2019-08-01 00:32:17,430 root  INFO     Accuracy (w spaces): 0.809802
+2019-08-01 00:32:17,430 root  INFO     Accuracy (w/o spaces): 0.831287
+2019-08-01 00:32:17,430 root  INFO     Edit Dist (w spaces): 0.907881
+2019-08-01 00:32:17,430 root  INFO     Total Correct (w spaces): 8179
+2019-08-01 00:32:17,430 root  INFO     Total Correct (w/o spaces): 8396
+2019-08-01 00:32:17,430 root  INFO     Total Edit Dist (w spaces): 509063
+2019-08-01 00:32:17,430 root  INFO     Total Ref (w spaces): 5526160
+2019-08-01 00:32:17,430 root  INFO
+2019-08-01 00:32:40,861 root  INFO     Total Num: 10200
+2019-08-01 00:32:40,862 root  INFO     Accuracy (w spaces): 0.809902
+2019-08-01 00:32:40,862 root  INFO     Accuracy (w/o spaces): 0.831176
+2019-08-01 00:32:40,862 root  INFO     Edit Dist (w spaces): 0.907573
+2019-08-01 00:32:40,862 root  INFO     Total Correct (w spaces): 8261
+2019-08-01 00:32:40,862 root  INFO     Total Correct (w/o spaces): 8478
+2019-08-01 00:32:40,862 root  INFO     Total Edit Dist (w spaces): 515854
+2019-08-01 00:32:40,862 root  INFO     Total Ref (w spaces): 5581232
+2019-08-01 00:32:40,862 root  INFO
+2019-08-01 00:33:11,794 root  INFO     Total Num: 10300
+2019-08-01 00:33:11,795 root  INFO     Accuracy (w spaces): 0.809709
+2019-08-01 00:33:11,795 root  INFO     Accuracy (w/o spaces): 0.830680
+2019-08-01 00:33:11,795 root  INFO     Edit Dist (w spaces): 0.907383
+2019-08-01 00:33:11,796 root  INFO     Total Correct (w spaces): 8340
+2019-08-01 00:33:11,796 root  INFO     Total Correct (w/o spaces): 8556
+2019-08-01 00:33:11,796 root  INFO     Total Edit Dist (w spaces): 522210
+2019-08-01 00:33:11,796 root  INFO     Total Ref (w spaces): 5638383
+2019-08-01 00:33:11,796 root  INFO
+2019-08-01 00:33:23,361 root  INFO     ------------------------------------
+2019-08-01 00:33:23,362 root  INFO     Final
+2019-08-01 00:33:23,362 root  INFO     Total Num: 10348
+2019-08-01 00:33:23,362 root  INFO     Accuracy (w spaces): 0.810012
+2019-08-01 00:33:23,362 root  INFO     Accuracy (w/o spaces): 0.830982
+2019-08-01 00:33:23,362 root  INFO     Edit Dist (w spaces): 0.907225
+2019-08-01 00:33:23,362 root  INFO     Total Correct (w spaces): 8382
+2019-08-01 00:33:23,362 root  INFO     Total Correct (w/o spaces): 8599
+2019-08-01 00:33:23,362 root  INFO     Total Edit Dist (w spaces): 525507
+2019-08-01 00:33:23,362 root  INFO     Total Ref (w spaces): 5664294
+2019-08-01 00:33:23,362 root  INFO     Jobs finished
+bbilbeisi@dgx1:~/Thesis/Testing$ python3 ../im2latex/im2markup/scripts/evaluation/evaluate_image.py --images-dir ../results/images_rendered/
+2019-07-31 23:49:28,742 root  INFO     Script being executed: ../im2latex/im2markup/scripts/evaluation/evaluate_image.py
+2019-07-31 23:49:53,198 root  INFO     Total Num: 100
+2019-07-31 23:49:53,199 root  INFO     Accuracy (w spaces): 0.780000
+2019-07-31 23:49:53,199 root  INFO     Accuracy (w/o spaces): 0.800000
+2019-07-31 23:49:53,199 root  INFO     Edit Dist (w spaces): 0.925168
+2019-07-31 23:49:53,199 root  INFO     Total Correct (w spaces): 78
+2019-07-31 23:49:53,199 root  INFO     Total Correct (w/o spaces): 80
+2019-07-31 23:49:53,199 root  INFO     Total Edit Dist (w spaces): 4146
+2019-07-31 23:49:53,199 root  INFO     Total Ref (w spaces): 55404
+2019-07-31 23:49:53,199 root  INFO
+2019-07-31 23:50:20,909 root  INFO     Total Num: 200
+2019-07-31 23:50:20,909 root  INFO     Accuracy (w spaces): 0.820000
+2019-07-31 23:50:20,910 root  INFO     Accuracy (w/o spaces): 0.845000
+2019-07-31 23:50:20,910 root  INFO     Edit Dist (w spaces): 0.934189
+2019-07-31 23:50:20,910 root  INFO     Total Correct (w spaces): 164
+2019-07-31 23:50:20,910 root  INFO     Total Correct (w/o spaces): 169
+2019-07-31 23:50:20,910 root  INFO     Total Edit Dist (w spaces): 7401
+2019-07-31 23:50:20,910 root  INFO     Total Ref (w spaces): 112459
+2019-07-31 23:50:20,910 root  INFO
+2019-07-31 23:50:42,994 root  INFO     Total Num: 300
+2019-07-31 23:50:42,995 root  INFO     Accuracy (w spaces): 0.830000
+2019-07-31 23:50:42,995 root  INFO     Accuracy (w/o spaces): 0.850000
+2019-07-31 23:50:42,995 root  INFO     Edit Dist (w spaces): 0.934252
+2019-07-31 23:50:42,996 root  INFO     Total Correct (w spaces): 249
+2019-07-31 23:50:42,996 root  INFO     Total Correct (w/o spaces): 255
+2019-07-31 23:50:42,996 root  INFO     Total Edit Dist (w spaces): 10729
+2019-07-31 23:50:42,996 root  INFO     Total Ref (w spaces): 163184
+2019-07-31 23:50:42,996 root  INFO
+2019-07-31 23:51:14,203 root  INFO     Total Num: 400
+2019-07-31 23:51:14,204 root  INFO     Accuracy (w spaces): 0.822500
+2019-07-31 23:51:14,204 root  INFO     Accuracy (w/o spaces): 0.840000
+2019-07-31 23:51:14,204 root  INFO     Edit Dist (w spaces): 0.928460
+2019-07-31 23:51:14,204 root  INFO     Total Correct (w spaces): 329
+2019-07-31 23:51:14,204 root  INFO     Total Correct (w/o spaces): 336
+2019-07-31 23:51:14,204 root  INFO     Total Edit Dist (w spaces): 15827
+2019-07-31 23:51:14,204 root  INFO     Total Ref (w spaces): 221234
+2019-07-31 23:51:14,204 root  INFO
+2019-07-31 23:51:35,955 root  INFO     Total Num: 500
+2019-07-31 23:51:35,955 root  INFO     Accuracy (w spaces): 0.828000
+2019-07-31 23:51:35,955 root  INFO     Accuracy (w/o spaces): 0.844000
+2019-07-31 23:51:35,955 root  INFO     Edit Dist (w spaces): 0.927298
+2019-07-31 23:51:35,956 root  INFO     Total Correct (w spaces): 414
+2019-07-31 23:51:35,956 root  INFO     Total Correct (w/o spaces): 422
+2019-07-31 23:51:35,956 root  INFO     Total Edit Dist (w spaces): 19928
+2019-07-31 23:51:35,956 root  INFO     Total Ref (w spaces): 274104
+2019-07-31 23:51:35,956 root  INFO
+2019-07-31 23:51:59,427 root  INFO     Total Num: 600
+2019-07-31 23:51:59,428 root  INFO     Accuracy (w spaces): 0.825000
+2019-07-31 23:51:59,428 root  INFO     Accuracy (w/o spaces): 0.841667
+2019-07-31 23:51:59,428 root  INFO     Edit Dist (w spaces): 0.920570
+2019-07-31 23:51:59,428 root  INFO     Total Correct (w spaces): 495
+2019-07-31 23:51:59,428 root  INFO     Total Correct (w/o spaces): 505
+2019-07-31 23:51:59,428 root  INFO     Total Edit Dist (w spaces): 25918
+2019-07-31 23:51:59,428 root  INFO     Total Ref (w spaces): 326301
+2019-07-31 23:51:59,428 root  INFO
+2019-07-31 23:52:19,767 root  INFO     Total Num: 700
+2019-07-31 23:52:19,768 root  INFO     Accuracy (w spaces): 0.818571
+2019-07-31 23:52:19,768 root  INFO     Accuracy (w/o spaces): 0.831429
+2019-07-31 23:52:19,768 root  INFO     Edit Dist (w spaces): 0.921672
+2019-07-31 23:52:19,768 root  INFO     Total Correct (w spaces): 573
+2019-07-31 23:52:19,768 root  INFO     Total Correct (w/o spaces): 582
+2019-07-31 23:52:19,768 root  INFO     Total Edit Dist (w spaces): 29953
+2019-07-31 23:52:19,768 root  INFO     Total Ref (w spaces): 382407
+2019-07-31 23:52:19,768 root  INFO
+2019-07-31 23:52:43,583 root  INFO     Total Num: 800
+2019-07-31 23:52:43,584 root  INFO     Accuracy (w spaces): 0.817500
+2019-07-31 23:52:43,584 root  INFO     Accuracy (w/o spaces): 0.831250
+2019-07-31 23:52:43,584 root  INFO     Edit Dist (w spaces): 0.918328
+2019-07-31 23:52:43,584 root  INFO     Total Correct (w spaces): 654
+2019-07-31 23:52:43,584 root  INFO     Total Correct (w/o spaces): 665
+2019-07-31 23:52:43,584 root  INFO     Total Edit Dist (w spaces): 35780
+2019-07-31 23:52:43,584 root  INFO     Total Ref (w spaces): 438095
+2019-07-31 23:52:43,584 root  INFO
+2019-07-31 23:53:08,078 root  INFO     Total Num: 900
+2019-07-31 23:53:08,078 root  INFO     Accuracy (w spaces): 0.810000
+2019-07-31 23:53:08,079 root  INFO     Accuracy (w/o spaces): 0.826667
+2019-07-31 23:53:08,079 root  INFO     Edit Dist (w spaces): 0.917551
+2019-07-31 23:53:08,079 root  INFO     Total Correct (w spaces): 729
+2019-07-31 23:53:08,079 root  INFO     Total Correct (w/o spaces): 744
+2019-07-31 23:53:08,079 root  INFO     Total Edit Dist (w spaces): 40667
+2019-07-31 23:53:08,079 root  INFO     Total Ref (w spaces): 493239
+2019-07-31 23:53:08,079 root  INFO
+2019-07-31 23:53:31,392 root  INFO     Total Num: 1000
+2019-07-31 23:53:31,393 root  INFO     Accuracy (w spaces): 0.811000
+2019-07-31 23:53:31,393 root  INFO     Accuracy (w/o spaces): 0.829000
+2019-07-31 23:53:31,393 root  INFO     Edit Dist (w spaces): 0.915926
+2019-07-31 23:53:31,393 root  INFO     Total Correct (w spaces): 811
+2019-07-31 23:53:31,393 root  INFO     Total Correct (w/o spaces): 829
+2019-07-31 23:53:31,393 root  INFO     Total Edit Dist (w spaces): 46104
+2019-07-31 23:53:31,393 root  INFO     Total Ref (w spaces): 548374
+2019-07-31 23:53:31,393 root  INFO
+2019-07-31 23:53:53,098 root  INFO     Total Num: 1100
+2019-07-31 23:53:53,098 root  INFO     Accuracy (w spaces): 0.810909
+2019-07-31 23:53:53,098 root  INFO     Accuracy (w/o spaces): 0.829091
+2019-07-31 23:53:53,099 root  INFO     Edit Dist (w spaces): 0.916033
+2019-07-31 23:53:53,099 root  INFO     Total Correct (w spaces): 892
+2019-07-31 23:53:53,099 root  INFO     Total Correct (w/o spaces): 912
+2019-07-31 23:53:53,099 root  INFO     Total Edit Dist (w spaces): 50470
+2019-07-31 23:53:53,099 root  INFO     Total Ref (w spaces): 601069
+2019-07-31 23:53:53,099 root  INFO
+2019-07-31 23:54:13,484 root  INFO     Total Num: 1200
+2019-07-31 23:54:13,485 root  INFO     Accuracy (w spaces): 0.812500
+2019-07-31 23:54:13,485 root  INFO     Accuracy (w/o spaces): 0.832500
+2019-07-31 23:54:13,485 root  INFO     Edit Dist (w spaces): 0.916525
+2019-07-31 23:54:13,485 root  INFO     Total Correct (w spaces): 975
+2019-07-31 23:54:13,485 root  INFO     Total Correct (w/o spaces): 999
+2019-07-31 23:54:13,485 root  INFO     Total Edit Dist (w spaces): 54516
+2019-07-31 23:54:13,486 root  INFO     Total Ref (w spaces): 653079
+2019-07-31 23:54:13,486 root  INFO
+2019-07-31 23:54:34,155 root  INFO     Total Num: 1300
+2019-07-31 23:54:34,156 root  INFO     Accuracy (w spaces): 0.811538
+2019-07-31 23:54:34,156 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-07-31 23:54:34,156 root  INFO     Edit Dist (w spaces): 0.912221
+2019-07-31 23:54:34,156 root  INFO     Total Correct (w spaces): 1055
+2019-07-31 23:54:34,156 root  INFO     Total Correct (w/o spaces): 1079
+2019-07-31 23:54:34,156 root  INFO     Total Edit Dist (w spaces): 61808
+2019-07-31 23:54:34,156 root  INFO     Total Ref (w spaces): 704131
+2019-07-31 23:54:34,156 root  INFO
+2019-07-31 23:54:59,700 root  INFO     Total Num: 1400
+2019-07-31 23:54:59,701 root  INFO     Accuracy (w spaces): 0.812143
+2019-07-31 23:54:59,701 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-07-31 23:54:59,701 root  INFO     Edit Dist (w spaces): 0.912029
+2019-07-31 23:54:59,701 root  INFO     Total Correct (w spaces): 1137
+2019-07-31 23:54:59,701 root  INFO     Total Correct (w/o spaces): 1162
+2019-07-31 23:54:59,701 root  INFO     Total Edit Dist (w spaces): 66641
+2019-07-31 23:54:59,701 root  INFO     Total Ref (w spaces): 757537
+2019-07-31 23:54:59,701 root  INFO
+2019-07-31 23:55:23,590 root  INFO     Total Num: 1500
+2019-07-31 23:55:23,591 root  INFO     Accuracy (w spaces): 0.812667
+2019-07-31 23:55:23,591 root  INFO     Accuracy (w/o spaces): 0.831333
+2019-07-31 23:55:23,591 root  INFO     Edit Dist (w spaces): 0.909758
+2019-07-31 23:55:23,591 root  INFO     Total Correct (w spaces): 1219
+2019-07-31 23:55:23,591 root  INFO     Total Correct (w/o spaces): 1247
+2019-07-31 23:55:23,591 root  INFO     Total Edit Dist (w spaces): 73242
+2019-07-31 23:55:23,591 root  INFO     Total Ref (w spaces): 811615
+2019-07-31 23:55:23,591 root  INFO
+2019-07-31 23:55:46,171 root  INFO     Total Num: 1600
+2019-07-31 23:55:46,172 root  INFO     Accuracy (w spaces): 0.813750
+2019-07-31 23:55:46,172 root  INFO     Accuracy (w/o spaces): 0.833125
+2019-07-31 23:55:46,172 root  INFO     Edit Dist (w spaces): 0.912747
+2019-07-31 23:55:46,172 root  INFO     Total Correct (w spaces): 1302
+2019-07-31 23:55:46,172 root  INFO     Total Correct (w/o spaces): 1333
+2019-07-31 23:55:46,172 root  INFO     Total Edit Dist (w spaces): 75729
+2019-07-31 23:55:46,172 root  INFO     Total Ref (w spaces): 867929
+2019-07-31 23:55:46,173 root  INFO
+2019-07-31 23:56:06,578 root  INFO     Total Num: 1700
+2019-07-31 23:56:06,579 root  INFO     Accuracy (w spaces): 0.814706
+2019-07-31 23:56:06,579 root  INFO     Accuracy (w/o spaces): 0.833529
+2019-07-31 23:56:06,579 root  INFO     Edit Dist (w spaces): 0.911228
+2019-07-31 23:56:06,579 root  INFO     Total Correct (w spaces): 1385
+2019-07-31 23:56:06,579 root  INFO     Total Correct (w/o spaces): 1417
+2019-07-31 23:56:06,579 root  INFO     Total Edit Dist (w spaces): 82082
+2019-07-31 23:56:06,579 root  INFO     Total Ref (w spaces): 924640
+2019-07-31 23:56:06,579 root  INFO
+2019-07-31 23:56:31,355 root  INFO     Total Num: 1800
+2019-07-31 23:56:31,356 root  INFO     Accuracy (w spaces): 0.813333
+2019-07-31 23:56:31,356 root  INFO     Accuracy (w/o spaces): 0.831111
+2019-07-31 23:56:31,356 root  INFO     Edit Dist (w spaces): 0.909257
+2019-07-31 23:56:31,356 root  INFO     Total Correct (w spaces): 1464
+2019-07-31 23:56:31,356 root  INFO     Total Correct (w/o spaces): 1496
+2019-07-31 23:56:31,356 root  INFO     Total Edit Dist (w spaces): 88872
+2019-07-31 23:56:31,356 root  INFO     Total Ref (w spaces): 979381
+2019-07-31 23:56:31,356 root  INFO
+2019-07-31 23:56:54,879 root  INFO     Total Num: 1900
+2019-07-31 23:56:54,880 root  INFO     Accuracy (w spaces): 0.811053
+2019-07-31 23:56:54,880 root  INFO     Accuracy (w/o spaces): 0.828421
+2019-07-31 23:56:54,880 root  INFO     Edit Dist (w spaces): 0.908131
+2019-07-31 23:56:54,880 root  INFO     Total Correct (w spaces): 1541
+2019-07-31 23:56:54,880 root  INFO     Total Correct (w/o spaces): 1574
+2019-07-31 23:56:54,880 root  INFO     Total Edit Dist (w spaces): 94733
+2019-07-31 23:56:54,881 root  INFO     Total Ref (w spaces): 1031175
+2019-07-31 23:56:54,881 root  INFO
+2019-07-31 23:57:19,726 root  INFO     Total Num: 2000
+2019-07-31 23:57:19,727 root  INFO     Accuracy (w spaces): 0.812000
+2019-07-31 23:57:19,727 root  INFO     Accuracy (w/o spaces): 0.828500
+2019-07-31 23:57:19,727 root  INFO     Edit Dist (w spaces): 0.908972
+2019-07-31 23:57:19,727 root  INFO     Total Correct (w spaces): 1624
+2019-07-31 23:57:19,727 root  INFO     Total Correct (w/o spaces): 1657
+2019-07-31 23:57:19,727 root  INFO     Total Edit Dist (w spaces): 98907
+2019-07-31 23:57:19,727 root  INFO     Total Ref (w spaces): 1086551
+2019-07-31 23:57:19,727 root  INFO
+2019-07-31 23:57:45,546 root  INFO     Total Num: 2100
+2019-07-31 23:57:45,547 root  INFO     Accuracy (w spaces): 0.810000
+2019-07-31 23:57:45,547 root  INFO     Accuracy (w/o spaces): 0.826190
+2019-07-31 23:57:45,547 root  INFO     Edit Dist (w spaces): 0.907168
+2019-07-31 23:57:45,547 root  INFO     Total Correct (w spaces): 1701
+2019-07-31 23:57:45,547 root  INFO     Total Correct (w/o spaces): 1735
+2019-07-31 23:57:45,547 root  INFO     Total Edit Dist (w spaces): 105763
+2019-07-31 23:57:45,547 root  INFO     Total Ref (w spaces): 1139292
+2019-07-31 23:57:45,547 root  INFO
+2019-07-31 23:58:05,696 root  INFO     Total Num: 2200
+2019-07-31 23:58:05,697 root  INFO     Accuracy (w spaces): 0.812273
+2019-07-31 23:58:05,697 root  INFO     Accuracy (w/o spaces): 0.827727
+2019-07-31 23:58:05,697 root  INFO     Edit Dist (w spaces): 0.908394
+2019-07-31 23:58:05,697 root  INFO     Total Correct (w spaces): 1787
+2019-07-31 23:58:05,697 root  INFO     Total Correct (w/o spaces): 1821
+2019-07-31 23:58:05,697 root  INFO     Total Edit Dist (w spaces): 109208
+2019-07-31 23:58:05,697 root  INFO     Total Ref (w spaces): 1192148
+2019-07-31 23:58:05,697 root  INFO
+2019-07-31 23:58:29,981 root  INFO     Total Num: 2300
+2019-07-31 23:58:29,982 root  INFO     Accuracy (w spaces): 0.813043
+2019-07-31 23:58:29,982 root  INFO     Accuracy (w/o spaces): 0.828261
+2019-07-31 23:58:29,982 root  INFO     Edit Dist (w spaces): 0.909193
+2019-07-31 23:58:29,982 root  INFO     Total Correct (w spaces): 1870
+2019-07-31 23:58:29,982 root  INFO     Total Correct (w/o spaces): 1905
+2019-07-31 23:58:29,982 root  INFO     Total Edit Dist (w spaces): 113101
+2019-07-31 23:58:29,982 root  INFO     Total Ref (w spaces): 1245504
+2019-07-31 23:58:29,982 root  INFO
+2019-07-31 23:58:57,799 root  INFO     Total Num: 2400
+2019-07-31 23:58:57,800 root  INFO     Accuracy (w spaces): 0.812500
+2019-07-31 23:58:57,800 root  INFO     Accuracy (w/o spaces): 0.827917
+2019-07-31 23:58:57,800 root  INFO     Edit Dist (w spaces): 0.908981
+2019-07-31 23:58:57,800 root  INFO     Total Correct (w spaces): 1950
+2019-07-31 23:58:57,800 root  INFO     Total Correct (w/o spaces): 1987
+2019-07-31 23:58:57,800 root  INFO     Total Edit Dist (w spaces): 118509
+2019-07-31 23:58:57,800 root  INFO     Total Ref (w spaces): 1302018
+2019-07-31 23:58:57,800 root  INFO
+2019-07-31 23:59:20,396 root  INFO     Total Num: 2500
+2019-07-31 23:59:20,396 root  INFO     Accuracy (w spaces): 0.816400
+2019-07-31 23:59:20,396 root  INFO     Accuracy (w/o spaces): 0.831600
+2019-07-31 23:59:20,397 root  INFO     Edit Dist (w spaces): 0.910634
+2019-07-31 23:59:20,397 root  INFO     Total Correct (w spaces): 2041
+2019-07-31 23:59:20,397 root  INFO     Total Correct (w/o spaces): 2079
+2019-07-31 23:59:20,397 root  INFO     Total Edit Dist (w spaces): 120875
+2019-07-31 23:59:20,397 root  INFO     Total Ref (w spaces): 1352591
+2019-07-31 23:59:20,397 root  INFO
+2019-07-31 23:59:47,321 root  INFO     Total Num: 2600
+2019-07-31 23:59:47,322 root  INFO     Accuracy (w spaces): 0.817308
+2019-07-31 23:59:47,322 root  INFO     Accuracy (w/o spaces): 0.832308
+2019-07-31 23:59:47,322 root  INFO     Edit Dist (w spaces): 0.911066
+2019-07-31 23:59:47,322 root  INFO     Total Correct (w spaces): 2125
+2019-07-31 23:59:47,322 root  INFO     Total Correct (w/o spaces): 2164
+2019-07-31 23:59:47,322 root  INFO     Total Edit Dist (w spaces): 125395
+2019-07-31 23:59:47,322 root  INFO     Total Ref (w spaces): 1409981
+2019-07-31 23:59:47,322 root  INFO
+2019-08-01 00:00:08,431 root  INFO     Total Num: 2700
+2019-08-01 00:00:08,431 root  INFO     Accuracy (w spaces): 0.818148
+2019-08-01 00:00:08,431 root  INFO     Accuracy (w/o spaces): 0.832963
+2019-08-01 00:00:08,432 root  INFO     Edit Dist (w spaces): 0.910833
+2019-08-01 00:00:08,432 root  INFO     Total Correct (w spaces): 2209
+2019-08-01 00:00:08,432 root  INFO     Total Correct (w/o spaces): 2249
+2019-08-01 00:00:08,432 root  INFO     Total Edit Dist (w spaces): 130415
+2019-08-01 00:00:08,432 root  INFO     Total Ref (w spaces): 1462592
+2019-08-01 00:00:08,432 root  INFO
+2019-08-01 00:00:29,494 root  INFO     Total Num: 2800
+2019-08-01 00:00:29,494 root  INFO     Accuracy (w spaces): 0.818929
+2019-08-01 00:00:29,494 root  INFO     Accuracy (w/o spaces): 0.833929
+2019-08-01 00:00:29,495 root  INFO     Edit Dist (w spaces): 0.911139
+2019-08-01 00:00:29,495 root  INFO     Total Correct (w spaces): 2293
+2019-08-01 00:00:29,495 root  INFO     Total Correct (w/o spaces): 2335
+2019-08-01 00:00:29,495 root  INFO     Total Edit Dist (w spaces): 134820
+2019-08-01 00:00:29,495 root  INFO     Total Ref (w spaces): 1517201
+2019-08-01 00:00:29,495 root  INFO
+2019-08-01 00:00:51,341 root  INFO     Total Num: 2900
+2019-08-01 00:00:51,342 root  INFO     Accuracy (w spaces): 0.820345
+2019-08-01 00:00:51,342 root  INFO     Accuracy (w/o spaces): 0.834828
+2019-08-01 00:00:51,342 root  INFO     Edit Dist (w spaces): 0.912192
+2019-08-01 00:00:51,342 root  INFO     Total Correct (w spaces): 2379
+2019-08-01 00:00:51,342 root  INFO     Total Correct (w/o spaces): 2421
+2019-08-01 00:00:51,342 root  INFO     Total Edit Dist (w spaces): 137782
+2019-08-01 00:00:51,342 root  INFO     Total Ref (w spaces): 1569137
+2019-08-01 00:00:51,343 root  INFO
+2019-08-01 00:01:08,814 root  INFO     Total Num: 3000
+2019-08-01 00:01:08,815 root  INFO     Accuracy (w spaces): 0.821333
+2019-08-01 00:01:08,815 root  INFO     Accuracy (w/o spaces): 0.836000
+2019-08-01 00:01:08,815 root  INFO     Edit Dist (w spaces): 0.914011
+2019-08-01 00:01:08,815 root  INFO     Total Correct (w spaces): 2464
+2019-08-01 00:01:08,815 root  INFO     Total Correct (w/o spaces): 2508
+2019-08-01 00:01:08,815 root  INFO     Total Edit Dist (w spaces): 139361
+2019-08-01 00:01:08,815 root  INFO     Total Ref (w spaces): 1620677
+2019-08-01 00:01:08,815 root  INFO
+2019-08-01 00:01:32,730 root  INFO     Total Num: 3100
+2019-08-01 00:01:32,731 root  INFO     Accuracy (w spaces): 0.820323
+2019-08-01 00:01:32,731 root  INFO     Accuracy (w/o spaces): 0.834516
+2019-08-01 00:01:32,731 root  INFO     Edit Dist (w spaces): 0.912942
+2019-08-01 00:01:32,731 root  INFO     Total Correct (w spaces): 2543
+2019-08-01 00:01:32,731 root  INFO     Total Correct (w/o spaces): 2587
+2019-08-01 00:01:32,731 root  INFO     Total Edit Dist (w spaces): 145924
+2019-08-01 00:01:32,731 root  INFO     Total Ref (w spaces): 1676176
+2019-08-01 00:01:32,732 root  INFO
+2019-08-01 00:01:58,544 root  INFO     Total Num: 3200
+2019-08-01 00:01:58,544 root  INFO     Accuracy (w spaces): 0.818750
+2019-08-01 00:01:58,545 root  INFO     Accuracy (w/o spaces): 0.833438
+2019-08-01 00:01:58,545 root  INFO     Edit Dist (w spaces): 0.912348
+2019-08-01 00:01:58,545 root  INFO     Total Correct (w spaces): 2620
+2019-08-01 00:01:58,545 root  INFO     Total Correct (w/o spaces): 2667
+2019-08-01 00:01:58,545 root  INFO     Total Edit Dist (w spaces): 151730
+2019-08-01 00:01:58,545 root  INFO     Total Ref (w spaces): 1731056
+2019-08-01 00:01:58,545 root  INFO
+2019-08-01 00:02:20,294 root  INFO     Total Num: 3300
+2019-08-01 00:02:20,294 root  INFO     Accuracy (w spaces): 0.819091
+2019-08-01 00:02:20,294 root  INFO     Accuracy (w/o spaces): 0.834545
+2019-08-01 00:02:20,295 root  INFO     Edit Dist (w spaces): 0.913128
+2019-08-01 00:02:20,295 root  INFO     Total Correct (w spaces): 2703
+2019-08-01 00:02:20,295 root  INFO     Total Correct (w/o spaces): 2754
+2019-08-01 00:02:20,295 root  INFO     Total Edit Dist (w spaces): 154996
+2019-08-01 00:02:20,295 root  INFO     Total Ref (w spaces): 1784183
+2019-08-01 00:02:20,295 root  INFO
+2019-08-01 00:02:49,617 root  INFO     Total Num: 3400
+2019-08-01 00:02:49,618 root  INFO     Accuracy (w spaces): 0.817353
+2019-08-01 00:02:49,618 root  INFO     Accuracy (w/o spaces): 0.833529
+2019-08-01 00:02:49,618 root  INFO     Edit Dist (w spaces): 0.912204
+2019-08-01 00:02:49,618 root  INFO     Total Correct (w spaces): 2779
+2019-08-01 00:02:49,618 root  INFO     Total Correct (w/o spaces): 2834
+2019-08-01 00:02:49,618 root  INFO     Total Edit Dist (w spaces): 161606
+2019-08-01 00:02:49,618 root  INFO     Total Ref (w spaces): 1840705
+2019-08-01 00:02:49,618 root  INFO
+2019-08-01 00:03:17,962 root  INFO     Total Num: 3500
+2019-08-01 00:03:17,963 root  INFO     Accuracy (w spaces): 0.817143
+2019-08-01 00:03:17,964 root  INFO     Accuracy (w/o spaces): 0.834000
+2019-08-01 00:03:17,964 root  INFO     Edit Dist (w spaces): 0.911535
+2019-08-01 00:03:17,964 root  INFO     Total Correct (w spaces): 2860
+2019-08-01 00:03:17,964 root  INFO     Total Correct (w/o spaces): 2919
+2019-08-01 00:03:17,964 root  INFO     Total Edit Dist (w spaces): 168112
+2019-08-01 00:03:17,964 root  INFO     Total Ref (w spaces): 1900313
+2019-08-01 00:03:17,964 root  INFO
+2019-08-01 00:03:45,223 root  INFO     Total Num: 3600
+2019-08-01 00:03:45,224 root  INFO     Accuracy (w spaces): 0.818056
+2019-08-01 00:03:45,224 root  INFO     Accuracy (w/o spaces): 0.835000
+2019-08-01 00:03:45,224 root  INFO     Edit Dist (w spaces): 0.911431
+2019-08-01 00:03:45,224 root  INFO     Total Correct (w spaces): 2945
+2019-08-01 00:03:45,224 root  INFO     Total Correct (w/o spaces): 3006
+2019-08-01 00:03:45,224 root  INFO     Total Edit Dist (w spaces): 173242
+2019-08-01 00:03:45,224 root  INFO     Total Ref (w spaces): 1956006
+2019-08-01 00:03:45,224 root  INFO
+2019-08-01 00:04:15,620 root  INFO     Total Num: 3700
+2019-08-01 00:04:15,620 root  INFO     Accuracy (w spaces): 0.816757
+2019-08-01 00:04:15,621 root  INFO     Accuracy (w/o spaces): 0.833784
+2019-08-01 00:04:15,621 root  INFO     Edit Dist (w spaces): 0.911570
+2019-08-01 00:04:15,621 root  INFO     Total Correct (w spaces): 3022
+2019-08-01 00:04:15,621 root  INFO     Total Correct (w/o spaces): 3085
+2019-08-01 00:04:15,621 root  INFO     Total Edit Dist (w spaces): 178321
+2019-08-01 00:04:15,621 root  INFO     Total Ref (w spaces): 2016521
+2019-08-01 00:04:15,621 root  INFO
+2019-08-01 00:04:39,553 root  INFO     Total Num: 3800
+2019-08-01 00:04:39,554 root  INFO     Accuracy (w spaces): 0.816579
+2019-08-01 00:04:39,554 root  INFO     Accuracy (w/o spaces): 0.833421
+2019-08-01 00:04:39,554 root  INFO     Edit Dist (w spaces): 0.911313
+2019-08-01 00:04:39,554 root  INFO     Total Correct (w spaces): 3103
+2019-08-01 00:04:39,554 root  INFO     Total Correct (w/o spaces): 3167
+2019-08-01 00:04:39,554 root  INFO     Total Edit Dist (w spaces): 183367
+2019-08-01 00:04:39,554 root  INFO     Total Ref (w spaces): 2067571
+2019-08-01 00:04:39,554 root  INFO
+2019-08-01 00:05:03,865 root  INFO     Total Num: 3900
+2019-08-01 00:05:03,866 root  INFO     Accuracy (w spaces): 0.817179
+2019-08-01 00:05:03,866 root  INFO     Accuracy (w/o spaces): 0.834103
+2019-08-01 00:05:03,866 root  INFO     Edit Dist (w spaces): 0.910873
+2019-08-01 00:05:03,866 root  INFO     Total Correct (w spaces): 3187
+2019-08-01 00:05:03,866 root  INFO     Total Correct (w/o spaces): 3253
+2019-08-01 00:05:03,866 root  INFO     Total Edit Dist (w spaces): 188706
+2019-08-01 00:05:03,866 root  INFO     Total Ref (w spaces): 2117270
+2019-08-01 00:05:03,866 root  INFO
+2019-08-01 00:05:32,597 root  INFO     Total Num: 4000
+2019-08-01 00:05:32,598 root  INFO     Accuracy (w spaces): 0.817500
+2019-08-01 00:05:32,598 root  INFO     Accuracy (w/o spaces): 0.834500
+2019-08-01 00:05:32,598 root  INFO     Edit Dist (w spaces): 0.910822
+2019-08-01 00:05:32,598 root  INFO     Total Correct (w spaces): 3270
+2019-08-01 00:05:32,598 root  INFO     Total Correct (w/o spaces): 3338
+2019-08-01 00:05:32,598 root  INFO     Total Edit Dist (w spaces): 193805
+2019-08-01 00:05:32,598 root  INFO     Total Ref (w spaces): 2173241
+2019-08-01 00:05:32,599 root  INFO
+2019-08-01 00:06:04,142 root  INFO     Total Num: 4100
+2019-08-01 00:06:04,143 root  INFO     Accuracy (w spaces): 0.817073
+2019-08-01 00:06:04,143 root  INFO     Accuracy (w/o spaces): 0.834146
+2019-08-01 00:06:04,143 root  INFO     Edit Dist (w spaces): 0.911194
+2019-08-01 00:06:04,143 root  INFO     Total Correct (w spaces): 3350
+2019-08-01 00:06:04,143 root  INFO     Total Correct (w/o spaces): 3420
+2019-08-01 00:06:04,143 root  INFO     Total Edit Dist (w spaces): 198253
+2019-08-01 00:06:04,143 root  INFO     Total Ref (w spaces): 2232434
+2019-08-01 00:06:04,143 root  INFO
+2019-08-01 00:06:33,554 root  INFO     Total Num: 4200
+2019-08-01 00:06:33,555 root  INFO     Accuracy (w spaces): 0.817619
+2019-08-01 00:06:33,555 root  INFO     Accuracy (w/o spaces): 0.834524
+2019-08-01 00:06:33,555 root  INFO     Edit Dist (w spaces): 0.911330
+2019-08-01 00:06:33,556 root  INFO     Total Correct (w spaces): 3434
+2019-08-01 00:06:33,556 root  INFO     Total Correct (w/o spaces): 3505
+2019-08-01 00:06:33,556 root  INFO     Total Edit Dist (w spaces): 203164
+2019-08-01 00:06:33,556 root  INFO     Total Ref (w spaces): 2291228
+2019-08-01 00:06:33,556 root  INFO
+2019-08-01 00:07:02,516 root  INFO     Total Num: 4300
+2019-08-01 00:07:02,516 root  INFO     Accuracy (w spaces): 0.815814
+2019-08-01 00:07:02,516 root  INFO     Accuracy (w/o spaces): 0.833023
+2019-08-01 00:07:02,517 root  INFO     Edit Dist (w spaces): 0.910102
+2019-08-01 00:07:02,517 root  INFO     Total Correct (w spaces): 3508
+2019-08-01 00:07:02,517 root  INFO     Total Correct (w/o spaces): 3582
+2019-08-01 00:07:02,517 root  INFO     Total Edit Dist (w spaces): 211371
+2019-08-01 00:07:02,517 root  INFO     Total Ref (w spaces): 2351238
+2019-08-01 00:07:02,517 root  INFO
+2019-08-01 00:07:34,913 root  INFO     Total Num: 4400
+2019-08-01 00:07:34,914 root  INFO     Accuracy (w spaces): 0.815000
+2019-08-01 00:07:34,914 root  INFO     Accuracy (w/o spaces): 0.833182
+2019-08-01 00:07:34,914 root  INFO     Edit Dist (w spaces): 0.909499
+2019-08-01 00:07:34,914 root  INFO     Total Correct (w spaces): 3586
+2019-08-01 00:07:34,914 root  INFO     Total Correct (w/o spaces): 3666
+2019-08-01 00:07:34,914 root  INFO     Total Edit Dist (w spaces): 217794
+2019-08-01 00:07:34,914 root  INFO     Total Ref (w spaces): 2406544
+2019-08-01 00:07:34,914 root  INFO
+2019-08-01 00:08:03,886 root  INFO     Total Num: 4500
+2019-08-01 00:08:03,887 root  INFO     Accuracy (w spaces): 0.814000
+2019-08-01 00:08:03,887 root  INFO     Accuracy (w/o spaces): 0.832667
+2019-08-01 00:08:03,887 root  INFO     Edit Dist (w spaces): 0.909733
+2019-08-01 00:08:03,887 root  INFO     Total Correct (w spaces): 3663
+2019-08-01 00:08:03,887 root  INFO     Total Correct (w/o spaces): 3747
+2019-08-01 00:08:03,887 root  INFO     Total Edit Dist (w spaces): 222535
+2019-08-01 00:08:03,887 root  INFO     Total Ref (w spaces): 2465307
+2019-08-01 00:08:03,887 root  INFO
+2019-08-01 00:08:40,083 root  INFO     Total Num: 4600
+2019-08-01 00:08:40,083 root  INFO     Accuracy (w spaces): 0.812391
+2019-08-01 00:08:40,084 root  INFO     Accuracy (w/o spaces): 0.831304
+2019-08-01 00:08:40,084 root  INFO     Edit Dist (w spaces): 0.907545
+2019-08-01 00:08:40,084 root  INFO     Total Correct (w spaces): 3737
+2019-08-01 00:08:40,084 root  INFO     Total Correct (w/o spaces): 3824
+2019-08-01 00:08:40,084 root  INFO     Total Edit Dist (w spaces): 233147
+2019-08-01 00:08:40,084 root  INFO     Total Ref (w spaces): 2521724
+2019-08-01 00:08:40,084 root  INFO
+2019-08-01 00:09:05,177 root  INFO     Total Num: 4700
+2019-08-01 00:09:05,177 root  INFO     Accuracy (w spaces): 0.812128
+2019-08-01 00:09:05,177 root  INFO     Accuracy (w/o spaces): 0.831277
+2019-08-01 00:09:05,177 root  INFO     Edit Dist (w spaces): 0.907117
+2019-08-01 00:09:05,178 root  INFO     Total Correct (w spaces): 3817
+2019-08-01 00:09:05,178 root  INFO     Total Correct (w/o spaces): 3907
+2019-08-01 00:09:05,178 root  INFO     Total Edit Dist (w spaces): 239061
+2019-08-01 00:09:05,178 root  INFO     Total Ref (w spaces): 2573792
+2019-08-01 00:09:05,178 root  INFO
+2019-08-01 00:09:33,902 root  INFO     Total Num: 4800
+2019-08-01 00:09:33,903 root  INFO     Accuracy (w spaces): 0.811875
+2019-08-01 00:09:33,903 root  INFO     Accuracy (w/o spaces): 0.831042
+2019-08-01 00:09:33,903 root  INFO     Edit Dist (w spaces): 0.906626
+2019-08-01 00:09:33,903 root  INFO     Total Correct (w spaces): 3897
+2019-08-01 00:09:33,903 root  INFO     Total Correct (w/o spaces): 3989
+2019-08-01 00:09:33,903 root  INFO     Total Edit Dist (w spaces): 245523
+2019-08-01 00:09:33,903 root  INFO     Total Ref (w spaces): 2629450
+2019-08-01 00:09:33,903 root  INFO
+2019-08-01 00:09:50,576 root  INFO     Total Num: 4900
+2019-08-01 00:09:50,577 root  INFO     Accuracy (w spaces): 0.813265
+2019-08-01 00:09:50,577 root  INFO     Accuracy (w/o spaces): 0.832041
+2019-08-01 00:09:50,577 root  INFO     Edit Dist (w spaces): 0.906654
+2019-08-01 00:09:50,577 root  INFO     Total Correct (w spaces): 3985
+2019-08-01 00:09:50,577 root  INFO     Total Correct (w/o spaces): 4077
+2019-08-01 00:09:50,577 root  INFO     Total Edit Dist (w spaces): 250407
+2019-08-01 00:09:50,577 root  INFO     Total Ref (w spaces): 2682575
+2019-08-01 00:09:50,577 root  INFO
+2019-08-01 00:10:20,392 root  INFO     Total Num: 5000
+2019-08-01 00:10:20,393 root  INFO     Accuracy (w spaces): 0.814000
+2019-08-01 00:10:20,393 root  INFO     Accuracy (w/o spaces): 0.832400
+2019-08-01 00:10:20,393 root  INFO     Edit Dist (w spaces): 0.906766
+2019-08-01 00:10:20,393 root  INFO     Total Correct (w spaces): 4070
+2019-08-01 00:10:20,393 root  INFO     Total Correct (w/o spaces): 4162
+2019-08-01 00:10:20,393 root  INFO     Total Edit Dist (w spaces): 255513
+2019-08-01 00:10:20,393 root  INFO     Total Ref (w spaces): 2740550
+2019-08-01 00:10:20,393 root  INFO
+2019-08-01 00:10:43,920 root  INFO     Total Num: 5100
+2019-08-01 00:10:43,921 root  INFO     Accuracy (w spaces): 0.813725
+2019-08-01 00:10:43,921 root  INFO     Accuracy (w/o spaces): 0.832157
+2019-08-01 00:10:43,921 root  INFO     Edit Dist (w spaces): 0.907233
+2019-08-01 00:10:43,921 root  INFO     Total Correct (w spaces): 4150
+2019-08-01 00:10:43,921 root  INFO     Total Correct (w/o spaces): 4244
+2019-08-01 00:10:43,921 root  INFO     Total Edit Dist (w spaces): 259449
+2019-08-01 00:10:43,921 root  INFO     Total Ref (w spaces): 2796777
+2019-08-01 00:10:43,921 root  INFO
+2019-08-01 00:11:08,266 root  INFO     Total Num: 5200
+2019-08-01 00:11:08,267 root  INFO     Accuracy (w spaces): 0.813846
+2019-08-01 00:11:08,267 root  INFO     Accuracy (w/o spaces): 0.832308
+2019-08-01 00:11:08,267 root  INFO     Edit Dist (w spaces): 0.907934
+2019-08-01 00:11:08,267 root  INFO     Total Correct (w spaces): 4232
+2019-08-01 00:11:08,267 root  INFO     Total Correct (w/o spaces): 4328
+2019-08-01 00:11:08,267 root  INFO     Total Edit Dist (w spaces): 262516
+2019-08-01 00:11:08,267 root  INFO     Total Ref (w spaces): 2851398
+2019-08-01 00:11:08,268 root  INFO
+2019-08-01 00:11:28,934 root  INFO     Total Num: 5300
+2019-08-01 00:11:28,935 root  INFO     Accuracy (w spaces): 0.813962
+2019-08-01 00:11:28,935 root  INFO     Accuracy (w/o spaces): 0.832830
+2019-08-01 00:11:28,936 root  INFO     Edit Dist (w spaces): 0.908183
+2019-08-01 00:11:28,936 root  INFO     Total Correct (w spaces): 4314
+2019-08-01 00:11:28,936 root  INFO     Total Correct (w/o spaces): 4414
+2019-08-01 00:11:28,936 root  INFO     Total Edit Dist (w spaces): 266525
+2019-08-01 00:11:28,936 root  INFO     Total Ref (w spaces): 2902787
+2019-08-01 00:11:28,936 root  INFO
+2019-08-01 00:11:50,401 root  INFO     Total Num: 5400
+2019-08-01 00:11:50,402 root  INFO     Accuracy (w spaces): 0.813889
+2019-08-01 00:11:50,402 root  INFO     Accuracy (w/o spaces): 0.832407
+2019-08-01 00:11:50,402 root  INFO     Edit Dist (w spaces): 0.907678
+2019-08-01 00:11:50,402 root  INFO     Total Correct (w spaces): 4395
+2019-08-01 00:11:50,402 root  INFO     Total Correct (w/o spaces): 4495
+2019-08-01 00:11:50,402 root  INFO     Total Edit Dist (w spaces): 273063
+2019-08-01 00:11:50,402 root  INFO     Total Ref (w spaces): 2957725
+2019-08-01 00:11:50,402 root  INFO
+2019-08-01 00:12:17,964 root  INFO     Total Num: 5500
+2019-08-01 00:12:17,965 root  INFO     Accuracy (w spaces): 0.812909
+2019-08-01 00:12:17,965 root  INFO     Accuracy (w/o spaces): 0.831455
+2019-08-01 00:12:17,966 root  INFO     Edit Dist (w spaces): 0.906829
+2019-08-01 00:12:17,966 root  INFO     Total Correct (w spaces): 4471
+2019-08-01 00:12:17,966 root  INFO     Total Correct (w/o spaces): 4573
+2019-08-01 00:12:17,966 root  INFO     Total Edit Dist (w spaces): 280742
+2019-08-01 00:12:17,966 root  INFO     Total Ref (w spaces): 3013202
+2019-08-01 00:12:17,966 root  INFO
+2019-08-01 00:12:44,478 root  INFO     Total Num: 5600
+2019-08-01 00:12:44,479 root  INFO     Accuracy (w spaces): 0.813214
+2019-08-01 00:12:44,479 root  INFO     Accuracy (w/o spaces): 0.831607
+2019-08-01 00:12:44,479 root  INFO     Edit Dist (w spaces): 0.907405
+2019-08-01 00:12:44,479 root  INFO     Total Correct (w spaces): 4554
+2019-08-01 00:12:44,479 root  INFO     Total Correct (w/o spaces): 4657
+2019-08-01 00:12:44,479 root  INFO     Total Edit Dist (w spaces): 284175
+2019-08-01 00:12:44,479 root  INFO     Total Ref (w spaces): 3069015
+2019-08-01 00:12:44,479 root  INFO
+2019-08-01 00:13:20,582 root  INFO     Total Num: 5700
+2019-08-01 00:13:20,583 root  INFO     Accuracy (w spaces): 0.812807
+2019-08-01 00:13:20,583 root  INFO     Accuracy (w/o spaces): 0.831754
+2019-08-01 00:13:20,583 root  INFO     Edit Dist (w spaces): 0.907730
+2019-08-01 00:13:20,583 root  INFO     Total Correct (w spaces): 4633
+2019-08-01 00:13:20,583 root  INFO     Total Correct (w/o spaces): 4741
+2019-08-01 00:13:20,583 root  INFO     Total Edit Dist (w spaces): 288590
+2019-08-01 00:13:20,583 root  INFO     Total Ref (w spaces): 3127657
+2019-08-01 00:13:20,583 root  INFO
+2019-08-01 00:13:43,757 root  INFO     Total Num: 5800
+2019-08-01 00:13:43,758 root  INFO     Accuracy (w spaces): 0.812414
+2019-08-01 00:13:43,758 root  INFO     Accuracy (w/o spaces): 0.831552
+2019-08-01 00:13:43,758 root  INFO     Edit Dist (w spaces): 0.907560
+2019-08-01 00:13:43,758 root  INFO     Total Correct (w spaces): 4712
+2019-08-01 00:13:43,758 root  INFO     Total Correct (w/o spaces): 4823
+2019-08-01 00:13:43,758 root  INFO     Total Edit Dist (w spaces): 294064
+2019-08-01 00:13:43,758 root  INFO     Total Ref (w spaces): 3181142
+2019-08-01 00:13:43,758 root  INFO
+2019-08-01 00:14:10,229 root  INFO     Total Num: 5900
+2019-08-01 00:14:10,230 root  INFO     Accuracy (w spaces): 0.811186
+2019-08-01 00:14:10,231 root  INFO     Accuracy (w/o spaces): 0.831186
+2019-08-01 00:14:10,231 root  INFO     Edit Dist (w spaces): 0.907690
+2019-08-01 00:14:10,231 root  INFO     Total Correct (w spaces): 4786
+2019-08-01 00:14:10,231 root  INFO     Total Correct (w/o spaces): 4904
+2019-08-01 00:14:10,231 root  INFO     Total Edit Dist (w spaces): 298727
+2019-08-01 00:14:10,231 root  INFO     Total Ref (w spaces): 3236123
+2019-08-01 00:14:10,231 root  INFO
+2019-08-01 00:14:35,958 root  INFO     Total Num: 6000
+2019-08-01 00:14:35,959 root  INFO     Accuracy (w spaces): 0.809667
+2019-08-01 00:14:35,959 root  INFO     Accuracy (w/o spaces): 0.829667
+2019-08-01 00:14:35,959 root  INFO     Edit Dist (w spaces): 0.906734
+2019-08-01 00:14:35,959 root  INFO     Total Correct (w spaces): 4858
+2019-08-01 00:14:35,959 root  INFO     Total Correct (w/o spaces): 4978
+2019-08-01 00:14:35,959 root  INFO     Total Edit Dist (w spaces): 306705
+2019-08-01 00:14:35,959 root  INFO     Total Ref (w spaces): 3288511
+2019-08-01 00:14:35,959 root  INFO
+        2019-08-01 00:15:02,401 root  INFO     Total Num: 6100
+2019-08-01 00:15:02,402 root  INFO     Accuracy (w spaces): 0.809672
+2019-08-01 00:15:02,402 root  INFO     Accuracy (w/o spaces): 0.829508
+2019-08-01 00:15:02,402 root  INFO     Edit Dist (w spaces): 0.907409
+2019-08-01 00:15:02,402 root  INFO     Total Correct (w spaces): 4939
+2019-08-01 00:15:02,402 root  INFO     Total Correct (w/o spaces): 5060
+2019-08-01 00:15:02,402 root  INFO     Total Edit Dist (w spaces): 309612
+2019-08-01 00:15:02,402 root  INFO     Total Ref (w spaces): 3343856
+2019-08-01 00:15:02,402 root  INFO
+2019-08-01 00:15:25,707 root  INFO     Total Num: 6200
+2019-08-01 00:15:25,708 root  INFO     Accuracy (w spaces): 0.809194
+2019-08-01 00:15:25,708 root  INFO     Accuracy (w/o spaces): 0.828871
+2019-08-01 00:15:25,708 root  INFO     Edit Dist (w spaces): 0.907163
+2019-08-01 00:15:25,708 root  INFO     Total Correct (w spaces): 5017
+2019-08-01 00:15:25,708 root  INFO     Total Correct (w/o spaces): 5139
+2019-08-01 00:15:25,708 root  INFO     Total Edit Dist (w spaces): 315153
+2019-08-01 00:15:25,708 root  INFO     Total Ref (w spaces): 3394701
+2019-08-01 00:15:25,708 root  INFO
+2019-08-01 00:15:45,895 root  INFO     Total Num: 6300
+2019-08-01 00:15:45,896 root  INFO     Accuracy (w spaces): 0.809365
+2019-08-01 00:15:45,896 root  INFO     Accuracy (w/o spaces): 0.829365
+2019-08-01 00:15:45,896 root  INFO     Edit Dist (w spaces): 0.907588
+2019-08-01 00:15:45,896 root  INFO     Total Correct (w spaces): 5099
+2019-08-01 00:15:45,896 root  INFO     Total Correct (w/o spaces): 5225
+2019-08-01 00:15:45,896 root  INFO     Total Edit Dist (w spaces): 318614
+2019-08-01 00:15:45,896 root  INFO     Total Ref (w spaces): 3447752
+2019-08-01 00:15:45,896 root  INFO
+2019-08-01 00:16:09,165 root  INFO     Total Num: 6400
+2019-08-01 00:16:09,166 root  INFO     Accuracy (w spaces): 0.809688
+2019-08-01 00:16:09,166 root  INFO     Accuracy (w/o spaces): 0.829844
+2019-08-01 00:16:09,166 root  INFO     Edit Dist (w spaces): 0.908065
+2019-08-01 00:16:09,166 root  INFO     Total Correct (w spaces): 5182
+2019-08-01 00:16:09,166 root  INFO     Total Correct (w/o spaces): 5311
+2019-08-01 00:16:09,166 root  INFO     Total Edit Dist (w spaces): 322049
+2019-08-01 00:16:09,166 root  INFO     Total Ref (w spaces): 3502998
+2019-08-01 00:16:09,166 root  INFO
+2019-08-01 00:16:38,677 root  INFO     Total Num: 6500
+2019-08-01 00:16:38,678 root  INFO     Accuracy (w spaces): 0.809385
+2019-08-01 00:16:38,678 root  INFO     Accuracy (w/o spaces): 0.829385
+2019-08-01 00:16:38,678 root  INFO     Edit Dist (w spaces): 0.907136
+2019-08-01 00:16:38,678 root  INFO     Total Correct (w spaces): 5261
+2019-08-01 00:16:38,678 root  INFO     Total Correct (w/o spaces): 5391
+2019-08-01 00:16:38,678 root  INFO     Total Edit Dist (w spaces): 330449
+2019-08-01 00:16:38,678 root  INFO     Total Ref (w spaces): 3558401
+2019-08-01 00:16:38,678 root  INFO
+2019-08-01 00:16:59,901 root  INFO     Total Num: 6600
+2019-08-01 00:16:59,901 root  INFO     Accuracy (w spaces): 0.810152
+2019-08-01 00:16:59,901 root  INFO     Accuracy (w/o spaces): 0.830303
+2019-08-01 00:16:59,901 root  INFO     Edit Dist (w spaces): 0.906937
+2019-08-01 00:16:59,902 root  INFO     Total Correct (w spaces): 5347
+2019-08-01 00:16:59,902 root  INFO     Total Correct (w/o spaces): 5480
+2019-08-01 00:16:59,902 root  INFO     Total Edit Dist (w spaces): 336114
+2019-08-01 00:16:59,902 root  INFO     Total Ref (w spaces): 3611698
+2019-08-01 00:16:59,902 root  INFO
+2019-08-01 00:17:37,185 root  INFO     Total Num: 6700
+2019-08-01 00:17:37,186 root  INFO     Accuracy (w spaces): 0.809701
+2019-08-01 00:17:37,186 root  INFO     Accuracy (w/o spaces): 0.829552
+2019-08-01 00:17:37,186 root  INFO     Edit Dist (w spaces): 0.906497
+2019-08-01 00:17:37,186 root  INFO     Total Correct (w spaces): 5425
+2019-08-01 00:17:37,186 root  INFO     Total Correct (w/o spaces): 5558
+2019-08-01 00:17:37,186 root  INFO     Total Edit Dist (w spaces): 342686
+2019-08-01 00:17:37,186 root  INFO     Total Ref (w spaces): 3664967
+2019-08-01 00:17:37,187 root  INFO
+2019-08-01 00:18:01,354 root  INFO     Total Num: 6800
+2019-08-01 00:18:01,355 root  INFO     Accuracy (w spaces): 0.808971
+2019-08-01 00:18:01,355 root  INFO     Accuracy (w/o spaces): 0.829118
+2019-08-01 00:18:01,355 root  INFO     Edit Dist (w spaces): 0.906640
+2019-08-01 00:18:01,355 root  INFO     Total Correct (w spaces): 5501
+2019-08-01 00:18:01,355 root  INFO     Total Correct (w/o spaces): 5638
+2019-08-01 00:18:01,355 root  INFO     Total Edit Dist (w spaces): 347283
+2019-08-01 00:18:01,355 root  INFO     Total Ref (w spaces): 3719830
+2019-08-01 00:18:01,355 root  INFO
+2019-08-01 00:18:30,106 root  INFO     Total Num: 6900
+2019-08-01 00:18:30,106 root  INFO     Accuracy (w spaces): 0.809565
+2019-08-01 00:18:30,107 root  INFO     Accuracy (w/o spaces): 0.829710
+2019-08-01 00:18:30,107 root  INFO     Edit Dist (w spaces): 0.906866
+2019-08-01 00:18:30,107 root  INFO     Total Correct (w spaces): 5586
+2019-08-01 00:18:30,107 root  INFO     Total Correct (w/o spaces): 5725
+2019-08-01 00:18:30,107 root  INFO     Total Edit Dist (w spaces): 351636
+2019-08-01 00:18:30,107 root  INFO     Total Ref (w spaces): 3775588
+2019-08-01 00:18:30,107 root  INFO
+2019-08-01 00:18:51,513 root  INFO     Total Num: 7000
+2019-08-01 00:18:51,514 root  INFO     Accuracy (w spaces): 0.809000
+2019-08-01 00:18:51,515 root  INFO     Accuracy (w/o spaces): 0.828857
+2019-08-01 00:18:51,515 root  INFO     Edit Dist (w spaces): 0.906883
+2019-08-01 00:18:51,515 root  INFO     Total Correct (w spaces): 5663
+2019-08-01 00:18:51,515 root  INFO     Total Correct (w/o spaces): 5802
+2019-08-01 00:18:51,515 root  INFO     Total Edit Dist (w spaces): 356329
+2019-08-01 00:18:51,515 root  INFO     Total Ref (w spaces): 3826694
+2019-08-01 00:18:51,515 root  INFO
+2019-08-01 00:19:20,952 root  INFO     Total Num: 7100
+2019-08-01 00:19:20,952 root  INFO     Accuracy (w spaces): 0.809577
+2019-08-01 00:19:20,953 root  INFO     Accuracy (w/o spaces): 0.829296
+2019-08-01 00:19:20,953 root  INFO     Edit Dist (w spaces): 0.906731
+2019-08-01 00:19:20,953 root  INFO     Total Correct (w spaces): 5748
+2019-08-01 00:19:20,953 root  INFO     Total Correct (w/o spaces): 5888
+2019-08-01 00:19:20,953 root  INFO     Total Edit Dist (w spaces): 362002
+2019-08-01 00:19:20,953 root  INFO     Total Ref (w spaces): 3881259
+2019-08-01 00:19:20,953 root  INFO
+2019-08-01 00:19:47,733 root  INFO     Total Num: 7200
+2019-08-01 00:19:47,734 root  INFO     Accuracy (w spaces): 0.810000
+2019-08-01 00:19:47,734 root  INFO     Accuracy (w/o spaces): 0.829583
+2019-08-01 00:19:47,734 root  INFO     Edit Dist (w spaces): 0.906822
+2019-08-01 00:19:47,734 root  INFO     Total Correct (w spaces): 5832
+2019-08-01 00:19:47,734 root  INFO     Total Correct (w/o spaces): 5973
+2019-08-01 00:19:47,734 root  INFO     Total Edit Dist (w spaces): 366760
+2019-08-01 00:19:47,734 root  INFO     Total Ref (w spaces): 3936136
+2019-08-01 00:19:47,734 root  INFO
+2019-08-01 00:20:14,443 root  INFO     Total Num: 7300
+2019-08-01 00:20:14,443 root  INFO     Accuracy (w spaces): 0.809726
+2019-08-01 00:20:14,443 root  INFO     Accuracy (w/o spaces): 0.830137
+2019-08-01 00:20:14,444 root  INFO     Edit Dist (w spaces): 0.906627
+2019-08-01 00:20:14,444 root  INFO     Total Correct (w spaces): 5911
+2019-08-01 00:20:14,444 root  INFO     Total Correct (w/o spaces): 6060
+2019-08-01 00:20:14,444 root  INFO     Total Edit Dist (w spaces): 372426
+2019-08-01 00:20:14,444 root  INFO     Total Ref (w spaces): 3988584
+2019-08-01 00:20:14,444 root  INFO
+2019-08-01 00:20:52,558 root  INFO     Total Num: 7400
+2019-08-01 00:20:52,558 root  INFO     Accuracy (w spaces): 0.808919
+2019-08-01 00:20:52,558 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:20:52,559 root  INFO     Edit Dist (w spaces): 0.906795
+2019-08-01 00:20:52,559 root  INFO     Total Correct (w spaces): 5986
+2019-08-01 00:20:52,559 root  INFO     Total Correct (w/o spaces): 6142
+2019-08-01 00:20:52,559 root  INFO     Total Edit Dist (w spaces): 377294
+2019-08-01 00:20:52,559 root  INFO     Total Ref (w spaces): 4048017
+2019-08-01 00:20:52,559 root  INFO
+2019-08-01 00:21:17,493 root  INFO     Total Num: 7500
+2019-08-01 00:21:17,494 root  INFO     Accuracy (w spaces): 0.808533
+2019-08-01 00:21:17,494 root  INFO     Accuracy (w/o spaces): 0.829467
+2019-08-01 00:21:17,494 root  INFO     Edit Dist (w spaces): 0.906534
+2019-08-01 00:21:17,494 root  INFO     Total Correct (w spaces): 6064
+2019-08-01 00:21:17,494 root  INFO     Total Correct (w/o spaces): 6221
+2019-08-01 00:21:17,494 root  INFO     Total Edit Dist (w spaces): 383534
+2019-08-01 00:21:17,494 root  INFO     Total Ref (w spaces): 4103479
+2019-08-01 00:21:17,494 root  INFO
+2019-08-01 00:21:44,896 root  INFO     Total Num: 7600
+2019-08-01 00:21:44,897 root  INFO     Accuracy (w spaces): 0.808684
+2019-08-01 00:21:44,897 root  INFO     Accuracy (w/o spaces): 0.829868
+2019-08-01 00:21:44,897 root  INFO     Edit Dist (w spaces): 0.906812
+2019-08-01 00:21:44,897 root  INFO     Total Correct (w spaces): 6146
+2019-08-01 00:21:44,897 root  INFO     Total Correct (w/o spaces): 6307
+2019-08-01 00:21:44,897 root  INFO     Total Edit Dist (w spaces): 387398
+2019-08-01 00:21:44,897 root  INFO     Total Ref (w spaces): 4157156
+2019-08-01 00:21:44,897 root  INFO
+2019-08-01 00:22:16,521 root  INFO     Total Num: 7700
+2019-08-01 00:22:16,522 root  INFO     Accuracy (w spaces): 0.809221
+2019-08-01 00:22:16,523 root  INFO     Accuracy (w/o spaces): 0.830130
+2019-08-01 00:22:16,523 root  INFO     Edit Dist (w spaces): 0.906942
+2019-08-01 00:22:16,523 root  INFO     Total Correct (w spaces): 6231
+2019-08-01 00:22:16,523 root  INFO     Total Correct (w/o spaces): 6392
+2019-08-01 00:22:16,523 root  INFO     Total Edit Dist (w spaces): 392159
+2019-08-01 00:22:16,523 root  INFO     Total Ref (w spaces): 4214113
+2019-08-01 00:22:16,523 root  INFO
+2019-08-01 00:22:46,129 root  INFO     Total Num: 7800
+2019-08-01 00:22:46,130 root  INFO     Accuracy (w spaces): 0.809359
+2019-08-01 00:22:46,130 root  INFO     Accuracy (w/o spaces): 0.830385
+2019-08-01 00:22:46,130 root  INFO     Edit Dist (w spaces): 0.907007
+2019-08-01 00:22:46,130 root  INFO     Total Correct (w spaces): 6313
+2019-08-01 00:22:46,130 root  INFO     Total Correct (w/o spaces): 6477
+2019-08-01 00:22:46,130 root  INFO     Total Edit Dist (w spaces): 396989
+2019-08-01 00:22:46,130 root  INFO     Total Ref (w spaces): 4269003
+2019-08-01 00:22:46,130 root  INFO
+2019-08-01 00:23:09,725 root  INFO     Total Num: 7900
+2019-08-01 00:23:09,726 root  INFO     Accuracy (w spaces): 0.808987
+2019-08-01 00:23:09,726 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:23:09,726 root  INFO     Edit Dist (w spaces): 0.907300
+2019-08-01 00:23:09,726 root  INFO     Total Correct (w spaces): 6391
+2019-08-01 00:23:09,726 root  INFO     Total Correct (w/o spaces): 6557
+2019-08-01 00:23:09,726 root  INFO     Total Edit Dist (w spaces): 400790
+2019-08-01 00:23:09,726 root  INFO     Total Ref (w spaces): 4323516
+2019-08-01 00:23:09,726 root  INFO
+2019-08-01 00:23:43,538 root  INFO     Total Num: 8000
+2019-08-01 00:23:43,539 root  INFO     Accuracy (w spaces): 0.808625
+2019-08-01 00:23:43,539 root  INFO     Accuracy (w/o spaces): 0.829750
+2019-08-01 00:23:43,539 root  INFO     Edit Dist (w spaces): 0.907443
+2019-08-01 00:23:43,539 root  INFO     Total Correct (w spaces): 6469
+2019-08-01 00:23:43,539 root  INFO     Total Correct (w/o spaces): 6638
+2019-08-01 00:23:43,539 root  INFO     Total Edit Dist (w spaces): 405595
+2019-08-01 00:23:43,539 root  INFO     Total Ref (w spaces): 4382088
+2019-08-01 00:23:43,539 root  INFO
+2019-08-01 00:24:12,381 root  INFO     Total Num: 8100
+2019-08-01 00:24:12,382 root  INFO     Accuracy (w spaces): 0.808148
+2019-08-01 00:24:12,382 root  INFO     Accuracy (w/o spaces): 0.829383
+2019-08-01 00:24:12,382 root  INFO     Edit Dist (w spaces): 0.907140
+2019-08-01 00:24:12,382 root  INFO     Total Correct (w spaces): 6546
+2019-08-01 00:24:12,382 root  INFO     Total Correct (w/o spaces): 6718
+2019-08-01 00:24:12,382 root  INFO     Total Edit Dist (w spaces): 411833
+2019-08-01 00:24:12,382 root  INFO     Total Ref (w spaces): 4434997
+2019-08-01 00:24:12,383 root  INFO
+2019-08-01 00:24:36,586 root  INFO     Total Num: 8200
+2019-08-01 00:24:36,587 root  INFO     Accuracy (w spaces): 0.807927
+2019-08-01 00:24:36,587 root  INFO     Accuracy (w/o spaces): 0.829390
+2019-08-01 00:24:36,587 root  INFO     Edit Dist (w spaces): 0.907197
+2019-08-01 00:24:36,587 root  INFO     Total Correct (w spaces): 6625
+2019-08-01 00:24:36,587 root  INFO     Total Correct (w/o spaces): 6801
+2019-08-01 00:24:36,587 root  INFO     Total Edit Dist (w spaces): 416431
+2019-08-01 00:24:36,587 root  INFO     Total Ref (w spaces): 4487258
+2019-08-01 00:24:36,587 root  INFO
+2019-08-01 00:25:01,052 root  INFO     Total Num: 8300
+2019-08-01 00:25:01,052 root  INFO     Accuracy (w spaces): 0.807711
+2019-08-01 00:25:01,052 root  INFO     Accuracy (w/o spaces): 0.829398
+2019-08-01 00:25:01,053 root  INFO     Edit Dist (w spaces): 0.906876
+2019-08-01 00:25:01,053 root  INFO     Total Correct (w spaces): 6704
+2019-08-01 00:25:01,053 root  INFO     Total Correct (w/o spaces): 6884
+2019-08-01 00:25:01,053 root  INFO     Total Edit Dist (w spaces): 422847
+2019-08-01 00:25:01,053 root  INFO     Total Ref (w spaces): 4540704
+2019-08-01 00:25:01,053 root  INFO
+2019-08-01 00:25:39,992 root  INFO     Total Num: 8400
+2019-08-01 00:25:39,993 root  INFO     Accuracy (w spaces): 0.807976
+2019-08-01 00:25:39,993 root  INFO     Accuracy (w/o spaces): 0.829524
+2019-08-01 00:25:39,993 root  INFO     Edit Dist (w spaces): 0.906850
+2019-08-01 00:25:39,993 root  INFO     Total Correct (w spaces): 6787
+2019-08-01 00:25:39,993 root  INFO     Total Correct (w/o spaces): 6968
+2019-08-01 00:25:39,993 root  INFO     Total Edit Dist (w spaces): 428437
+2019-08-01 00:25:39,993 root  INFO     Total Ref (w spaces): 4599455
+2019-08-01 00:25:39,993 root  INFO
+2019-08-01 00:26:07,449 root  INFO     Total Num: 8500
+2019-08-01 00:26:07,450 root  INFO     Accuracy (w spaces): 0.807647
+2019-08-01 00:26:07,450 root  INFO     Accuracy (w/o spaces): 0.829294
+2019-08-01 00:26:07,450 root  INFO     Edit Dist (w spaces): 0.906544
+2019-08-01 00:26:07,450 root  INFO     Total Correct (w spaces): 6865
+2019-08-01 00:26:07,450 root  INFO     Total Correct (w/o spaces): 7049
+2019-08-01 00:26:07,450 root  INFO     Total Edit Dist (w spaces): 434973
+2019-08-01 00:26:07,450 root  INFO     Total Ref (w spaces): 4654304
+2019-08-01 00:26:07,450 root  INFO
+2019-08-01 00:26:25,681 root  INFO     Total Num: 8600
+2019-08-01 00:26:25,682 root  INFO     Accuracy (w spaces): 0.808372
+2019-08-01 00:26:25,682 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:26:25,682 root  INFO     Edit Dist (w spaces): 0.907036
+2019-08-01 00:26:25,682 root  INFO     Total Correct (w spaces): 6952
+2019-08-01 00:26:25,682 root  INFO     Total Correct (w/o spaces): 7138
+2019-08-01 00:26:25,682 root  INFO     Total Edit Dist (w spaces): 437550
+2019-08-01 00:26:25,682 root  INFO     Total Ref (w spaces): 4706647
+2019-08-01 00:26:25,682 root  INFO
+2019-08-01 00:26:56,577 root  INFO     Total Num: 8700
+2019-08-01 00:26:56,578 root  INFO     Accuracy (w spaces): 0.807816
+2019-08-01 00:26:56,578 root  INFO     Accuracy (w/o spaces): 0.829540
+2019-08-01 00:26:56,578 root  INFO     Edit Dist (w spaces): 0.907011
+2019-08-01 00:26:56,578 root  INFO     Total Correct (w spaces): 7028
+2019-08-01 00:26:56,578 root  INFO     Total Correct (w/o spaces): 7217
+2019-08-01 00:26:56,578 root  INFO     Total Edit Dist (w spaces): 443196
+2019-08-01 00:26:56,578 root  INFO     Total Ref (w spaces): 4766090
+2019-08-01 00:26:56,578 root  INFO
+2019-08-01 00:27:16,793 root  INFO     Total Num: 8800
+2019-08-01 00:27:16,794 root  INFO     Accuracy (w spaces): 0.808636
+2019-08-01 00:27:16,794 root  INFO     Accuracy (w/o spaces): 0.830114
+2019-08-01 00:27:16,794 root  INFO     Edit Dist (w spaces): 0.906995
+2019-08-01 00:27:16,794 root  INFO     Total Correct (w spaces): 7116
+2019-08-01 00:27:16,794 root  INFO     Total Correct (w/o spaces): 7305
+2019-08-01 00:27:16,794 root  INFO     Total Edit Dist (w spaces): 448433
+2019-08-01 00:27:16,794 root  INFO     Total Ref (w spaces): 4821614
+2019-08-01 00:27:16,794 root  INFO
+2019-08-01 00:27:44,636 root  INFO     Total Num: 8900
+2019-08-01 00:27:44,637 root  INFO     Accuracy (w spaces): 0.808876
+2019-08-01 00:27:44,637 root  INFO     Accuracy (w/o spaces): 0.830112
+2019-08-01 00:27:44,637 root  INFO     Edit Dist (w spaces): 0.906534
+2019-08-01 00:27:44,637 root  INFO     Total Correct (w spaces): 7199
+2019-08-01 00:27:44,637 root  INFO     Total Correct (w/o spaces): 7388
+2019-08-01 00:27:44,637 root  INFO     Total Edit Dist (w spaces): 455987
+2019-08-01 00:27:44,637 root  INFO     Total Ref (w spaces): 4878651
+2019-08-01 00:27:44,637 root  INFO
+2019-08-01 00:28:11,348 root  INFO     Total Num: 9000
+2019-08-01 00:28:11,349 root  INFO     Accuracy (w spaces): 0.808556
+2019-08-01 00:28:11,349 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:28:11,349 root  INFO     Edit Dist (w spaces): 0.906430
+2019-08-01 00:28:11,349 root  INFO     Total Correct (w spaces): 7277
+2019-08-01 00:28:11,349 root  INFO     Total Correct (w/o spaces): 7470
+2019-08-01 00:28:11,349 root  INFO     Total Edit Dist (w spaces): 461608
+2019-08-01 00:28:11,349 root  INFO     Total Ref (w spaces): 4933312
+2019-08-01 00:28:11,349 root  INFO
+2019-08-01 00:28:32,785 root  INFO     Total Num: 9100
+2019-08-01 00:28:32,786 root  INFO     Accuracy (w spaces): 0.808901
+2019-08-01 00:28:32,786 root  INFO     Accuracy (w/o spaces): 0.830220
+2019-08-01 00:28:32,786 root  INFO     Edit Dist (w spaces): 0.906221
+2019-08-01 00:28:32,786 root  INFO     Total Correct (w spaces): 7361
+2019-08-01 00:28:32,786 root  INFO     Total Correct (w/o spaces): 7555
+2019-08-01 00:28:32,786 root  INFO     Total Edit Dist (w spaces): 467773
+2019-08-01 00:28:32,786 root  INFO     Total Ref (w spaces): 4988044
+2019-08-01 00:28:32,786 root  INFO
+2019-08-01 00:28:58,669 root  INFO     Total Num: 9200
+2019-08-01 00:28:58,670 root  INFO     Accuracy (w spaces): 0.808804
+2019-08-01 00:28:58,670 root  INFO     Accuracy (w/o spaces): 0.830000
+2019-08-01 00:28:58,670 root  INFO     Edit Dist (w spaces): 0.906274
+2019-08-01 00:28:58,670 root  INFO     Total Correct (w spaces): 7441
+2019-08-01 00:28:58,670 root  INFO     Total Correct (w/o spaces): 7636
+2019-08-01 00:28:58,670 root  INFO     Total Edit Dist (w spaces): 472625
+2019-08-01 00:28:58,670 root  INFO     Total Ref (w spaces): 5042606
+2019-08-01 00:28:58,670 root  INFO
+2019-08-01 00:29:24,991 root  INFO     Total Num: 9300
+2019-08-01 00:29:24,992 root  INFO     Accuracy (w spaces): 0.808710
+2019-08-01 00:29:24,992 root  INFO     Accuracy (w/o spaces): 0.830108
+2019-08-01 00:29:24,992 root  INFO     Edit Dist (w spaces): 0.906052
+2019-08-01 00:29:24,992 root  INFO     Total Correct (w spaces): 7521
+2019-08-01 00:29:24,992 root  INFO     Total Correct (w/o spaces): 7720
+2019-08-01 00:29:24,992 root  INFO     Total Edit Dist (w spaces): 479175
+2019-08-01 00:29:24,992 root  INFO     Total Ref (w spaces): 5100436
+2019-08-01 00:29:24,992 root  INFO
+2019-08-01 00:29:43,660 root  INFO     Total Num: 9400
+2019-08-01 00:29:43,662 root  INFO     Accuracy (w spaces): 0.808936
+2019-08-01 00:29:43,662 root  INFO     Accuracy (w/o spaces): 0.830319
+2019-08-01 00:29:43,662 root  INFO     Edit Dist (w spaces): 0.906203
+2019-08-01 00:29:43,662 root  INFO     Total Correct (w spaces): 7604
+2019-08-01 00:29:43,662 root  INFO     Total Correct (w/o spaces): 7805
+2019-08-01 00:29:43,662 root  INFO     Total Edit Dist (w spaces): 483069
+2019-08-01 00:29:43,662 root  INFO     Total Ref (w spaces): 5150154
+2019-08-01 00:29:43,662 root  INFO
+2019-08-01 00:30:04,351 root  INFO     Total Num: 9500
+2019-08-01 00:30:04,352 root  INFO     Accuracy (w spaces): 0.808947
+2019-08-01 00:30:04,352 root  INFO     Accuracy (w/o spaces): 0.830632
+2019-08-01 00:30:04,352 root  INFO     Edit Dist (w spaces): 0.906722
+2019-08-01 00:30:04,352 root  INFO     Total Correct (w spaces): 7685
+2019-08-01 00:30:04,352 root  INFO     Total Correct (w/o spaces): 7891
+2019-08-01 00:30:04,352 root  INFO     Total Edit Dist (w spaces): 485487
+2019-08-01 00:30:04,352 root  INFO     Total Ref (w spaces): 5204713
+2019-08-01 00:30:04,352 root  INFO
+2019-08-01 00:30:27,401 root  INFO     Total Num: 9600
+2019-08-01 00:30:27,402 root  INFO     Accuracy (w spaces): 0.809479
+2019-08-01 00:30:27,402 root  INFO     Accuracy (w/o spaces): 0.830937
+2019-08-01 00:30:27,402 root  INFO     Edit Dist (w spaces): 0.906807
+2019-08-01 00:30:27,402 root  INFO     Total Correct (w spaces): 7771
+2019-08-01 00:30:27,402 root  INFO     Total Correct (w/o spaces): 7977
+2019-08-01 00:30:27,402 root  INFO     Total Edit Dist (w spaces): 490341
+2019-08-01 00:30:27,402 root  INFO     Total Ref (w spaces): 5261552
+2019-08-01 00:30:27,402 root  INFO
+2019-08-01 00:30:51,715 root  INFO     Total Num: 9700
+2019-08-01 00:30:51,716 root  INFO     Accuracy (w spaces): 0.809794
+2019-08-01 00:30:51,716 root  INFO     Accuracy (w/o spaces): 0.831134
+2019-08-01 00:30:51,716 root  INFO     Edit Dist (w spaces): 0.907282
+2019-08-01 00:30:51,716 root  INFO     Total Correct (w spaces): 7855
+2019-08-01 00:30:51,716 root  INFO     Total Correct (w/o spaces): 8062
+2019-08-01 00:30:51,716 root  INFO     Total Edit Dist (w spaces): 492824
+2019-08-01 00:30:51,716 root  INFO     Total Ref (w spaces): 5315302
+2019-08-01 00:30:51,716 root  INFO
+2019-08-01 00:31:13,889 root  INFO     Total Num: 9800
+2019-08-01 00:31:13,890 root  INFO     Accuracy (w spaces): 0.809592
+2019-08-01 00:31:13,890 root  INFO     Accuracy (w/o spaces): 0.831224
+2019-08-01 00:31:13,890 root  INFO     Edit Dist (w spaces): 0.907491
+2019-08-01 00:31:13,890 root  INFO     Total Correct (w spaces): 7934
+2019-08-01 00:31:13,890 root  INFO     Total Correct (w/o spaces): 8146
+2019-08-01 00:31:13,890 root  INFO     Total Edit Dist (w spaces): 496686
+2019-08-01 00:31:13,890 root  INFO     Total Ref (w spaces): 5369065
+2019-08-01 00:31:13,890 root  INFO
+2019-08-01 00:31:34,422 root  INFO     Total Num: 9900
+2019-08-01 00:31:34,422 root  INFO     Accuracy (w spaces): 0.809596
+2019-08-01 00:31:34,422 root  INFO     Accuracy (w/o spaces): 0.831212
+2019-08-01 00:31:34,423 root  INFO     Edit Dist (w spaces): 0.907669
+2019-08-01 00:31:34,423 root  INFO     Total Correct (w spaces): 8015
+2019-08-01 00:31:34,423 root  INFO     Total Correct (w/o spaces): 8229
+2019-08-01 00:31:34,423 root  INFO     Total Edit Dist (w spaces): 500388
+2019-08-01 00:31:34,423 root  INFO     Total Ref (w spaces): 5419505
+2019-08-01 00:31:34,423 root  INFO
+2019-08-01 00:31:59,123 root  INFO     Total Num: 10000
+2019-08-01 00:31:59,124 root  INFO     Accuracy (w spaces): 0.809200
+2019-08-01 00:31:59,124 root  INFO     Accuracy (w/o spaces): 0.830700
+2019-08-01 00:31:59,124 root  INFO     Edit Dist (w spaces): 0.907381
+2019-08-01 00:31:59,124 root  INFO     Total Correct (w spaces): 8092
+2019-08-01 00:31:59,124 root  INFO     Total Correct (w/o spaces): 8307
+2019-08-01 00:31:59,124 root  INFO     Total Edit Dist (w spaces): 506901
+2019-08-01 00:31:59,124 root  INFO     Total Ref (w spaces): 5472948
+2019-08-01 00:31:59,124 root  INFO
+2019-08-01 00:32:17,429 root  INFO     Total Num: 10100
+2019-08-01 00:32:17,430 root  INFO     Accuracy (w spaces): 0.809802
+2019-08-01 00:32:17,430 root  INFO     Accuracy (w/o spaces): 0.831287
+2019-08-01 00:32:17,430 root  INFO     Edit Dist (w spaces): 0.907881
+2019-08-01 00:32:17,430 root  INFO     Total Correct (w spaces): 8179
+2019-08-01 00:32:17,430 root  INFO     Total Correct (w/o spaces): 8396
+2019-08-01 00:32:17,430 root  INFO     Total Edit Dist (w spaces): 509063
+2019-08-01 00:32:17,430 root  INFO     Total Ref (w spaces): 5526160
+2019-08-01 00:32:17,430 root  INFO
+2019-08-01 00:32:40,861 root  INFO     Total Num: 10200
+2019-08-01 00:32:40,862 root  INFO     Accuracy (w spaces): 0.809902
+2019-08-01 00:32:40,862 root  INFO     Accuracy (w/o spaces): 0.831176
+2019-08-01 00:32:40,862 root  INFO     Edit Dist (w spaces): 0.907573
+2019-08-01 00:32:40,862 root  INFO     Total Correct (w spaces): 8261
+2019-08-01 00:32:40,862 root  INFO     Total Correct (w/o spaces): 8478
+2019-08-01 00:32:40,862 root  INFO     Total Edit Dist (w spaces): 515854
+2019-08-01 00:32:40,862 root  INFO     Total Ref (w spaces): 5581232
+2019-08-01 00:32:40,862 root  INFO
+2019-08-01 00:33:11,794 root  INFO     Total Num: 10300
+2019-08-01 00:33:11,795 root  INFO     Accuracy (w spaces): 0.809709
+2019-08-01 00:33:11,795 root  INFO     Accuracy (w/o spaces): 0.830680
+2019-08-01 00:33:11,795 root  INFO     Edit Dist (w spaces): 0.907383
+2019-08-01 00:33:11,796 root  INFO     Total Correct (w spaces): 8340
+2019-08-01 00:33:11,796 root  INFO     Total Correct (w/o spaces): 8556
+2019-08-01 00:33:11,796 root  INFO     Total Edit Dist (w spaces): 522210
+2019-08-01 00:33:11,796 root  INFO     Total Ref (w spaces): 5638383
+2019-08-01 00:33:11,796 root  INFO
+2019-08-01 00:33:23,361 root  INFO     ------------------------------------
+2019-08-01 00:33:23,362 root  INFO     Final
+2019-08-01 00:33:23,362 root  INFO     Total Num: 10348
+2019-08-01 00:33:23,362 root  INFO     Accuracy (w spaces): 0.810012
+2019-08-01 00:33:23,362 root  INFO     Accuracy (w/o spaces): 0.830982
+2019-08-01 00:33:23,362 root  INFO     Edit Dist (w spaces): 0.907225
+2019-08-01 00:33:23,362 root  INFO     Total Correct (w spaces): 8382
+2019-08-01 00:33:23,362 root  INFO     Total Correct (w/o spaces): 8599
+2019-08-01 00:33:23,362 root  INFO     Total Edit Dist (w spaces): 525507
+2019-08-01 00:33:23,362 root  INFO     Total Ref (w spaces): 5664294
+2019-08-01 00:33:23,362 root  INFO     Jobs finished

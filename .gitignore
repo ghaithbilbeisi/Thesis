@@ -1,0 +1,6 @@
+/data/im2text.tgz
+/data/Original_images/*
+/data/im2text/full.*
+/data/im2text/images/
+/results/images_rendered/*
+/results/models/*
