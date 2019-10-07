@@ -20,3 +20,11 @@ Ocrupy (CTC based) - https://github.com/tmbdev/ocropy
 ## CNN-RNN-CTC Implementation:
 
 https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow
+
+## OpenNMT:
+
+https://github.com/OpenNMT/OpenNMT-py
+
+## Antialiasing:
+
+https://github.com/adobe/antialiased-cnns
