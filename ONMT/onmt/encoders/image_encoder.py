@@ -4,7 +4,6 @@ import torch.nn.functional as F
 import torch
 
 from onmt.encoders.encoder import EncoderBase
-from antialiased_cnn import *
 
 
 class ImageEncoder(EncoderBase):
@@ -23,31 +22,36 @@ class ImageEncoder(EncoderBase):
         self.num_layers = num_layers
         self.num_directions = 2 if bidirectional else 1
         self.hidden_size = rnn_size
-        M = 3
 
+        ## Block 1
         self.layer1 = nn.Conv2d(image_chanel_size, 64, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
-        self.ds1 = Downsample(channels=64, filt_size=M, stride=2) # Added by GB to test antialiasing/shift-invariance                         
-        self.layer2 = nn.Conv2d(64, 128, kernel_size=(3, 3),
+        self.layer2 = nn.Conv2d(64, 64, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
-        self.ds2 = Downsample(channels=128, filt_size=M, stride=2) # Added by GB to test antialiasing/shift-invariance
-        self.layer3 = nn.Conv2d(128, 256, kernel_size=(3, 3),
+        ## Block 2
+        self.layer3 = nn.Conv2d(64, 128, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
-        self.ds3 = Downsample(channels=256, filt_size=M, stride=2) # Added by GB to test antialiasing/shift-invariance
-        self.layer4 = nn.Conv2d(256, 256, kernel_size=(3, 3),
+        self.layer4 = nn.Conv2d(128, 128, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
-        self.ds4 = Downsample(channels=256, filt_size=M, stride=2) # Added by GB to test antialiasing/shift-invariance
-        self.layer5 = nn.Conv2d(256, 512, kernel_size=(3, 3),
+        self.layer5 = nn.Conv2d(128, 128, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
-        self.ds5 = Downsample(channels=512, filt_size=M, stride=2) # Added by GB to test antialiasing/shift-invariance
-        self.layer6 = nn.Conv2d(512, 512, kernel_size=(3, 3),
+        self.layer6 = nn.Conv2d(128, 128, kernel_size=(3, 3),
+                                padding=(1, 1), stride=(1, 1))
+        ## Block 3
+        self.layer7 = nn.Conv2d(128, 128, kernel_size=(2, 2),
+                                padding=(1, 1), stride=(1, 1))
+        self.layer8 = nn.Conv2d(128, 128, kernel_size=(2, 2),
+                                padding=(1, 1), stride=(1, 1))
+        self.layer9 = nn.Conv2d(128, 128, kernel_size=(2, 2),
+                                padding=(1, 1), stride=(1, 1))
+        self.layer10 = nn.Conv2d(128, 128, kernel_size=(2, 2),
                                 padding=(1, 1), stride=(1, 1))
 
-        self.batch_norm1 = nn.BatchNorm2d(256)
-        self.batch_norm2 = nn.BatchNorm2d(512)
-        self.batch_norm3 = nn.BatchNorm2d(512)
+        self.batch_norm1 = nn.BatchNorm2d(64)
+        self.batch_norm2 = nn.BatchNorm2d(128)
+        self.batch_norm3 = nn.BatchNorm2d(128)
 
-        src_size = 512
+        src_size = 128
         dropout = dropout[0] if type(dropout) is list else dropout
         self.rnn = nn.LSTM(src_size, int(rnn_size / self.num_directions),
                            num_layers=num_layers,
@@ -82,48 +86,37 @@ class ImageEncoder(EncoderBase):
 
         batch_size = src.size(0)
         # (batch_size, 64, imgH, imgW)
-        # layer 1
+        # Block 1
         src = F.relu(self.layer1(src[:, :, :, :] - 0.5), True)
-        
-        # (batch_size, 64, imgH/2, imgW/2)
-        src = F.max_pool2d(src, kernel_size=(2, 2), stride=(1, 1))
-        src = self.ds1(src)
-        
-        # (batch_size, 128, imgH/2, imgW/2)
-        # layer 2
         src = F.relu(self.layer2(src), True)
-        
-        # (batch_size, 128, imgH/2/2, imgW/2/2)
-        src = F.max_pool2d(src, kernel_size=(2, 2), stride=(1, 1))
-        src = self.ds2(src)
-
-        #  (batch_size, 256, imgH/2/2, imgW/2/2)
-        # layer 3
+        # max pool 1 (batch_size, 64, imgH/2, imgW/2)
+        src = F.max_pool2d(src, kernel_size=(2, 2), stride=(2, 2))
         # batch norm 1
-        src = F.relu(self.batch_norm1(self.layer3(src)), True)
-        src = self.ds3(src)
+        src = self.batch_norm1(src)
 
-        # (batch_size, 256, imgH/2/2, imgW/2/2)
-        # layer4
+        # (batch_size, 64, imgH/2, imgW/2)
+        # Block 2
+        src = F.relu(self.layer3(src), True)
         src = F.relu(self.layer4(src), True)
+        src = F.relu(self.layer5(src), True)
+        src = F.relu(self.layer6(src), True)
+        # max pool 2 (batch_size, 128, imgH/2, imgW/2/2)
+        src = F.max_pool2d(src, kernel_size=(2, 1), stride=(2, 1))
+        # batch norm 2 (batch_size, 128, imgH/2, imgW/2/2)
+        src = self.batch_norm2(src)
 
-        # (batch_size, 256, imgH/2/2/2, imgW/2/2)
-        src = F.max_pool2d(src, kernel_size=(1, 2), stride=(1, 1))
-        src = self.ds4(src)
+        # (batch_size, 128, imgH/2, imgW/2/2)
+        # Block 3
+        src = F.relu(self.layer7(src), True)
+        src = F.relu(self.layer8(src), True)
+        src = F.relu(self.layer9(src), True)
+        src = F.relu(self.layer10(src), True)
+        # max pool 3 (batch_size, 128, imgH/2/2, imgW/2/2)
+        src = F.max_pool2d(src, kernel_size=(1,2), stride=(1,2))
+        # batch norm 3 (batch_size, 128, imgH/2/2, imgW/2/2)
+        src = self.batch_norm3(src)
 
-        # (batch_size, 512, imgH/2/2/2, imgW/2/2)
-        # layer 5
-        # batch norm 2
-        src = F.relu(self.batch_norm2(self.layer5(src)), True)
-
-        # (batch_size, 512, imgH/2/2/2, imgW/2/2/2)
-        src = F.max_pool2d(src, kernel_size=(2, 1), stride=(1, 1))
-        src = self.ds5(src)
-
-        # (batch_size, 512, imgH/2/2/2, imgW/2/2/2)
-        src = F.relu(self.batch_norm3(self.layer6(src)), True)
-
-        # # (batch_size, 512, H, W)
+        # # (batch_size, 128, H/2/2, W/2/2)
         all_outputs = []
         for row in range(src.size(2)):
             inp = src[:, :, row, :].transpose(0, 2) \

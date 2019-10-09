@@ -1,0 +1,295 @@
+Trial Parameters
+
+-- Best!! 1 --
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/im2latex-1 -gpu_ranks 0 \
+                -batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+                -image_channel_size 3 2>&1 | tee ../results/log1.txt
+
+-- Rerun --
+CUDA_VISIBLE_DEVICES=0
+export EXP='1'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP\_re -gpu_ranks 0 \
+                -batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+                -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP\_re.txt \
+                -tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP\_re -exp $EXP\_re \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP\_re.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP\_re.txt
+
+-- 2 --
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/im2latex-2 -gpu_ranks 0 \
+				-batch_size 40 -max_grad_norm 20 -word_vec_size 80 -encoder_type brnn -image_channel_size 3 \
+                -learning_rate 0.1 -learning_rate_decay 0.5 -start_decay_steps 25000 -decay_steps 10000 \
+                | tee ../results/log2.txt
+
+-- 3 --
+export LOG_NAME='../results/logs/log3.txt'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/im2latex-1 -gpu_ranks 0 \
+				-batch_size 60 -max_grad_norm 20 -learning_rate 0.1 -learning_rate_decay 0.1 -word_vec_size 80 \
+                -start_decay_steps 50000 -decay_steps 20000 -encoder_type brnn -image_channel_size 3 \
+                -report_every 1000 -log_file $LOG_NAME -tensorboard -tensorboard_log_dir ../results/logs/log3_tb.txt \
+                -exp lr0.1_lrd0.1_b60_dr50k_ds20k; sed -i '/Loading dataset from /d' $LOG_NAME; sed -i '/number of examples: /d' $LOG_NAME 
+
+-- 4 -- Models deleted! rerun?
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-4 -gpu_ranks 0 -batch_size 20 -max_grad_norm 20 \
+-learning_rate 0.1 -learning_rate_decay 0.5 -start_decay_steps 50000 \
+                 -word_vec_size 80 -encoder_type brnn -layers 1 -enc_rnn_size 512 -dec_rnn_size 512 -image_channel_size 3 \
+                 -report_every 1000 -log_file ../results/logs/log4_o.txt -tensorboard -tensorboard_log_dir ../results/logs/log4_tb.txt \
+                 -exp lr0.1_lrd0.5_b20_dr50k 2>&1 | tee ../results/logs/log4.txt
+
+-- 5 --
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-5 -gpu_ranks 0 -batch_size 40 -max_grad_norm 20 \
+                -learning_rate 0.1 -learning_rate_decay 0.1 -start_decay_steps 35000 -decay_steps 20000 \
+                 -word_vec_size 80 -encoder_type brnn -layers 3 -image_channel_size 3 \
+                 -report_every 1000 -log_file ../results/logs/log5_o.txt -tensorboard -tensorboard_log_dir ../results/logs/log5_tb.txt \
+                 -exp lr0.1_lrd0.1_b40_dr30k_ds20k 2>&1 | tee ../results/logs/log5.txt
+
+-- 6 -- Best but with encoder_type cnn
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-6 -gpu_ranks 0 -batch_size 20 -max_grad_norm 20 \
+                -learning_rate 0.1 -learning_rate_decay 0.5 -start_decay_steps 50000 \
+                 -word_vec_size 80 -encoder_type cnn -layers 2 -image_channel_size 3 \
+                 -report_every 1000 -log_file ../results/logs/log6_o.txt -tensorboard -tensorboard_log_dir ../results/logs/log6_tb.txt \
+                 -exp lr0.1_lrd0.5_b20_dr50k 2>&1 | tee ../results/logs/log6.txt
+
+-- 7 -- Best but with constant lr = 0.1
+export CUDA_VISIBLE_DEVICES=0
+export LOG_NAME='../results/logs/log7.txt'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-7 -gpu_ranks 0 \
+                -batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -learning_rate_decay 1 \
+                -start_decay_steps 100001 -word_vec_size 80 -encoder_type brnn \
+                -image_channel_size 3 -report_every 1000 -log_file $LOG_NAME \
+                -tensorboard -tensorboard_log_dir ../results/logs/log7_tb -exp 7 \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' $LOG_NAME; sed -i '/number of examples: /d' $LOG_NAME
+
+-- Best!! 8 -- Best but with batch size = 40
+export CUDA_VISIBLE_DEVICES=1
+export LOG_NAME='../results/logs/log8.txt'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-8 -gpu_ranks 0 \
+                -batch_size 40 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+                -image_channel_size 3 -report_every 1000 -log_file $LOG_NAME \
+                -tensorboard -tensorboard_log_dir ../results/logs/log8_tb -exp 8 \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' $LOG_NAME; sed -i '/number of examples: /d' $LOG_NAME
+
+-- 9 -- Best but with encoder_type = mean
+export CUDA_VISIBLE_DEVICES=3
+export LOG_NAME='../results/logs/log9.txt'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-9 -gpu_ranks 0 \
+                -batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type mean \
+                -image_channel_size 3 -report_every 1000 -log_file $LOG_NAME \
+                -tensorboard -tensorboard_log_dir ../results/logs/log9_tb -exp 9 \
+                -log_file_level INFO; export LOG_NAME='../results/logs/log9.txt'; \
+                sed -i '/Loading dataset from /d' $LOG_NAME; export LOG_NAME='../results/logs/log9.txt'; \
+                sed -i '/number of examples: /d' $LOG_NAME
+
+-- 10 -- Best but with batch size = 60
+export CUDA_VISIBLE_DEVICES=7
+export EXP='10'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+                -batch_size 60 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+                -image_channel_size 3 -report_every 100 -log_file ../results/logs/log$EXP.txt -save_checkpoint_steps 10000 \
+                -tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- 11 -- Best but with different optimizers
+CUDA_VISIBLE_DEVICES=2
+export EXP='11'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+                -batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn -optim adagrad \
+                -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt -save_checkpoint_steps 10000 \
+                -tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- 12 -- Best but with different optimizers
+CUDA_VISIBLE_DEVICES=3
+export EXP='12'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+                -batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn -optim adadelta \
+                -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt -save_checkpoint_steps 10000\
+                -tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- 13 -- Best but with different optimizers
+CUDA_VISIBLE_DEVICES=4
+export EXP='13'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+                -batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn -optim adam \
+                -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt -save_checkpoint_steps 10000\
+                -tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+                -log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+
+-- base but with different decay start and decay steps --
+export CUDA_VISIBLE_DEVICES=1
+export EXP='14'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -learning_rate_decay 0.1 -start_decay_steps 50000 -decay_steps 15000 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -max_relative_positions = 1 --
+export CUDA_VISIBLE_DEVICES=2
+export EXP='15'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -max_relative_positions 1 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -coverage_attn --
+export CUDA_VISIBLE_DEVICES=4
+export EXP='16'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -coverage_attn \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -global_attention_function = sparsemax --
+export CUDA_VISIBLE_DEVICES=5
+export EXP='17'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -global_attention_function sparsemax \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with different lr decay --
+export CUDA_VISIBLE_DEVICES=2
+export EXP='18'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -learning_rate_decay 0.1 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -max_relative_positions = 1 and lr=0.1 --
+export CUDA_VISIBLE_DEVICES=3
+export EXP='19'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -max_relative_positions 1 -start_decay_steps 100001 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -global_attention_function = sparsemax and lr_decay_step=25000 and -train_steps=150k --
+export CUDA_VISIBLE_DEVICES=4
+export EXP='20'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -global_attention_function sparsemax -train_steps 150000 -decay_steps 25000 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with different max_iter and lr decay rate --
+export CUDA_VISIBLE_DEVICES=5
+export EXP='21'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 10 -max_grad_norm 20 -learning_rate 0.1 -train_steps 150000 -decay_steps 25000 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+
+-- 22 base rerun--
+CUDA_VISIBLE_DEVICES=1
+export EXP='22'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -max_relative_positions = 1 | 15 rerun with batchsize 20 --
+export CUDA_VISIBLE_DEVICES=2
+export EXP='23'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -max_relative_positions 1 \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -coverage_attn | 16 rerun with batchsize 20 --
+export CUDA_VISIBLE_DEVICES=3
+export EXP='24'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -coverage_attn \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- base but with -global_attention_function = sparsemax | 17 rerun with batchsize 20 --
+export CUDA_VISIBLE_DEVICES=4
+export EXP='25'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -global_attention_function sparsemax \
+-word_vec_size 80 -encoder_type brnn -image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base with antialiasing ((2,2) + (2,1) + (1,2) maxpool layers) --
+image_encoder_2.py
+export CUDA_VISIBLE_DEVICES=4
+export EXP='26'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base with antialiasing (only (2,2) stride maxpool layers) --
+image_encoder_1.py
+export CUDA_VISIBLE_DEVICES=4
+export EXP='27'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base with antialiasing (all layers) --
+image_encoder_3.py
+export CUDA_VISIBLE_DEVICES=1
+export EXP='28'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt -train_steps 200000 \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base with antialiasing (change (1,2) and (2,1) to (2,2) and do all (2,2) stride maxpool layers) --
+image_encoder_4.py
+export CUDA_VISIBLE_DEVICES=2
+export EXP='29'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base without batch_norm --
+image_encoder_5.py
+export CUDA_VISIBLE_DEVICES=3
+export EXP='30'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base with batch size 40 ---
+export CUDA_VISIBLE_DEVICES=4
+export EXP='31'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 40 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt
+
+-- Base with batch size FGFE ---
+image_encoder_fg.py
+export CUDA_VISIBLE_DEVICES=4
+export EXP='32'
+python3 train.py -model_type img -data ../data/im2text/full -save_model ../results/models/im2latex-$EXP -gpu_ranks 0 \
+-batch_size 20 -max_grad_norm 20 -learning_rate 0.1 -word_vec_size 80 -encoder_type brnn \
+-image_channel_size 3 -report_every 500 -log_file ../results/logs/log$EXP.txt \
+-tensorboard -tensorboard_log_dir ../results/logs/Tensorboard/log$EXP -exp $EXP -save_checkpoint_steps 10000 \
+-log_file_level INFO; sed -i '/Loading dataset from /d' ../results/logs/log$EXP.txt; sed -i '/number of examples: /d' ../results/logs/log$EXP.txt

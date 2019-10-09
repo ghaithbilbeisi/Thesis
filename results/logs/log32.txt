@@ -1,0 +1,56 @@
+[2019-10-09 19:26:20,159 INFO]  * tgt vocab size = 510
+[2019-10-09 19:26:20,160 INFO] Building model...
+[2019-10-09 19:26:24,442 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(128, 250, num_layers=2, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 128)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+        (1): LSTMCell(500, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-10-09 19:26:24,444 INFO] encoder: 3210624
+[2019-10-09 19:26:24,444 INFO] decoder: 5214310
+[2019-10-09 19:26:24,444 INFO] * number of parameters: 8424934
+[2019-10-09 19:26:25,809 INFO] Starting training on GPU: [0]
+[2019-10-09 19:26:25,809 INFO] Start training loop and validate every 10000 steps...
+[2019-10-09 19:35:13,381 INFO] Step 500/100000; acc:  28.78; ppl: 38.20; xent: 3.64; lr: 0.10000;   0/1115 tok/s;    528 sec
+[2019-10-09 19:43:37,541 INFO] Step 1000/100000; acc:  44.55; ppl: 13.36; xent: 2.59; lr: 0.10000;   0/1153 tok/s;   1032 sec
+[2019-10-09 19:52:13,911 INFO] Step 1500/100000; acc:  48.36; ppl: 10.47; xent: 2.35; lr: 0.10000;   0/1141 tok/s;   1548 sec
+[2019-10-09 20:00:48,396 INFO] Step 2000/100000; acc:  52.14; ppl:  8.25; xent: 2.11; lr: 0.10000;   0/1142 tok/s;   2063 sec
