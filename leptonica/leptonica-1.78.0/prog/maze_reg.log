@@ -1,0 +1,83 @@
+
+////////////////////////////////////////////////
+////////////////   maze_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in pixSearchBinaryMaze:  Path found
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+path 0 extends beyond image; skipping
+path 1 extends beyond image; skipping
+path 2 extends beyond image; skipping
+path 3 extends beyond image; skipping
+path 4 extends beyond image; skipping
+path 5 extends beyond image; skipping
+Error in pixDisplayPtaa: pixs not defined
+Error in pixScaleBySampling: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+bx =   421, by =    59, bw =   112, bh =   101, area = 11312
+bx =   239, by =   326, bw =    98, bh =   100, area = 9800
+bx =   484, by =   295, bw =    66, bh =   131, area = 8646
+bx =   157, by =     0, bw =    53, bh =   104, area = 5512
+bx =     0, by =    36, bw =   101, bh =    36, area = 3636
+bx =   287, by =     9, bw =   108, bh =    33, area = 3564
+bx =   271, by =    82, bw =   124, bh =    22, area = 2728
+bx =   533, by =    79, bw =    17, bh =   157, area = 2669
+bx =     0, by =   207, bw =   100, bh =    26, area = 2600
+bx =   415, by =    18, bw =    60, bh =    41, area = 2460
+bx =    80, by =   234, bw =    69, bh =    27, area = 1863
+bx =     8, by =   418, bw =   231, bh =     8, area = 1848
+bx =   149, by =   259, bw =    64, bh =    27, area = 1728
+bx =   338, by =   123, bw =    83, bh =    19, area = 1577
+bx =   235, by =   297, bw =    54, bh =    29, area = 1566
+bx =   438, by =   392, bw =    46, bh =    34, area = 1564
+bx =   210, by =     0, bw =    54, bh =    24, area = 1296
+bx =     0, by =     0, bw =   157, bh =     8, area = 1256
+bx =   265, by =   113, bw =    73, bh =    17, area = 1241
+bx =   264, by =    25, bw =    21, bh =    57, area = 1197
+Time:   0.227 sec
+
+////////////////////////////////////////////////
+////////////////   maze_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in pixSearchBinaryMaze:  Path found
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+path 0 extends beyond image; skipping
+path 1 extends beyond image; skipping
+path 2 extends beyond image; skipping
+path 3 extends beyond image; skipping
+path 4 extends beyond image; skipping
+path 5 extends beyond image; skipping
+Error in pixDisplayPtaa: pixs not defined
+Error in pixScaleBySampling: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+bx =   421, by =    59, bw =   112, bh =   101, area = 11312
+bx =   239, by =   326, bw =    98, bh =   100, area = 9800
+bx =   484, by =   295, bw =    66, bh =   131, area = 8646
+bx =   157, by =     0, bw =    53, bh =   104, area = 5512
+bx =     0, by =    36, bw =   101, bh =    36, area = 3636
+bx =   287, by =     9, bw =   108, bh =    33, area = 3564
+bx =   271, by =    82, bw =   124, bh =    22, area = 2728
+bx =   533, by =    79, bw =    17, bh =   157, area = 2669
+bx =     0, by =   207, bw =   100, bh =    26, area = 2600
+bx =   415, by =    18, bw =    60, bh =    41, area = 2460
+bx =    80, by =   234, bw =    69, bh =    27, area = 1863
+bx =     8, by =   418, bw =   231, bh =     8, area = 1848
+bx =   149, by =   259, bw =    64, bh =    27, area = 1728
+bx =   338, by =   123, bw =    83, bh =    19, area = 1577
+bx =   235, by =   297, bw =    54, bh =    29, area = 1566
+bx =   438, by =   392, bw =    46, bh =    34, area = 1564
+bx =   210, by =     0, bw =    54, bh =    24, area = 1296
+bx =     0, by =     0, bw =   157, bh =     8, area = 1256
+bx =   265, by =   113, bw =    73, bh =    17, area = 1241
+bx =   264, by =    25, bw =    21, bh =    57, area = 1197
+Time:   0.213 sec
+FAIL maze_reg (exit status: 1)

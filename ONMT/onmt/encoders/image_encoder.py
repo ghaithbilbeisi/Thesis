@@ -4,6 +4,7 @@ import torch.nn.functional as F
 import torch
 
 from onmt.encoders.encoder import EncoderBase
+from antialiased_cnn import *
 
 
 class ImageEncoder(EncoderBase):
@@ -28,6 +29,7 @@ class ImageEncoder(EncoderBase):
                                 padding=(1, 1), stride=(1, 1))
         self.layer2 = nn.Conv2d(64, 64, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
+        self.ds1 = Downsample(channels=64, filt_size=7, stride=2)
         ## Block 2
         self.layer3 = nn.Conv2d(64, 128, kernel_size=(3, 3),
                                 padding=(1, 1), stride=(1, 1))
@@ -40,18 +42,18 @@ class ImageEncoder(EncoderBase):
         ## Block 3
         self.layer7 = nn.Conv2d(128, 128, kernel_size=(2, 2),
                                 padding=(1, 1), stride=(1, 1))
-        self.layer8 = nn.Conv2d(128, 128, kernel_size=(2, 2),
+        self.layer8 = nn.Conv2d(128, 256, kernel_size=(2, 2),
                                 padding=(1, 1), stride=(1, 1))
-        self.layer9 = nn.Conv2d(128, 128, kernel_size=(2, 2),
+        self.layer9 = nn.Conv2d(256, 256, kernel_size=(2, 2),
                                 padding=(1, 1), stride=(1, 1))
-        self.layer10 = nn.Conv2d(128, 128, kernel_size=(2, 2),
+        self.layer10 = nn.Conv2d(256, 256, kernel_size=(2, 2),
                                 padding=(1, 1), stride=(1, 1))
 
         self.batch_norm1 = nn.BatchNorm2d(64)
         self.batch_norm2 = nn.BatchNorm2d(128)
-        self.batch_norm3 = nn.BatchNorm2d(128)
+        self.batch_norm3 = nn.BatchNorm2d(256)
 
-        src_size = 128
+        src_size = 256
         dropout = dropout[0] if type(dropout) is list else dropout
         self.rnn = nn.LSTM(src_size, int(rnn_size / self.num_directions),
                            num_layers=num_layers,
@@ -90,7 +92,8 @@ class ImageEncoder(EncoderBase):
         src = F.relu(self.layer1(src[:, :, :, :] - 0.5), True)
         src = F.relu(self.layer2(src), True)
         # max pool 1 (batch_size, 64, imgH/2, imgW/2)
-        src = F.max_pool2d(src, kernel_size=(2, 2), stride=(2, 2))
+        src = F.max_pool2d(src, kernel_size=(2, 2), stride=(1, 1))
+        src = self.ds1(src)
         # batch norm 1
         src = self.batch_norm1(src)
 
@@ -128,6 +131,7 @@ class ImageEncoder(EncoderBase):
                 (pos_emb.view(1, pos_emb.size(0), pos_emb.size(1)), inp), 0)
             outputs, hidden_t = self.rnn(with_pos)
             all_outputs.append(outputs)
+        
         out = torch.cat(all_outputs, 0)
 
         return hidden_t, out, lengths

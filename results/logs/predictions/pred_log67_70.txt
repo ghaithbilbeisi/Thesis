@@ -1,0 +1,47 @@
+Traceback (most recent call last):
+  File "../ONMT/translate.py", line 7, in <module>
+    from onmt.utils.logging import init_logger
+  File "/home/bilbeisi/Thesis/ONMT/onmt/__init__.py", line 5, in <module>
+    import onmt.encoders
+  File "/home/bilbeisi/Thesis/ONMT/onmt/encoders/__init__.py", line 8, in <module>
+    from onmt.encoders.image_encoder import ImageEncoder
+  File "/home/bilbeisi/Thesis/ONMT/onmt/encoders/image_encoder.py", line 7, in <module>
+    from antialiased_cnn import *
+  File "/home/bilbeisi/Thesis/ONMT/antialiased_cnn/__init__.py", line 12, in <module>
+    from IPython import embed
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/IPython/__init__.py", line 55, in <module>
+    from .terminal.embed import embed
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/IPython/terminal/embed.py", line 16, in <module>
+    from IPython.terminal.interactiveshell import TerminalInteractiveShell
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/IPython/terminal/interactiveshell.py", line 33, in <module>
+    from .debugger import TerminalPdb, Pdb
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/IPython/terminal/debugger.py", line 6, in <module>
+    from IPython.core.completer import IPCompleter
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/IPython/core/completer.py", line 146, in <module>
+    import jedi
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/__init__.py", line 38, in <module>
+    from jedi.api import Script, Interpreter, set_debug_function, \
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/api/__init__.py", line 25, in <module>
+    from jedi.api import classes
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/api/classes.py", line 12, in <module>
+    from jedi.evaluate.utils import unite
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/evaluate/__init__.py", line 73, in <module>
+    from jedi.evaluate import imports
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/evaluate/imports.py", line 34, in <module>
+    from jedi.evaluate.gradual.typeshed import import_module_decorator
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/evaluate/gradual/typeshed.py", line 9, in <module>
+    from jedi.evaluate.gradual.stub_context import TypingModuleWrapper, StubModuleContext
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/evaluate/gradual/stub_context.py", line 2, in <module>
+    from jedi.evaluate.context.module import ModuleContext
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/jedi/evaluate/context/__init__.py", line 5, in <module>
+    from jedi.evaluate.context.instance import AnonymousInstance, BoundMethod, \
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 951, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 894, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1157, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1129, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1271, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 96, in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 88, in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 82, in _path_stat
+KeyboardInterrupt

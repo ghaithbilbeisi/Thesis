@@ -1,0 +1,175 @@
+
+////////////////////////////////////////////////
+////////////////   blend2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixFixedOctcubeQuantGenRGB: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixFixedOctcubeQuantGenRGB: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSetRGBComponent: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlendWithGrayMask: pixs2 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/blend2.14.png
+Error in pixGetRGBComponent: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixBlendWithGrayMask: pixs2 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlendWithGrayMask: pixs2 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Time:   0.005 sec
+
+////////////////////////////////////////////////
+////////////////   blend2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in blend2_reg, index 0: comparing /tmp/lept/regout/blend2.00.jpg with /tmp/lept/golden/blend2_golden.00.jpg
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixFixedOctcubeQuantGenRGB: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixFixedOctcubeQuantGenRGB: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSetRGBComponent: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlendWithGrayMask: pixs2 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/blend2.14.png
+Error in pixGetRGBComponent: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixBlendWithGrayMask: pixs2 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlendWithGrayMask: pixs2 not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in blend2_reg, index 1: comparing /tmp/lept/regout/blend2.01.jpg with /tmp/lept/golden/blend2_golden.01.jpg
+Time:   0.005 sec
+FAIL blend2_reg (exit status: 1)

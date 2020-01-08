@@ -1,0 +1,21 @@
+
+////////////////////////////////////////////////
+////////////////   dwamorph1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   dwamorph1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Time:   0.000 sec
+FAIL dwamorph1_reg (exit status: 1)

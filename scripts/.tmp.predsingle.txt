@@ -1,0 +1,1 @@
+( \epsilon \gamma ^ { a _ { 1 } a _ { 2 } a _ { 3 } } \theta ) ( \theta \gamma ^ { a _ { 1 } a _ { 2 } a _ { 3 } } \theta ) = 0

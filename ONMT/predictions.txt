@@ -1,0 +1,20 @@
+\alpha _ { 1 } ^ { r } \gamma _ { 1 } + \ldots + \alpha _ { N } ^ { r } \gamma _ { N } = 0 \quad ( r = 1 , . . . , R ) \; ,
+\eta = - \frac { 1 } { 2 } \operatorname { l n } \left( \frac { \operatorname { c o s h } \left( \sqrt { 2 } b _ { \infty } \sqrt { 1 + \alpha ^ { 2 } } \; y - \operatorname { a r c s i n h } \; \alpha \right) } { \sqrt { 1 + \alpha ^ { 2 } } } \right)
+P _ { ( 2 ) } ^ { - } = \int \beta d \beta d ^ { 9 } p d ^ { 8 } \lambda \Phi ( - p , - \lambda ) \left( - \frac { p ^ { I } p ^ { I } } { 2 \beta } \right) \Phi ( p , \lambda ) \, .
+\Gamma ( z + 1 ) = \int _ { 0 } ^ { \infty } ~ d x ~ e ^ { - x } x ^ { z } .
+\frac { d } { d s } { \bf C } _ { i } = \frac { 1 } { 2 } \epsilon _ { i j k } { \bf C } _ { j } \times { \bf C } _ { k } \, .
+Z = \sum _ { s p i n s } \prod _ { c u l c s } W ( a | e , f , g | b , c , d | h ) ,
+\left\{ Q ^ { i } , Q ^ { j } \right\} = c ^ { i j } \Gamma ^ { M } C P _ { M } + C c ^ { i j } Z ,
+\breve { c } _ { n , \nu } = \sum _ { m = n } ^ { 2 n } \frac { \Gamma \left( \nu + m - \frac { D - 1 } { 2 } \right) } { \Gamma \left( \nu + n - \frac { D - 1 } { 2 } \right) } \; \check { a } _ { 2 ( m - n ) , m } \quad .
+R ( g ) = - f \left[ 3 \left[ ( \operatorname { l n } f ) ^ { \prime } \right] ^ { 2 } + \frac { \Lambda ( x ^ { 5 } ) } { M ^ { 3 } } \right] \; ,
+\frac { d } { d s } \frac { 1 } { \Gamma ( - s ) } \right\vert _ { s = 0 } = - 1 ,
+\dot { z } _ { 1 } = - N ^ { z } ( z _ { 1 } ) = - g ( z _ { 1 } ) = - \frac { z _ { 1 } } { P _ { z } ( z _ { 2 } - z _ { 1 } ) } ; \quad \dot { z } _ { 2 } = - \frac { z _ { 2 } } { P _ { z } ( z _ { 2 } - z _ { 1 } ) }
+c _ { \alpha } = \sum _ { \beta \in \Lambda _ { R } } \epsilon ( \alpha , \beta ) | \beta + \bar { p } > < \beta + \bar { p } |
+{ \cal L } = - \frac { 1 } { 4 } F _ { \mu \nu } F ^ { \mu \nu } + \bar { \psi } ( i \gamma ^ { \mu } D _ { \mu } - m ) \psi \, ,
+e ^ { i { \bf k } \cdot { \bf r } } = e ^ { i k r \operatorname { c o s } ( \theta - { \bf g } ) } = \sum _ { l = - \infty } ^ { \infty } i ^ { l } \, J _ { l } ( k r ) \, e ^ { i l ( \theta - \Theta ) } \, ,
+i \sqrt { 2 } \partial _ { - } \chi - g [ \phi , \psi ] = 0 , \quad \partial _ { - } ^ { 2 } \bar { A } _ { + } - g ^ { 2 } J ^ { + } = 0 .
+\Omega _ { k } ^ { ( l ) } = \sum _ { s = 0 } \int d ^ { 3 } y \left( ( - 1 ) ^ { s + 1 } \frac { d ^ { s } } { d t ^ { s } } \phi _ { k } ^ { i ( s ) } ( x , y ) L _ { i } ^ { ( 0 ) } ( y ) \right) .
+L _ { g } ^ { ' } \Big ( v ( h ) \Big ) = v ( L _ { g } h ) = v ( g h ) \, , \; \; \forall g , h \in G ,
+\xi ^ { 2 } = \left( \frac { \varepsilon _ { 1 } - \varepsilon _ { 2 } } { \varepsilon _ { 1 } + \varepsilon _ { 2 } } \right) ^ { 2 } = \left( \frac { \mu _ { 1 } - \mu _ { 2 } } { \mu _ { 1 } + \mu _ { 2 } } \right) ^ { 2 } ,
+R ( e _ { 1 } ) = \epsilon ^ { - J _ { 6 7 } + J _ { 8 9 } } , \quad R ( e _ { 2 } ) = \epsilon ^ { J _ { 4 5 } - J _ { 8 9 } } .
+\tilde { \cal E } _ { m < 0 } = { \cal E } _ { m < 0 } ( B ) - { \cal E } ( 0 ) = \frac { B ^ { 2 } } { 2 } + \frac { ( e B ) ^ { \frac { 3 } { 2 } } } { 2 \pi } g \left( \frac { e B } { m ^ { 2 } } \right) \, ,

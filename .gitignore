@@ -4,3 +4,5 @@
 /data/im2text/images/
 /results/images_rendered/*
 /results/models/*
+/OCRopus/data/*
+tesstrain/data/*

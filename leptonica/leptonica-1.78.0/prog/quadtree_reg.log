@@ -1,0 +1,95 @@
+
+////////////////////////////////////////////////
+////////////////   quadtree_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaaWriteMem: work-around: writing to a temp file
+Info in boxaaWriteMem: work-around: writing to a temp file
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in fpixaDisplayQuadtree: bmf not made; text will not be addedError in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in fpixaDisplayQuadtree: bmf not made; text will not be addedError in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in fpixaDisplayQuadtree: bmf not made; text will not be addedError in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.258 sec
+
+////////////////////////////////////////////////
+////////////////   quadtree_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaaWriteMem: work-around: writing to a temp file
+Info in boxaaWriteMem: work-around: writing to a temp file
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in fpixaDisplayQuadtree: bmf not made; text will not be addedError in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in fpixaDisplayQuadtree: bmf not made; text will not be addedError in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in fpixaDisplayQuadtree: bmf not made; text will not be addedError in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Error in pixAddSingleTextblock: no bitmap fonts; returning a copy
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.252 sec
+PASS quadtree_reg (exit status: 0)

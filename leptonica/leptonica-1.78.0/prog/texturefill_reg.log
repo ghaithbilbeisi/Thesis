@@ -1,0 +1,109 @@
+
+////////////////////////////////////////////////
+////////////////   texturefill_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixMaskOverColorPixels: pixs not defined
+Error in pixMorphSequence: pixs not defined
+Error in pixSeedfillBinary: pixs undefined or not 1 bpp
+Error in pixMorphSequence: pixs not defined
+Error in pixRemoveBorderConnComps: pixs undefined or not 1 bpp
+Error in pixXor: pixs1 not defined
+Error in pixConnCompBB: pixs undefined or not 1 bpp
+Error in boxaGetBox: boxa not defined
+Error in pixFindRepCloseTile: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixRenderBox: pix not defined
+Error in boxGetGeometry: box not defined
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixMirroredTiling: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixFindRepCloseTile: pixs not defined
+Error in pixRenderBox: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlend: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixCopy: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixGetColorNearMaskBoundary: pixs undefined or not 32 bpp
+Error in pixClipRectangle: pixs not defined
+Error in boxGetGeometry: box not defined
+Error in pixSetMaskedGeneral: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixCopy: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixFlipLR: pixs not defined
+Error in pixOr: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   texturefill_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixMaskOverColorPixels: pixs not defined
+Error in pixMorphSequence: pixs not defined
+Error in pixSeedfillBinary: pixs undefined or not 1 bpp
+Error in pixMorphSequence: pixs not defined
+Error in pixRemoveBorderConnComps: pixs undefined or not 1 bpp
+Error in pixXor: pixs1 not defined
+Error in pixConnCompBB: pixs undefined or not 1 bpp
+Error in boxaGetBox: boxa not defined
+Error in pixFindRepCloseTile: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixRenderBox: pix not defined
+Error in boxGetGeometry: box not defined
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixMirroredTiling: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixFindRepCloseTile: pixs not defined
+Error in pixRenderBox: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlend: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixCopy: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixGetColorNearMaskBoundary: pixs undefined or not 32 bpp
+Error in pixClipRectangle: pixs not defined
+Error in boxGetGeometry: box not defined
+Error in pixSetMaskedGeneral: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixCopy: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixFlipLR: pixs not defined
+Error in pixOr: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL texturefill_reg (exit status: 1)

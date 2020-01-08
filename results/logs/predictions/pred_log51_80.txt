@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "../ONMT/translate.py", line 7, in <module>
+    from onmt.utils.logging import init_logger
+  File "/home/bilbeisi/Thesis/ONMT/onmt/__init__.py", line 5, in <module>
+    import onmt.encoders
+  File "/home/bilbeisi/Thesis/ONMT/onmt/encoders/__init__.py", line 7, in <module>
+    from onmt.encoders.audio_encoder import AudioEncoder
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 764, in get_code
+  File "<frozen importlib._bootstrap_external>", line 832, in get_data
+KeyboardInterrupt

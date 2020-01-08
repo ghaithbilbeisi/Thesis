@@ -1,0 +1,399 @@
+
+////////////////////////////////////////////////
+////////////////   pixa2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./blend-yellow.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./boxedpage.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.06.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.10.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.14.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.20.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.36.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.53.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.56.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./breviar.38.150.jpg
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-6.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-8.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-word.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form1.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./harmoniam-11.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./jpeg-coded.tif
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./blend-yellow.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./boxedpage.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.06.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.10.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.14.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.20.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.36.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.53.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.56.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./breviar.38.150.jpg
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-6.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-8.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-word.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form1.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./harmoniam-11.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./jpeg-coded.tif
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   pixa2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./blend-yellow.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./boxedpage.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.06.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.10.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.14.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.20.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.36.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.53.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.56.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./breviar.38.150.jpg
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-6.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-8.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-word.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form1.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./harmoniam-11.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./jpeg-coded.tif
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./blend-yellow.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./boxedpage.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.06.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.10.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.14.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.20.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.36.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.53.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./brev.56.75.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./breviar.38.150.jpg
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-6.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./chars-8.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-fract2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn-word.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./feyn.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form1.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./form2.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./harmoniam-11.tif
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixa2_reg: failed to read ./jpeg-coded.tif
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Time:   0.006 sec
+FAIL pixa2_reg (exit status: 1)

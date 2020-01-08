@@ -1,0 +1,139 @@
+
+////////////////////////////////////////////////
+////////////////   adaptnorm_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixContrastNorm: pixs undefined or not 8 bpp
+Time: Contrast norm:   0.000 Mpix/sec
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixDitherTo2bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBackgroundNormFlex: pixs undefined or not 8 bpp
+Time: Flexible bg norm:   0.000 Mpix/sec
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixScaleSmooth: pix not defined
+Error in pixScale: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixLocalExtrema: pixs not defined or not 8 bpp
+Error in pixExpandBinaryReplicate: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSeedfillGrayBasin: pixb undefined or not 1 bpp
+Error in pixExtendByReplication: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Error in pixApplyInvBackgroundGrayMap: pixs undefined or not 8 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   adaptnorm_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixContrastNorm: pixs undefined or not 8 bpp
+Time: Contrast norm:   0.000 Mpix/sec
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixDitherTo2bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBackgroundNormFlex: pixs undefined or not 8 bpp
+Time: Flexible bg norm:   0.000 Mpix/sec
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixScaleSmooth: pix not defined
+Error in pixScale: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixLocalExtrema: pixs not defined or not 8 bpp
+Error in pixExpandBinaryReplicate: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSeedfillGrayBasin: pixb undefined or not 1 bpp
+Error in pixExtendByReplication: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Error in pixApplyInvBackgroundGrayMap: pixs undefined or not 8 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL adaptnorm_reg (exit status: 1)

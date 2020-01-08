@@ -1,0 +1,79 @@
+
+////////////////////////////////////////////////
+////////////////   pnmio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWriteStreamAsciiPnm: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/pnm/pix2.1.pnm
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixWriteStreamPam: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixWriteStreamAsciiPnm: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/pnm/pix2.24.pnm
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixWriteStreamPam: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.023 sec
+
+////////////////////////////////////////////////
+////////////////   pnmio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWriteStreamAsciiPnm: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/pnm/pix2.1.pnm
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixWriteStreamPam: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixWriteStreamAsciiPnm: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/pnm/pix2.24.pnm
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixWriteStreamPam: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.009 sec
+FAIL pnmio_reg (exit status: 1)

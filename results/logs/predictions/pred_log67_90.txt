@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "../ONMT/translate.py", line 48, in <module>
+    main(opt)
+  File "../ONMT/translate.py", line 19, in main
+    translator = build_translator(opt, report_score=True)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 28, in build_translator
+    fields, model, model_opt = load_test_model(opt)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/model_builder.py", line 109, in load_test_model
+    opt.gpu)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/model_builder.py", line 208, in build_base_model
+    model.load_state_dict(checkpoint['model'], strict=False)
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/torch/nn/modules/module.py", line 777, in load_state_dict
+    self.__class__.__name__, "\n\t".join(error_msgs)))
+RuntimeError: Error(s) in loading state_dict for NMTModel:
+	size mismatch for encoder.layer8.weight: copying a param with shape torch.Size([128, 128, 2, 2]) from checkpoint, the shape in current model is torch.Size([256, 128, 2, 2]).
+	size mismatch for encoder.layer8.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.layer9.weight: copying a param with shape torch.Size([128, 128, 2, 2]) from checkpoint, the shape in current model is torch.Size([256, 256, 2, 2]).
+	size mismatch for encoder.layer9.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.layer10.weight: copying a param with shape torch.Size([128, 128, 2, 2]) from checkpoint, the shape in current model is torch.Size([256, 256, 2, 2]).
+	size mismatch for encoder.layer10.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.batch_norm3.weight: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.batch_norm3.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.batch_norm3.running_mean: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.batch_norm3.running_var: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for encoder.rnn.weight_ih_l0: copying a param with shape torch.Size([1000, 128]) from checkpoint, the shape in current model is torch.Size([1000, 256]).
+	size mismatch for encoder.rnn.weight_ih_l0_reverse: copying a param with shape torch.Size([1000, 128]) from checkpoint, the shape in current model is torch.Size([1000, 256]).
+	size mismatch for encoder.pos_lut.weight: copying a param with shape torch.Size([1000, 128]) from checkpoint, the shape in current model is torch.Size([1000, 256]).

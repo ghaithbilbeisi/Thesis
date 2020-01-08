@@ -1,0 +1,119 @@
+
+////////////////////////////////////////////////
+////////////////   jbclass_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix1.tif
+Warning in jbAddPages: image file 0 not read
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix2.tif
+Warning in jbAddPages: image file 1 not read
+Error in pixaDisplayOnLattice: no components
+Error in jbDataSave: data not made
+Error in jbDataWrite: no jbdata
+Number of classes: 0
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/corr.templates.png
+Error in regTestWritePixAndCheck: pix not defined
+Error in jbDataRender: data not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix1.tif
+Warning in jbAddPages: image file 0 not read
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix2.tif
+Warning in jbAddPages: image file 1 not read
+Error in pixaDisplayOnLattice: no components
+Error in jbDataSave: data not made
+Error in jbDataWrite: no jbdata
+Number of classes: 0
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class2/haus.templates.png
+Error in regTestWritePixAndCheck: pix not defined
+Error in jbDataRender: data not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   jbclass_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix1.tif
+Warning in jbAddPages: image file 0 not read
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix2.tif
+Warning in jbAddPages: image file 1 not read
+Error in pixaDisplayOnLattice: no components
+Error in jbDataSave: data not made
+Error in jbDataWrite: no jbdata
+Number of classes: 0
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/corr.templates.png
+Error in regTestWritePixAndCheck: pix not defined
+Error in jbDataRender: data not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix1.tif
+Warning in jbAddPages: image file 0 not read
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class/pix2.tif
+Warning in jbAddPages: image file 1 not read
+Error in pixaDisplayOnLattice: no components
+Error in jbDataSave: data not made
+Error in jbDataWrite: no jbdata
+Number of classes: 0
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/class2/haus.templates.png
+Error in regTestWritePixAndCheck: pix not defined
+Error in jbDataRender: data not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetPix: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.001 sec
+FAIL jbclass_reg (exit status: 1)

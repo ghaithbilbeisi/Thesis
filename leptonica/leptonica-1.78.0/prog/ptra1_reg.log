@@ -1,0 +1,157 @@
+
+////////////////////////////////////////////////
+////////////////   ptra1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaGetCount: pixa not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   ptra1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaGetCount: pixa not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaGetCount: pixa not defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL ptra1_reg (exit status: 1)

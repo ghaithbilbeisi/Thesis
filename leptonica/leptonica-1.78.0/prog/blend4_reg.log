@@ -1,0 +1,119 @@
+
+////////////////////////////////////////////////
+////////////////   blend4_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixAddAlphaToBlend: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixMirroredTiling: pixd not made
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixAddAlphaToBlend: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixAddAlphaToBlend: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixMirroredTiling: pixd not made
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaConvertToPdfData: no pdf files made
+Error in pixaConvertToPdf: conversion to pdf failed
+Info in blend4: Output pdf: /tmp/lept/regout/blend.pdf
+Time:   0.001 sec
+
+////////////////////////////////////////////////
+////////////////   blend4_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixAddAlphaToBlend: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixMirroredTiling: pixd not made
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixAddAlphaToBlend: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixAddAlphaToBlend: pixs not defined
+Error in pixMirroredTiling: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixMirroredTiling: pixd not made
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaConvertToPdfData: no pdf files made
+Error in pixaConvertToPdf: conversion to pdf failed
+Info in blend4: Output pdf: /tmp/lept/regout/blend.pdf
+Time:   0.001 sec
+FAIL blend4_reg (exit status: 1)

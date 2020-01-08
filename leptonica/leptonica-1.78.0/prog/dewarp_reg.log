@@ -1,0 +1,28 @@
+
+////////////////////////////////////////////////
+////////////////   dewarp_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixBackgroundNorm: pixs not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in dewarpGetTextlineCenters: pixs undefined or not 1 bpp
+Error in pixCreateTemplate: pixs not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in dewarpRemoveShortLines: pixs undefined or not 1 bpp
+Error in ptaaGetCount: ptaa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in dewarpCreate: pixs not defined
+Error in dewarp: 
+
+
+ FAILURE !!! 
+
+
+
+FAIL dewarp_reg (exit status: 1)

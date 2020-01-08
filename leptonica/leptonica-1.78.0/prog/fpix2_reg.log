@@ -1,0 +1,73 @@
+
+////////////////////////////////////////////////
+////////////////   fpix2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertToFPix: pixs not defined
+Error in fpixRotateOrth: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in fpixRotateOrth: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in fpixRotateOrth: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertToFPix: pixs not defined
+Error in fpixAddMirroredBorder: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixAddMirroredBorder: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in fpixAddContinuedBorder: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixAddContinuedBorder: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   fpix2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertToFPix: pixs not defined
+Error in fpixRotateOrth: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in fpixRotateOrth: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in fpixRotateOrth: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertToFPix: pixs not defined
+Error in fpixAddMirroredBorder: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixAddMirroredBorder: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in fpixAddContinuedBorder: fpixs not defined
+Error in fpixConvertToPix: fpixs not defined
+Error in pixAddContinuedBorder: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.000 sec
+FAIL fpix2_reg (exit status: 1)

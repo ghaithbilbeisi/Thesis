@@ -1,0 +1,65 @@
+
+////////////////////////////////////////////////
+////////////////   ccthin1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.009 sec
+
+////////////////////////////////////////////////
+////////////////   ccthin1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnected: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.016 sec
+FAIL ccthin1_reg (exit status: 1)

@@ -1,0 +1,1029 @@
+
+////////////////////////////////////////////////
+////////////////   binmorph3_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Testing with asymmetric boundary conditions
+==========================================
+w = 21, h = 1, selh = sel_21h, selv = (null)
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 0
+difference = 1.000000 but allowed delta = 0.000000
+w = 1, h = 7, selh = (null), selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 1
+difference = 1.000000 but allowed delta = 0.000000
+w = 21, h = 7, selh = sel_21h, selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixAddBorder: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Testing with symmetric boundary conditions
+==========================================
+w = 21, h = 1, selh = sel_21h, selv = (null)
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+w = 1, h = 7, selh = (null), selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 4
+difference = 1.000000 but allowed delta = 0.000000
+w = 21, h = 7, selh = sel_21h, selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixAddBorder: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Time:   0.002 sec
+
+////////////////////////////////////////////////
+////////////////   binmorph3_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Testing with asymmetric boundary conditions
+==========================================
+w = 21, h = 1, selh = sel_21h, selv = (null)
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 0
+difference = 1.000000 but allowed delta = 0.000000
+w = 1, h = 7, selh = (null), selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 1
+difference = 1.000000 but allowed delta = 0.000000
+w = 21, h = 7, selh = sel_21h, selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixAddBorder: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Testing with symmetric boundary conditions
+==========================================
+w = 21, h = 1, selh = sel_21h, selv = (null)
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+w = 1, h = 7, selh = (null), selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixClone: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixClone: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 4
+difference = 1.000000 but allowed delta = 0.000000
+w = 21, h = 7, selh = sel_21h, selv = sel_7v
+Testing dilation
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixDilateBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing erosion
+Error in processMorphArgs1: pixs not defined
+Error in pixErode: processMorphArgs1 failed
+Error in pixErodeBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing opening
+Error in processMorphArgs2: pixs not defined
+Error in pixOpen: pixd not returned
+Error in pixOpenBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing closing
+Error in processMorphArgs2: pixs not defined
+Error in pixClose: pixd not returned
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix2 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Testing safe closing
+Error in pixCloseSafe: pixs not defined
+Error in pixCloseSafeBrick: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix0 !
+Error in pixCloseBrickDwa: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix1 !
+Error in pixAddBorder: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixMorphDwa_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix3 !
+Error in pixAddBorder: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixFMorphopGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+pixref != pix4 !
+Failure in binmorph3_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Time:   0.001 sec
+FAIL binmorph3_reg (exit status: 1)

@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "../ONMT/translate.py", line 7, in <module>
+    from onmt.utils.logging import init_logger
+  File "/home/bilbeisi/Thesis/ONMT/onmt/__init__.py", line 4, in <module>
+    import onmt.inputters
+  File "/home/bilbeisi/Thesis/ONMT/onmt/inputters/__init__.py", line 6, in <module>
+    from onmt.inputters.inputter import \
+  File "/home/bilbeisi/Thesis/ONMT/onmt/inputters/inputter.py", line 10, in <module>
+    import torch
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/torch/__init__.py", line 44, in <module>
+    import numpy as _np  # noqa: F401
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import core
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/numpy/core/__init__.py", line 71, in <module>
+    from . import numeric
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/numpy/core/numeric.py", line 33, in <module>
+    from ._exceptions import TooHardError, AxisError
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 764, in get_code
+  File "<frozen importlib._bootstrap_external>", line 832, in get_data
+KeyboardInterrupt

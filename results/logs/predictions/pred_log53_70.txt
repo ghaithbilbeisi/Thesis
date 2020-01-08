@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "../ONMT/translate.py", line 48, in <module>
+    main(opt)
+  File "../ONMT/translate.py", line 19, in main
+    translator = build_translator(opt, report_score=True)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 28, in build_translator
+    fields, model, model_opt = load_test_model(opt)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/model_builder.py", line 95, in load_test_model
+    map_location=lambda storage, loc: storage)
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/torch/serialization.py", line 419, in load
+    f = open(f, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '../results/models/im2latex-53_step_70000.pt'

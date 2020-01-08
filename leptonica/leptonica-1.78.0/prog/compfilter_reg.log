@@ -1,0 +1,891 @@
+
+////////////////////////////////////////////////
+////////////////   compfilter_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixCopy: pixs not defined
+Error in pixCreateTemplate: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixaFindAreaFraction: pixa not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 28
+difference = 1.000000 but allowed delta = 0.000000
+WRONG! band[0]: num. ones = 0; expected = 1
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 29
+difference = 1.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 1
+Failure in compfilter_reg: value comparison for index 30
+difference = 1.000000 but allowed delta = 0.000000
+WRONG! total[0]: num. ones = 0; expected = 1
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 31
+difference = 1.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 1
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 32
+difference = 11.000000 but allowed delta = 0.000000
+WRONG! band[1]: num. ones = 0; expected = 11
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 33
+difference = 11.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 11
+Failure in compfilter_reg: value comparison for index 34
+difference = 12.000000 but allowed delta = 0.000000
+WRONG! total[1]: num. ones = 0; expected = 12
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 35
+difference = 12.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 12
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 36
+difference = 48.000000 but allowed delta = 0.000000
+WRONG! band[2]: num. ones = 0; expected = 48
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 37
+difference = 48.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 48
+Failure in compfilter_reg: value comparison for index 38
+difference = 60.000000 but allowed delta = 0.000000
+WRONG! total[2]: num. ones = 0; expected = 60
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 39
+difference = 60.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 60
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 40
+difference = 264.000000 but allowed delta = 0.000000
+WRONG! band[3]: num. ones = 0; expected = 264
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 41
+difference = 264.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 264
+Failure in compfilter_reg: value comparison for index 42
+difference = 324.000000 but allowed delta = 0.000000
+WRONG! total[3]: num. ones = 0; expected = 324
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 43
+difference = 324.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 324
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 44
+difference = 574.000000 but allowed delta = 0.000000
+WRONG! band[4]: num. ones = 0; expected = 574
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 45
+difference = 574.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 574
+Failure in compfilter_reg: value comparison for index 46
+difference = 898.000000 but allowed delta = 0.000000
+WRONG! total[4]: num. ones = 0; expected = 898
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 47
+difference = 898.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 898
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 48
+difference = 704.000000 but allowed delta = 0.000000
+WRONG! band[5]: num. ones = 0; expected = 704
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 49
+difference = 704.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 704
+Failure in compfilter_reg: value comparison for index 50
+difference = 1602.000000 but allowed delta = 0.000000
+WRONG! total[5]: num. ones = 0; expected = 1602
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 51
+difference = 1602.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 1602
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 52
+difference = 908.000000 but allowed delta = 0.000000
+WRONG! band[6]: num. ones = 0; expected = 908
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 53
+difference = 908.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 908
+Failure in compfilter_reg: value comparison for index 54
+difference = 2510.000000 but allowed delta = 0.000000
+WRONG! total[6]: num. ones = 0; expected = 2510
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 55
+difference = 2510.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 2510
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 56
+difference = 786.000000 but allowed delta = 0.000000
+WRONG! band[7]: num. ones = 0; expected = 786
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 57
+difference = 786.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 786
+Failure in compfilter_reg: value comparison for index 58
+difference = 3296.000000 but allowed delta = 0.000000
+WRONG! total[7]: num. ones = 0; expected = 3296
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 59
+difference = 3296.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 3296
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 60
+difference = 466.000000 but allowed delta = 0.000000
+WRONG! band[8]: num. ones = 0; expected = 466
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 61
+difference = 466.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 466
+Failure in compfilter_reg: value comparison for index 62
+difference = 3762.000000 but allowed delta = 0.000000
+WRONG! total[8]: num. ones = 0; expected = 3762
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 63
+difference = 3762.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 3762
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 64
+difference = 157.000000 but allowed delta = 0.000000
+WRONG! band[9]: num. ones = 0; expected = 157
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 65
+difference = 157.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 157
+Failure in compfilter_reg: value comparison for index 66
+difference = 3919.000000 but allowed delta = 0.000000
+WRONG! total[9]: num. ones = 0; expected = 3919
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 67
+difference = 3919.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 3919
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 68
+difference = 156.000000 but allowed delta = 0.000000
+WRONG! band[10]: num. ones = 0; expected = 156
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 69
+difference = 156.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 156
+Failure in compfilter_reg: value comparison for index 70
+difference = 4075.000000 but allowed delta = 0.000000
+WRONG! total[10]: num. ones = 0; expected = 4075
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 71
+difference = 4075.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 4075
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 72
+difference = 230.000000 but allowed delta = 0.000000
+WRONG! band[11]: num. ones = 0; expected = 230
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 73
+difference = 230.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 230
+Failure in compfilter_reg: value comparison for index 74
+difference = 4305.000000 but allowed delta = 0.000000
+WRONG! total[11]: num. ones = 0; expected = 4305
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 75
+difference = 4305.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 4305
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixZero: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixaFindDimensions: pixa not defined
+Error in pixaFindPerimToAreaRatio: pixa not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in pixRemoveWithIndicator: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Time:   0.002 sec
+
+////////////////////////////////////////////////
+////////////////   compfilter_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixCopy: pixs not defined
+Error in pixCreateTemplate: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixaFindAreaFraction: pixa not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 28
+difference = 1.000000 but allowed delta = 0.000000
+WRONG! band[0]: num. ones = 0; expected = 1
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 29
+difference = 1.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 1
+Failure in compfilter_reg: value comparison for index 30
+difference = 1.000000 but allowed delta = 0.000000
+WRONG! total[0]: num. ones = 0; expected = 1
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 31
+difference = 1.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 1
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 32
+difference = 11.000000 but allowed delta = 0.000000
+WRONG! band[1]: num. ones = 0; expected = 11
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 33
+difference = 11.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 11
+Failure in compfilter_reg: value comparison for index 34
+difference = 12.000000 but allowed delta = 0.000000
+WRONG! total[1]: num. ones = 0; expected = 12
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 35
+difference = 12.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 12
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 36
+difference = 48.000000 but allowed delta = 0.000000
+WRONG! band[2]: num. ones = 0; expected = 48
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 37
+difference = 48.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 48
+Failure in compfilter_reg: value comparison for index 38
+difference = 60.000000 but allowed delta = 0.000000
+WRONG! total[2]: num. ones = 0; expected = 60
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 39
+difference = 60.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 60
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 40
+difference = 264.000000 but allowed delta = 0.000000
+WRONG! band[3]: num. ones = 0; expected = 264
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 41
+difference = 264.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 264
+Failure in compfilter_reg: value comparison for index 42
+difference = 324.000000 but allowed delta = 0.000000
+WRONG! total[3]: num. ones = 0; expected = 324
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 43
+difference = 324.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 324
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 44
+difference = 574.000000 but allowed delta = 0.000000
+WRONG! band[4]: num. ones = 0; expected = 574
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 45
+difference = 574.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 574
+Failure in compfilter_reg: value comparison for index 46
+difference = 898.000000 but allowed delta = 0.000000
+WRONG! total[4]: num. ones = 0; expected = 898
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 47
+difference = 898.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 898
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 48
+difference = 704.000000 but allowed delta = 0.000000
+WRONG! band[5]: num. ones = 0; expected = 704
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 49
+difference = 704.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 704
+Failure in compfilter_reg: value comparison for index 50
+difference = 1602.000000 but allowed delta = 0.000000
+WRONG! total[5]: num. ones = 0; expected = 1602
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 51
+difference = 1602.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 1602
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 52
+difference = 908.000000 but allowed delta = 0.000000
+WRONG! band[6]: num. ones = 0; expected = 908
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 53
+difference = 908.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 908
+Failure in compfilter_reg: value comparison for index 54
+difference = 2510.000000 but allowed delta = 0.000000
+WRONG! total[6]: num. ones = 0; expected = 2510
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 55
+difference = 2510.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 2510
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 56
+difference = 786.000000 but allowed delta = 0.000000
+WRONG! band[7]: num. ones = 0; expected = 786
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 57
+difference = 786.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 786
+Failure in compfilter_reg: value comparison for index 58
+difference = 3296.000000 but allowed delta = 0.000000
+WRONG! total[7]: num. ones = 0; expected = 3296
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 59
+difference = 3296.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 3296
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 60
+difference = 466.000000 but allowed delta = 0.000000
+WRONG! band[8]: num. ones = 0; expected = 466
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 61
+difference = 466.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 466
+Failure in compfilter_reg: value comparison for index 62
+difference = 3762.000000 but allowed delta = 0.000000
+WRONG! total[8]: num. ones = 0; expected = 3762
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 63
+difference = 3762.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 3762
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 64
+difference = 157.000000 but allowed delta = 0.000000
+WRONG! band[9]: num. ones = 0; expected = 157
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 65
+difference = 157.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 157
+Failure in compfilter_reg: value comparison for index 66
+difference = 3919.000000 but allowed delta = 0.000000
+WRONG! total[9]: num. ones = 0; expected = 3919
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 67
+difference = 3919.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 3919
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 68
+difference = 156.000000 but allowed delta = 0.000000
+WRONG! band[10]: num. ones = 0; expected = 156
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 69
+difference = 156.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 156
+Failure in compfilter_reg: value comparison for index 70
+difference = 4075.000000 but allowed delta = 0.000000
+WRONG! total[10]: num. ones = 0; expected = 4075
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 71
+difference = 4075.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 4075
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaGetCount: na not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in numaGetCount: na not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in pixaSelectWithIndicator: pixas not defined
+Error in pixaDisplay: pixa not defined
+Error in pixOr: pixs1 not defined
+Error in pixCopy: pixs not defined
+Error in numaGetCount: na not defined
+Failure in compfilter_reg: value comparison for index 72
+difference = 230.000000 but allowed delta = 0.000000
+WRONG! band[11]: num. ones = 0; expected = 230
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 73
+difference = 230.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 230
+Failure in compfilter_reg: value comparison for index 74
+difference = 4305.000000 but allowed delta = 0.000000
+WRONG! total[11]: num. ones = 0; expected = 4305
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in compfilter_reg: value comparison for index 75
+difference = 4305.000000 but allowed delta = 0.000000
+WRONG!: Num. comps = 0; expected = 4305
+Error in pixRemoveWithIndicator: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixZero: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixaFindDimensions: pixa not defined
+Error in pixaFindPerimToAreaRatio: pixa not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaMakeThresholdIndicator: nas not defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaLogicalOp: na1, na2 not both defined
+Error in numaInvert: nas not defined
+Error in pixRemoveWithIndicator: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Time:   0.001 sec
+FAIL compfilter_reg (exit status: 1)

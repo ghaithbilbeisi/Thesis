@@ -1,0 +1,39 @@
+
+////////////////////////////////////////////////
+////////////////   locminmax_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixBlockconv: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixLocalExtrema: pixs not defined or not 8 bpp
+Error in pixConvertTo32: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.222 sec
+
+////////////////////////////////////////////////
+////////////////   locminmax_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixBlockconv: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixLocalExtrema: pixs not defined or not 8 bpp
+Error in pixConvertTo32: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.212 sec
+FAIL locminmax_reg (exit status: 1)

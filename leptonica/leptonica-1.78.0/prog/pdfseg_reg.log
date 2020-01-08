@@ -1,0 +1,201 @@
+
+////////////////////////////////////////////////
+////////////////   pdfseg_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixConvertTo1: pixs not defined
+Error in pixExpandBinaryPower2: pixs not defined
+Error in pixGenerateHalftoneMask: pixs undefined or not 1 bpp
+Error in pixMorphSequence: pixs not defined
+Error in pixMaskConnComp: pixs undefined or not 1 bpp
+Error in pixReduceBinary2: pixs undefined or not 1 bpp
+Error in pixBackgroundNorm: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaTransform: boxas not defined
+Error in boxaaAddBoxa: ba not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaaAddBoxa: ba not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixGetHeight: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in convertToPdfDataSegmented: pixs not made
+Error in convertSegmentedFilesToPdf: pdf encoding failed for /tmp/lept/pdfseg/3.jpg
+Error in convertSegmentedFilesToPdf: no pdf files made
+Info in pdfseg: Generated pdf file: /tmp/lept/regout/pdfseg.7.pdf
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Time:   0.200 sec
+
+////////////////////////////////////////////////
+////////////////   pdfseg_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in pdfseg_reg, index 0: comparing /tmp/lept/pdfseg/0.jpg with /tmp/lept/golden/pdfseg_golden.00.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixConvertTo1: pixs not defined
+Error in pixExpandBinaryPower2: pixs not defined
+Error in pixGenerateHalftoneMask: pixs undefined or not 1 bpp
+Error in pixMorphSequence: pixs not defined
+Error in pixMaskConnComp: pixs undefined or not 1 bpp
+Error in pixReduceBinary2: pixs undefined or not 1 bpp
+Error in pixBackgroundNorm: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in pdfseg_reg, index 1: comparing /tmp/lept/pdfseg/1.jpg with /tmp/lept/golden/pdfseg_golden.01.jpg
+Error in boxaTransform: boxas not defined
+Error in boxaaAddBoxa: ba not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in pdfseg_reg, index 2: comparing /tmp/lept/pdfseg/2.jpg with /tmp/lept/golden/pdfseg_golden.02.jpg
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaaAddBoxa: ba not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in pdfseg_reg, index 3: comparing /tmp/lept/pdfseg/3.jpg with /tmp/lept/golden/pdfseg_golden.03.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in pdfseg_reg, index 4: comparing /tmp/lept/pdfseg/4.jpg with /tmp/lept/golden/pdfseg_golden.04.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in pdfseg_reg, index 5: comparing /tmp/lept/pdfseg/5.jpg with /tmp/lept/golden/pdfseg_golden.05.jpg
+Error in pixGetHeight: pix not defined
+Error in findFileFormatStream: truncated file
+Error in pixReadStream: Unknown format: no pix returned
+Error in pixRead: pix not read
+Error in convertToPdfDataSegmented: pixs not made
+Error in convertSegmentedFilesToPdf: pdf encoding failed for /tmp/lept/pdfseg/3.jpg
+Error in convertSegmentedFilesToPdf: no pdf files made
+Info in pdfseg: Generated pdf file: /tmp/lept/regout/pdfseg.7.pdf
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in pdfseg_reg, index 7: comparing /tmp/lept/regout/pdfseg.7.pdf with /tmp/lept/golden/pdfseg_golden.07.pdf
+Time:   0.194 sec
+FAIL pdfseg_reg (exit status: 1)

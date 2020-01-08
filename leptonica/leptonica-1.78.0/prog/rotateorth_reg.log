@@ -1,0 +1,173 @@
+
+////////////////////////////////////////////////
+////////////////   rotateorth_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+
+Test binary image:
+OK.  Four 90-degree rotations gives I
+OK.  Two 180-degree rotations gives I
+OK.  Two LR flips gives I
+OK.  Two TB flips gives I
+
+Test 4 bpp colormapped image:
+OK.  Four 90-degree rotations gives I
+OK.  Two 180-degree rotations gives I
+OK.  Two LR flips gives I
+OK.  Two TB flips gives I
+
+Test grayscale image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Four 90-degree rotations gives I
+Error in pixRotate180: pixs not defined
+Error in pixRotate180: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two 180-degree rotations gives I
+Error in pixFlipLR: pixs not defined
+Error in pixFlipLR: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two LR flips gives I
+Error in pixFlipTB: pixs not defined
+Error in pixFlipTB: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two TB flips gives I
+
+Test colormap image:
+OK.  Four 90-degree rotations gives I
+OK.  Two 180-degree rotations gives I
+OK.  Two LR flips gives I
+OK.  Two TB flips gives I
+
+Test rgb image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Four 90-degree rotations gives I
+Error in pixRotate180: pixs not defined
+Error in pixRotate180: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two 180-degree rotations gives I
+Error in pixFlipLR: pixs not defined
+Error in pixFlipLR: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two LR flips gives I
+Error in pixFlipTB: pixs not defined
+Error in pixFlipTB: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two TB flips gives I
+Time:   0.011 sec
+
+////////////////////////////////////////////////
+////////////////   rotateorth_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+
+Test binary image:
+OK.  Four 90-degree rotations gives I
+OK.  Two 180-degree rotations gives I
+OK.  Two LR flips gives I
+OK.  Two TB flips gives I
+
+Test 4 bpp colormapped image:
+OK.  Four 90-degree rotations gives I
+OK.  Two 180-degree rotations gives I
+OK.  Two LR flips gives I
+OK.  Two TB flips gives I
+
+Test grayscale image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Four 90-degree rotations gives I
+Error in pixRotate180: pixs not defined
+Error in pixRotate180: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two 180-degree rotations gives I
+Error in pixFlipLR: pixs not defined
+Error in pixFlipLR: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two LR flips gives I
+Error in pixFlipTB: pixs not defined
+Error in pixFlipTB: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two TB flips gives I
+
+Test colormap image:
+OK.  Four 90-degree rotations gives I
+OK.  Two 180-degree rotations gives I
+OK.  Two LR flips gives I
+OK.  Two TB flips gives I
+
+Test rgb image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in pixRotate90: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Four 90-degree rotations gives I
+Error in pixRotate180: pixs not defined
+Error in pixRotate180: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two 180-degree rotations gives I
+Error in pixFlipLR: pixs not defined
+Error in pixFlipLR: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two LR flips gives I
+Error in pixFlipTB: pixs not defined
+Error in pixFlipTB: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixXor: pixs1 not defined
+Error in pixZero: pix not defined
+OK.  Two TB flips gives I
+Time:   0.004 sec
+FAIL rotateorth_reg (exit status: 1)

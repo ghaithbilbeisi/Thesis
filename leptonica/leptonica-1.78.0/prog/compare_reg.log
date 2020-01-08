@@ -1,0 +1,117 @@
+
+////////////////////////////////////////////////
+////////////////   compare_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+delta cx = 32, delta cy = 12
+delx = 32, dely = 12, score =  0.9999
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixTranslate: pixs not defined
+Error in pixCompareWithTranslation: pix1 not defined
+delx = 0, dely = 0
+Failure in compare_reg: value comparison for index 3
+difference = 45.000000 but allowed delta = 0.000000
+Failure in compare_reg: value comparison for index 4
+difference = 25.000000 but allowed delta = 0.000000
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetPerceptualDiff: pixs1 not defined
+Fraction of color pixels = 1.000000
+Failure in compare_reg: value comparison for index 7
+difference = 0.938748 but allowed delta = 0.010000
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixGetPerceptualDiff: pixs1 not defined
+Fraction of grayscale pixels = 1.000000
+Failure in compare_reg: value comparison for index 8
+difference = 0.953072 but allowed delta = 0.000200
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.013 sec
+
+////////////////////////////////////////////////
+////////////////   compare_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+delta cx = 32, delta cy = 12
+delx = 32, dely = 12, score =  0.9999
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixTranslate: pixs not defined
+Error in pixCompareWithTranslation: pix1 not defined
+delx = 0, dely = 0
+Failure in compare_reg: value comparison for index 3
+difference = 45.000000 but allowed delta = 0.000000
+Failure in compare_reg: value comparison for index 4
+difference = 25.000000 but allowed delta = 0.000000
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in compare_reg, index 5: comparing /tmp/lept/regout/compare.pdf with /tmp/lept/golden/compare_golden.05.pdf
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in compare_reg, index 6: comparing /tmp/lept/regout/correl.pdf with /tmp/lept/golden/compare_golden.06.pdf
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetPerceptualDiff: pixs1 not defined
+Fraction of color pixels = 1.000000
+Failure in compare_reg: value comparison for index 7
+difference = 0.938748 but allowed delta = 0.010000
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixGetPerceptualDiff: pixs1 not defined
+Fraction of grayscale pixels = 1.000000
+Failure in compare_reg: value comparison for index 8
+difference = 0.953072 but allowed delta = 0.000200
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.028 sec
+FAIL compare_reg (exit status: 1)

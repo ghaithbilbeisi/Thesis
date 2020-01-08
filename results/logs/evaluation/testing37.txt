@@ -1,0 +1,88 @@
+Wrote 0 lines to ../results/predictions/results37_70.txt
+2019-10-22 22:47:18,171 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+Illegal division by zero at third_party/multi-bleu.perl line 154, <STDIN> line 10355.
+Traceback (most recent call last):
+  File "evaluation/evaluate_bleu.py", line 88, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_bleu.py", line 81, in main
+    metric = subprocess.check_output('perl third_party/multi-bleu.perl %s < %s'%('.tmp.gold.txt', '.tmp.pred.txt'), shell=True)
+  File "/usr/lib/python3.6/subprocess.py", line 356, in check_output
+    **kwargs).stdout
+  File "/usr/lib/python3.6/subprocess.py", line 438, in run
+    output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command 'perl third_party/multi-bleu.perl .tmp.gold.txt < .tmp.pred.txt' returned non-zero exit status 255.
+2019-10-22 22:47:20,304 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+Traceback (most recent call last):
+  File "evaluation/evaluate_text_edit_distance.py", line 58, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_text_edit_distance.py", line 54, in main
+    print('Edit Distance Accuracy: %f'%(1.-float(total_edit_distance)/total_ref))
+ZeroDivisionError: float division by zero
+
+
+Wrote 0 lines to ../results/predictions/results37_80.txt
+2019-10-22 22:47:22,276 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+Illegal division by zero at third_party/multi-bleu.perl line 154, <STDIN> line 10355.
+Traceback (most recent call last):
+  File "evaluation/evaluate_bleu.py", line 88, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_bleu.py", line 81, in main
+    metric = subprocess.check_output('perl third_party/multi-bleu.perl %s < %s'%('.tmp.gold.txt', '.tmp.pred.txt'), shell=True)
+  File "/usr/lib/python3.6/subprocess.py", line 356, in check_output
+    **kwargs).stdout
+  File "/usr/lib/python3.6/subprocess.py", line 438, in run
+    output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command 'perl third_party/multi-bleu.perl .tmp.gold.txt < .tmp.pred.txt' returned non-zero exit status 255.
+2019-10-22 22:47:24,418 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+Traceback (most recent call last):
+  File "evaluation/evaluate_text_edit_distance.py", line 58, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_text_edit_distance.py", line 54, in main
+    print('Edit Distance Accuracy: %f'%(1.-float(total_edit_distance)/total_ref))
+ZeroDivisionError: float division by zero
+
+
+Wrote 0 lines to ../results/predictions/results37_90.txt
+2019-10-22 22:47:26,409 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+Illegal division by zero at third_party/multi-bleu.perl line 154, <STDIN> line 10355.
+Traceback (most recent call last):
+  File "evaluation/evaluate_bleu.py", line 88, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_bleu.py", line 81, in main
+    metric = subprocess.check_output('perl third_party/multi-bleu.perl %s < %s'%('.tmp.gold.txt', '.tmp.pred.txt'), shell=True)
+  File "/usr/lib/python3.6/subprocess.py", line 356, in check_output
+    **kwargs).stdout
+  File "/usr/lib/python3.6/subprocess.py", line 438, in run
+    output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command 'perl third_party/multi-bleu.perl .tmp.gold.txt < .tmp.pred.txt' returned non-zero exit status 255.
+2019-10-22 22:47:30,675 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+Traceback (most recent call last):
+  File "evaluation/evaluate_text_edit_distance.py", line 58, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_text_edit_distance.py", line 54, in main
+    print('Edit Distance Accuracy: %f'%(1.-float(total_edit_distance)/total_ref))
+ZeroDivisionError: float division by zero
+
+
+Wrote 0 lines to ../results/predictions/results37_100.txt
+2019-10-22 22:47:32,645 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+Illegal division by zero at third_party/multi-bleu.perl line 154, <STDIN> line 10355.
+Traceback (most recent call last):
+  File "evaluation/evaluate_bleu.py", line 88, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_bleu.py", line 81, in main
+    metric = subprocess.check_output('perl third_party/multi-bleu.perl %s < %s'%('.tmp.gold.txt', '.tmp.pred.txt'), shell=True)
+  File "/usr/lib/python3.6/subprocess.py", line 356, in check_output
+    **kwargs).stdout
+  File "/usr/lib/python3.6/subprocess.py", line 438, in run
+    output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command 'perl third_party/multi-bleu.perl .tmp.gold.txt < .tmp.pred.txt' returned non-zero exit status 255.
+2019-10-22 22:47:34,772 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+Traceback (most recent call last):
+  File "evaluation/evaluate_text_edit_distance.py", line 58, in <module>
+    main(sys.argv[1:])
+  File "evaluation/evaluate_text_edit_distance.py", line 54, in main
+    print('Edit Distance Accuracy: %f'%(1.-float(total_edit_distance)/total_ref))
+ZeroDivisionError: float division by zero
+
+

@@ -1,0 +1,29 @@
+
+////////////////////////////////////////////////
+////////////////   watershed_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Time for extrema:   0.035
+Info in wshedApply: nseeds = 24, nother = 0
+Time for wshed:   0.422
+Info in numaWriteMem: work-around: writing to a temp file
+Time for extrema:   0.092
+Info in wshedApply: nseeds = 15, nother = 0
+Time for wshed:   0.362
+Info in numaWriteMem: work-around: writing to a temp file
+Time:   1.927 sec
+
+////////////////////////////////////////////////
+////////////////   watershed_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Time for extrema:   0.035
+Info in wshedApply: nseeds = 24, nother = 0
+Time for wshed:   0.418
+Info in numaWriteMem: work-around: writing to a temp file
+Time for extrema:   0.091
+Info in wshedApply: nseeds = 15, nother = 0
+Time for wshed:   0.364
+Info in numaWriteMem: work-around: writing to a temp file
+Time:   1.892 sec
+PASS watershed_reg (exit status: 0)

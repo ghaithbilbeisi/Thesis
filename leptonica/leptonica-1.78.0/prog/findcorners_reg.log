@@ -1,0 +1,53 @@
+
+////////////////////////////////////////////////
+////////////////   findcorners_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixMorphSequence: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaSelectBySize: boxas not defined
+Error in boxaTransform: boxas not defined
+Error in pixSelectBySize: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in boxaGetCount: boxa not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixUnionOfMorphOps: pixs undefined or not 1 bpp
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixXor: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   findcorners_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixMorphSequence: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaSelectBySize: boxas not defined
+Error in boxaTransform: boxas not defined
+Error in pixSelectBySize: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in boxaGetCount: boxa not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixUnionOfMorphOps: pixs undefined or not 1 bpp
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixXor: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL findcorners_reg (exit status: 1)

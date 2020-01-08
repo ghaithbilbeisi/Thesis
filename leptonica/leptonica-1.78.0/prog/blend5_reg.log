@@ -1,0 +1,67 @@
+
+////////////////////////////////////////////////
+////////////////   blend5_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSnapColor: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeQuantNumColors: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSnapColor: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFixedOctcubeQuant256: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSnapColor: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Time:   0.127 sec
+
+////////////////////////////////////////////////
+////////////////   blend5_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSnapColor: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeQuantNumColors: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSnapColor: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFixedOctcubeQuant256: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSnapColor: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in blend5_reg, index 2: comparing /tmp/lept/regout/blend5.02.jpg with /tmp/lept/golden/blend5_golden.02.jpg
+Time:   0.125 sec
+FAIL blend5_reg (exit status: 1)

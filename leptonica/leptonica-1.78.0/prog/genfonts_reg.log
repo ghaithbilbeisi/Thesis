@@ -1,0 +1,439 @@
+
+////////////////////////////////////////////////
+////////////////   genfonts_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 4
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 6
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 8
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 10
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 12
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 14
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 16
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 18
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 20
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 11, 12, 12
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 18, 18, 18
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 24, 24, 24
+Error in pixaWrite: pixa not defined
+Error in pixaDisplayTiled: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 30, 30, 30
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 36, 36, 36
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 42, 42, 42
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 48, 48, 48
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 54, 54, 54
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 60, 60, 60
+Error in pixaWrite: pixa not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.004 sec
+
+////////////////////////////////////////////////
+////////////////   genfonts_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 4
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 6
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 8
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 10
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 12
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 14
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 16
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 18
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaGenerateFontFromFile: pix not found for font size 20
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in pixaSaveFont: pixa not made
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 11, 12, 12
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 18, 18, 18
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 24, 24, 24
+Error in pixaWrite: pixa not defined
+Error in pixaDisplayTiled: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 30, 30, 30
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 36, 36, 36
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 42, 42, 42
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 48, 48, 48
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 54, 54, 54
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in pixaRead: stream not opened
+Warning in pixaGetFont: pixa of char bitmaps not found
+Baselines are at: 60, 60, 60
+Error in pixaWrite: pixa not defined
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.006 sec
+FAIL genfonts_reg (exit status: 1)

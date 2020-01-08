@@ -1,0 +1,105 @@
+
+////////////////////////////////////////////////
+////////////////   conncomp_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixCountConnComp: pixs not defined or not 1 bpp
+Number of 4 c.c.:  n1 = 0; n2 = 0, n3 = 0
+Failure in conncomp_reg: value comparison for index 2
+difference = 4452.000000 but allowed delta = 0.000000
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in pixaDisplay: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixCountConnComp: pixs not defined or not 1 bpp
+Number of 8 c.c.:  n1 = 0; n2 = 0, n3 = 0
+Failure in conncomp_reg: value comparison for index 5
+difference = 4305.000000 but allowed delta = 0.000000
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in pixaDisplay: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaWriteStream: boxa not defined
+Error in boxaReadStream: not a boxa file
+Error in boxaWriteStream: boxa not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in pixaDisplayRandomCmap: pixa not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapResetColor: cmap not defined
+Error in regTestWritePixAndCheck: pix not defined
+Info in pixMakeCoveringOfRectangles: maxiters = 2 reached
+Info in pixMakeCoveringOfRectangles: maxiters = 3 reached
+Info in pixMakeCoveringOfRectangles: maxiters = 4 reached
+Info in pixMakeCoveringOfRectangles: maxiters = 5 reached
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.023 sec
+
+////////////////////////////////////////////////
+////////////////   conncomp_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixCountConnComp: pixs not defined or not 1 bpp
+Number of 4 c.c.:  n1 = 0; n2 = 0, n3 = 0
+Failure in conncomp_reg: value comparison for index 2
+difference = 4452.000000 but allowed delta = 0.000000
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in pixaDisplay: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixCountConnComp: pixs not defined or not 1 bpp
+Number of 8 c.c.:  n1 = 0; n2 = 0, n3 = 0
+Failure in conncomp_reg: value comparison for index 5
+difference = 4305.000000 but allowed delta = 0.000000
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in pixaDisplay: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaWriteStream: boxa not defined
+Error in boxaReadStream: not a boxa file
+Error in boxaWriteStream: boxa not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in pixaDisplayRandomCmap: pixa not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapResetColor: cmap not defined
+Error in regTestWritePixAndCheck: pix not defined
+Info in pixMakeCoveringOfRectangles: maxiters = 2 reached
+Info in pixMakeCoveringOfRectangles: maxiters = 3 reached
+Info in pixMakeCoveringOfRectangles: maxiters = 4 reached
+Info in pixMakeCoveringOfRectangles: maxiters = 5 reached
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.011 sec
+FAIL conncomp_reg (exit status: 1)

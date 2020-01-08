@@ -1,0 +1,41 @@
+
+////////////////////////////////////////////////
+////////////////   pixcomp_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixcompCreateFromPix: pix not defined
+Error in pixCreateFromPixcomp: pixc not defined
+Error in pixcompCreateFromPix: pix not defined
+Error in pixCreateFromPixcomp: pixc not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixacompAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToGray6: pixs not defined
+Error in pixcompCreateFromPix: pix not defined
+Error in pixCreateFromPixcomp: pixc not defined
+Error in pixcompCreateFromPix: pix not defined
+Error in pixCreateFromPixcomp: pixc not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixacompAddPix: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixcompCreateFromPix: pix not defined
+Error in pixCreateFromPixcomp: pixc not defined
+Error in pixcompCreateFromPix: pix not defined
+Error in pixCreateFromPixcomp: pixc not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixacompAddPix: pix not defined
+Format data for image 0:
+  format: png, size (w, h, d) = (82, 73, 4)
+  bps = 4, spp = 1, iscmap = 1
+Error in pixacompGetPixcomp: array index not valid
+Segmentation fault
+FAIL pixcomp_reg (exit status: 139)

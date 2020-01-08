@@ -1,0 +1,255 @@
+
+////////////////////////////////////////////////
+////////////////   binarize_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,     -nan Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 2 x 3 tiles,     -nan Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,     -nan Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 100 x 100 tiles,     -nan Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,     -nan Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 10 x 10 tiles,     -nan Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,     -nan Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 20 x 20 tiles,     -nan Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,     -nan Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 30 x 30 tiles,     -nan Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,     -nan Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 4 x 4 tiles,     -nan Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixContrastNorm: pixs undefined or not 8 bpp
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   binarize_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,    0.000 Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 2 x 3 tiles,    0.000 Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,    0.000 Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 100 x 100 tiles,    0.000 Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,    0.000 Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 10 x 10 tiles,    0.000 Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,    0.000 Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 20 x 20 tiles,    0.000 Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,    0.000 Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 30 x 30 tiles,    0.000 Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+
+Speed: 1 tile,    0.000 Mpix/sec
+Error in pixSauvolaBinarize: pixs undefined or not 8 bpp
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Speed: 4 x 4 tiles,    0.000 Mpix/sec
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixContrastNorm: pixs undefined or not 8 bpp
+Error in pixSauvolaBinarizeTiled: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL binarize_reg (exit status: 1)

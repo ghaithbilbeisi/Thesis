@@ -1,0 +1,129 @@
+
+////////////////////////////////////////////////
+////////////////   convolve_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixBlockconvAccum: pixs not defined
+Error in pixBlockconvGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlockconv: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleRGBToGrayFast: pixs not defined
+Error in pixCensusTransform: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvolve: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvolve: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixScaleBySampling: pixs not defined
+Error in pixBlockconv: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleRGBToGrayFast: pixs not defined
+Error in pixConvolveWithBias: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+bias = 0
+Error in pixConvolveWithBias: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+bias = 0
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixWindowedMean: pixs not defined
+Error in pixWindowedMeanSquare: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWindowedVariance: pixm undefined or not 8 bpp
+Error in fpixConvertToPix: fpixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWindowedStats: pixs not defined or not 8 bpp
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.005 sec
+
+////////////////////////////////////////////////
+////////////////   convolve_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixBlockconvAccum: pixs not defined
+Error in pixBlockconvGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBlockconv: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in convolve_reg, index 3: comparing /tmp/lept/regout/convolve.03.jpg with /tmp/lept/golden/convolve_golden.03.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleRGBToGrayFast: pixs not defined
+Error in pixCensusTransform: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvolve: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvolve: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixScaleBySampling: pixs not defined
+Error in pixBlockconv: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleRGBToGrayFast: pixs not defined
+Error in pixConvolveWithBias: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+bias = 0
+Error in pixConvolveWithBias: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+bias = 0
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixWindowedMean: pixs not defined
+Error in pixWindowedMeanSquare: pixs undefined or not 8 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWindowedVariance: pixm undefined or not 8 bpp
+Error in fpixConvertToPix: fpixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWindowedStats: pixs not defined or not 8 bpp
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in fpixDisplayMaxDynamicRange: fpixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.010 sec
+FAIL convolve_reg (exit status: 1)

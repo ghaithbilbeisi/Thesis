@@ -1,0 +1,33 @@
+[2019-11-27 14:24:37,339 INFO] Translating shard 0.
+/home/bilbeisi/env/lib/python3.6/site-packages/torchtext/data/field.py:359: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  var = torch.tensor(arr, dtype=self.dtype, device=device)
+Traceback (most recent call last):
+  File "../ONMT/translate.py", line 48, in <module>
+    main(opt)
+  File "../ONMT/translate.py", line 32, in main
+    attn_debug=opt.attn_debug
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 330, in translate
+    batch, data.src_vocabs, attn_debug
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 523, in translate_batch
+    return_attention=attn_debug or self.replace_unk)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 625, in _translate_batch
+    enc_states, batch_size, src)}
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 258, in _gold_score
+    batch.src_map if use_src_map else None)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 806, in _score_target
+    memory_lengths=src_lengths, src_map=src_map)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/translate/translator.py", line 561, in _decode_and_generate
+    decoder_in, memory_bank, memory_lengths=memory_lengths, step=step
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/decoders/decoder.py", line 213, in forward
+    tgt, memory_bank, memory_lengths=memory_lengths)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/decoders/decoder.py", line 395, in _run_forward_pass
+    memory_lengths=memory_lengths)
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/torch/nn/modules/module.py", line 541, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/bilbeisi/Thesis/ONMT/onmt/modules/global_attention.py", line 183, in forward
+    align.masked_fill_(1 - mask, -float('inf'))
+  File "/home/bilbeisi/env/lib/python3.6/site-packages/torch/tensor.py", line 362, in __rsub__
+    return _C._VariableFunctions.rsub(self, other)
+RuntimeError: Subtraction, the `-` operator, with a bool tensor is not supported. If you are trying to invert a mask, use the `~` or `logical_not()` operator instead.

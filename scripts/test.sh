@@ -20,5 +20,3 @@ edist=$(python3 evaluation/evaluate_text_edit_distance.py --result-path $save_re
 echo $bleu
 echo $edist
 
-#python3 evaluation/render_latex.py --result-path $save_result --data-path $test_list --label-path ../data/Original_labels/im2latex_formulas.lst --output-dir ../results/images_rendered --replace
-#python3 evaluation/evaluate_image.py --images-dir ../results/images_rendered/

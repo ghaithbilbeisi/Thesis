@@ -1,0 +1,21 @@
+
+////////////////////////////////////////////////
+////////////////   selio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaWriteMem: work-around: writing to a temp file
+Ignore the following two error messages
+Error in selCreateFromString: Exactly one origin must be specified; this string has 0
+Error in selCreateFromString: Exactly one origin must be specified; this string has 2
+Time:   0.003 sec
+
+////////////////////////////////////////////////
+////////////////   selio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaWriteMem: work-around: writing to a temp file
+Ignore the following two error messages
+Error in selCreateFromString: Exactly one origin must be specified; this string has 0
+Error in selCreateFromString: Exactly one origin must be specified; this string has 2
+Time:   0.006 sec
+PASS selio_reg (exit status: 0)

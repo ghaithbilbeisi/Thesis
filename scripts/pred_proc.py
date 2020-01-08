@@ -14,6 +14,8 @@ def write_file(filename, data):
             c+=1
         print('Wrote '+str(c)+' lines to '+ filename)
 
+## Script to process predictions file after testing a model in order to produce a results file with the structure required by the evaluation scripts
+
 logfile = sys.argv[1]
 srcfile = sys.argv[2]
 outfile = sys.argv[3]

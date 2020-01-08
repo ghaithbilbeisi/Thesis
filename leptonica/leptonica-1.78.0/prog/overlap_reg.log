@@ -1,0 +1,49 @@
+
+////////////////////////////////////////////////
+////////////////   overlap_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 1, maxsize = 6: n_init = 500, n_final = 494
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 2, maxsize = 11: n_init = 500, n_final = 471
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 3, maxsize = 16: n_init = 500, n_final = 431
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 4, maxsize = 21: n_init = 500, n_final = 367
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 5, maxsize = 26: n_init = 500, n_final = 283
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 6, maxsize = 27: n_init = 500, n_final = 72
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 7, maxsize = 28: n_init = 500, n_final = 1
+Info in boxaCombineOverlaps: number of iterations: 5
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaCombineOverlapsInPair: number of iterations: 4
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   1.119 sec
+
+////////////////////////////////////////////////
+////////////////   overlap_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 1, maxsize = 6: n_init = 500, n_final = 494
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 2, maxsize = 11: n_init = 500, n_final = 471
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 3, maxsize = 16: n_init = 500, n_final = 431
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 4, maxsize = 21: n_init = 500, n_final = 367
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 5, maxsize = 26: n_init = 500, n_final = 283
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 6, maxsize = 27: n_init = 500, n_final = 72
+Info in boxaWriteMem: work-around: writing to a temp file
+Test 7, maxsize = 28: n_init = 500, n_final = 1
+Info in boxaCombineOverlaps: number of iterations: 5
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaCombineOverlapsInPair: number of iterations: 4
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   1.065 sec
+PASS overlap_reg (exit status: 0)

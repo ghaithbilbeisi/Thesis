@@ -1,0 +1,47 @@
+
+////////////////////////////////////////////////
+////////////////   bytea_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+******************************************************
+* Testing error checking: ignore two reported errors *
+Info in l_binaryReadSelectStream: 1000 bytes requested; 456 bytes read
+Error in l_binaryReadSelectStream: start = 147000 but filebytes = 146456
+Error in l_byteaAppendData: newdata not defined
+******************************************************
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in convertToPdfData: pix not made
+Error in convertToPdf: pdf data not made
+Error in fopenReadStream: file not found
+Error in l_byteaInitFromFile: file stream not opened
+Error in l_byteaFindEachSequence: ba not defined
+Error in l_dnaGetCount: da not defined
+Failure in bytea_reg: value comparison for index 6
+difference = 6.000000 but allowed delta = 0.000000
+Time:   0.008 sec
+
+////////////////////////////////////////////////
+////////////////   bytea_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+******************************************************
+* Testing error checking: ignore two reported errors *
+Info in l_binaryReadSelectStream: 1000 bytes requested; 456 bytes read
+Error in l_binaryReadSelectStream: start = 147000 but filebytes = 146456
+Error in l_byteaAppendData: newdata not defined
+******************************************************
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in convertToPdfData: pix not made
+Error in convertToPdf: pdf data not made
+Error in fopenReadStream: file not found
+Error in l_byteaInitFromFile: file stream not opened
+Error in l_byteaFindEachSequence: ba not defined
+Error in l_dnaGetCount: da not defined
+Failure in bytea_reg: value comparison for index 6
+difference = 6.000000 but allowed delta = 0.000000
+Time:   0.000 sec
+FAIL bytea_reg (exit status: 1)

@@ -1,0 +1,173 @@
+
+////////////////////////////////////////////////
+////////////////   blackwhite_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+d = 1, spp = 1, bval = 1, wval = 0
+d = 2, spp = 1, bval = 0, wval = 3
+d = 2, spp = 1, bval = 0, wval = 3
+d = 4, spp = 1, bval = 0, wval = f
+d = 4, spp = 1, bval = c, wval = b
+d = 8, spp = 1, bval = 0, wval = 2c
+d = 8, spp = 1, bval = ef, wval = 0
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in boxaWriteMem: work-around: writing to a temp file
+d = 1, spp = 1, bval = 1, wval = 0
+d = 2, spp = 1, bval = 0, wval = 3
+d = 2, spp = 1, bval = 0, wval = 3
+d = 4, spp = 1, bval = 0, wval = f
+d = 4, spp = 1, bval = c, wval = b
+d = 8, spp = 1, bval = 0, wval = 2c
+d = 8, spp = 1, bval = ef, wval = 0
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.158 sec
+
+////////////////////////////////////////////////
+////////////////   blackwhite_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+d = 1, spp = 1, bval = 1, wval = 0
+d = 2, spp = 1, bval = 0, wval = 3
+d = 2, spp = 1, bval = 0, wval = 3
+d = 4, spp = 1, bval = 0, wval = f
+d = 4, spp = 1, bval = c, wval = b
+d = 8, spp = 1, bval = 0, wval = 2c
+d = 8, spp = 1, bval = ef, wval = 0
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in boxaWriteMem: work-around: writing to a temp file
+d = 1, spp = 1, bval = 1, wval = 0
+d = 2, spp = 1, bval = 0, wval = 3
+d = 2, spp = 1, bval = 0, wval = 3
+d = 4, spp = 1, bval = 0, wval = f
+d = 4, spp = 1, bval = c, wval = b
+d = 8, spp = 1, bval = 0, wval = 2c
+d = 8, spp = 1, bval = ef, wval = 0
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetSpp: pix not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixGetDepth: pix not defined
+d = 0, spp = 0, bval = 0, wval = 0
+Error in pixClone: pixs not defined
+Error in pixScaleToSize: pixs not defined
+Error in pixGetBlackOrWhiteVal: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixaAddPix: pix not defined
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+d = 32, spp = 4, bval = 0, wval = ffffff00
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.162 sec
+PASS blackwhite_reg (exit status: 0)

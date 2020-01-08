@@ -1,0 +1,623 @@
+
+////////////////////////////////////////////////
+////////////////   rank_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRankFilterGray: pixs not defined
+pixRankFilterGray:   0.000 MPix/sec
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixDilateGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Rank filter time =   0.000, Dilation time =    0.000 sec
+Error in pixErodeGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClipRectangle: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+sh: 1: gnuplot: not found
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/rank/plots.png
+Error in pixaDisplayTiledAndScaled: no components
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixColorMorph: pixs not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRankFilter: pixs not defined
+Error in pixRankFilter: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.002 sec
+
+////////////////////////////////////////////////
+////////////////   rank_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRankFilterGray: pixs not defined
+pixRankFilterGray:    -nan MPix/sec
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixDilateGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Rank filter time =   0.000, Dilation time =    0.000 sec
+Error in pixErodeGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClipRectangle: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+Error in pixRankFilterGray: pixs not defined
+sh: 1: gnuplot: not found
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/rank/plots.png
+Error in pixaDisplayTiledAndScaled: no components
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRank2: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixScaleGrayRankCascade: pixs undefined, not 8 bpp, or cmapped
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixColorMorph: pixs not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRankFilter: pixs not defined
+Error in pixRankFilter: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.000 sec
+FAIL rank_reg (exit status: 1)

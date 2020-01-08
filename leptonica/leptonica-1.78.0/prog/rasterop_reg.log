@@ -1,0 +1,1163 @@
+
+////////////////////////////////////////////////
+////////////////   rasterop_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in boxCreate: w and h not both >= 0
+Error in pixClipRectangle: pixs not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 0
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 1
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 4
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 6
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 7
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 8
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 9
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 10
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 11
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 12
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 13
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 14
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 15
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 16
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 17
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 18
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 19
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 20
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 21
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 22
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 23
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 24
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 25
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 26
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 27
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 28
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 29
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 30
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 31
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 32
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 33
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 34
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 35
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 36
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 37
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 38
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 39
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 40
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 41
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 42
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 43
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 44
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 45
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 46
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 47
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 48
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 49
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 50
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 51
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 52
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 53
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 54
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 55
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 56
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 57
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 58
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 59
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 60
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 61
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 62
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,25)
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   rasterop_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetHeight: pix not defined
+Error in pixGetWidth: pix not defined
+Error in boxCreate: w and h not both >= 0
+Error in pixClipRectangle: pixs not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 0
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 1
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 4
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 6
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (1,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 7
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 8
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 9
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 10
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 11
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 12
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 13
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (4,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 14
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 15
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 16
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 17
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 18
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 19
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 20
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (7,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 21
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 22
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 23
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 24
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 25
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 26
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 27
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (10,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 28
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 29
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 30
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 31
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 32
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 33
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 34
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (13,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 35
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 36
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 37
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 38
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 39
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 40
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 41
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (16,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 42
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 43
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 44
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 45
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 46
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 47
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 48
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (19,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 49
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 50
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 51
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 52
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 53
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 54
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 55
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (22,25)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 56
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,1)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 57
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,5)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 58
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,9)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 59
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,13)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 60
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,17)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 61
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,21)
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixCopy: pixs not defined
+Error in pixGetWidth: pix not defined
+Error in pixGetHeight: pix not defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Failure in rasterop_reg: value comparison for index 62
+difference = 1.000000 but allowed delta = 0.000000
+Results differ for SE (width,height) = (25,25)
+Time:   0.001 sec
+FAIL rasterop_reg (exit status: 1)

@@ -1,0 +1,161 @@
+
+////////////////////////////////////////////////
+////////////////   adaptmap_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixGetBackgroundGrayMap: pixs not defined or not 8 bpp
+Time for gray adaptmap gen:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Time for gray inv map generation:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixApplyInvBackgroundGrayMap: pixs undefined or not 8 bpp
+Time to apply gray inv map:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixGetBackgroundRGBMap: pixs not defined
+Time for color adaptmap gen:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Time for color inv map generation:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixApplyInvBackgroundRGBMap: pixs not defined
+Time to apply color inv maps:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixBackgroundNorm: pixs not defined
+Time for bg normalization:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in pixWrite: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   adaptmap_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixGetBackgroundGrayMap: pixs not defined or not 8 bpp
+Time for gray adaptmap gen:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Time for gray inv map generation:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixApplyInvBackgroundGrayMap: pixs undefined or not 8 bpp
+Time to apply gray inv map:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixGetBackgroundRGBMap: pixs not defined
+Time for color adaptmap gen:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Error in pixGetInvBackgroundMap: pixs undefined or not 8 bpp
+Time for color inv map generation:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixApplyInvBackgroundRGBMap: pixs not defined
+Time to apply color inv maps:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixBackgroundNorm: pixs not defined
+Time for bg normalization:   0.000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in pixWrite: pix not defined
+Time:   0.000 sec
+FAIL adaptmap_reg (exit status: 1)

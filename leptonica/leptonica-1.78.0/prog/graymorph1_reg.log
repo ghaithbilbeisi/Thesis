@@ -1,0 +1,329 @@
+
+////////////////////////////////////////////////
+////////////////   graymorph1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixDilateGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixErodeGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixOpenGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixCloseGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixDilateGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixOpenGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixInvert: pixs not defined
+Error in pixTophat: seed pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCloseGray: pixs not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCloseGray: pixs not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixHDome: src pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixInitAccumulate: pixd not made
+Error in pixAccumulate: pixd not defined or not 32 bpp
+Error in pixMultConstAccumulate: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixAccumulate: pixd not defined or not 32 bpp
+Error in pixCloseGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixAccumulate: pixd not defined or not 32 bpp
+Error in pixFinalAccumulate: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixaccCreate: pix not made
+Error in pixaccAdd: pixacc not defined
+Error in pixaccMultConst: pixacc not defined
+Error in pixOpenGray: pixs not defined
+Error in pixaccSubtract: pixacc not defined
+Error in pixCloseGray: pixs not defined
+Error in pixaccSubtract: pixacc not defined
+Error in pixaccFinal: pixacc not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRemoveColormap: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetColormap: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixInvert: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   graymorph1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixDilateGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixErodeGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixOpenGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixCloseGray: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixDilateGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixOpenGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixInvert: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixInvert: pixs not defined
+Error in pixTophat: seed pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCloseGray: pixs not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCloseGray: pixs not defined
+Error in pixTophat: seed pix not defined
+Error in pixGrayMorphSequence: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixHDome: src pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixInitAccumulate: pixd not made
+Error in pixAccumulate: pixd not defined or not 32 bpp
+Error in pixMultConstAccumulate: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixAccumulate: pixd not defined or not 32 bpp
+Error in pixCloseGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixAccumulate: pixd not defined or not 32 bpp
+Error in pixFinalAccumulate: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixaccCreate: pix not made
+Error in pixaccAdd: pixacc not defined
+Error in pixaccMultConst: pixacc not defined
+Error in pixOpenGray: pixs not defined
+Error in pixaccSubtract: pixacc not defined
+Error in pixCloseGray: pixs not defined
+Error in pixaccSubtract: pixacc not defined
+Error in pixaccFinal: pixacc not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRemoveColormap: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetColormap: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixTophat: seed pix not defined
+Error in pixMaxDynamicRange: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixInvert: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixRasterop: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.001 sec
+FAIL graymorph1_reg (exit status: 1)

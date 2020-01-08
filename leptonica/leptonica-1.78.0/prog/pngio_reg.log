@@ -1,0 +1,469 @@
+
+////////////////////////////////////////////////
+////////////////   pngio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test bmp 1 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp grayscale file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp color file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 16 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 32 bpp RGB file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 32 bpp RGBA file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 1, cmap with alpha file:
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 1, cmap with alpha (small alpha array):
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 1, fully transparent with alpha file:
+Info in pixReadStreamPng: transparency, 1 spp, no colormap, no transparency array: convention is fully transparent image
+Info in pixReadStreamPng: converting (fully transparent 1 spp) ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 2, gray with alpha file:
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+  ********** Success on lossless r/w to file *********
+
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in pixReadStreamPng: transparency, 1 spp, no colormap, no transparency array: convention is fully transparent image
+Info in pixReadStreamPng: converting (fully transparent 1 spp) ==> RGBA
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+
+  ****** Success on lossless r/w to memory *****
+
+Test lossless 1 and 8 bpp r/w
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-trans.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_trans: bad output
+Error in fopenReadStream: file not found
+Error in fgetPngColormapInfo: stream not opened
+1bpp_trans: error -- no transparency found!
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-color.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_color: bad output
+Error in fopenReadStream: file not found
+Error in fgetPngColormapInfo: stream not opened
+1bpp_color: correct -- no transparency found
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-gray.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_gray: bad output
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-bw1.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_bw1: bad output
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-bw2.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_bw2: bad output
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixColorSegment: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapSetAlpha: cmap not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/8bpp-trans.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+8bpp_trans: bad output
+Error in fopenReadStream: file not found
+Error in fgetPngColormapInfo: stream not opened
+8bpp_trans: error -- no transparency found!
+
+  ******* Failure on 1 and 8 bpp lossless *******
+
+Format data for image rabi.png with format png:
+  nbytes = 232718, size (w, h, d) = (2528, 3300, 1)
+  bps = 1, spp = 1, iscmap = 0
+Format data for image speckle2.png with format png:
+  nbytes = 482, size (w, h, d) = (204, 152, 2)
+  bps = 2, spp = 1, iscmap = 0
+Format data for image weasel2.4g.png with format png:
+  nbytes = 744, size (w, h, d) = (82, 73, 2)
+  bps = 2, spp = 1, iscmap = 1
+Format data for image speckle4.png with format png:
+  nbytes = 1319, size (w, h, d) = (408, 304, 4)
+  bps = 4, spp = 1, iscmap = 0
+Format data for image weasel4.16c.png with format png:
+  nbytes = 1559, size (w, h, d) = (82, 73, 4)
+  bps = 4, spp = 1, iscmap = 1
+Format data for image dreyfus8.png with format png:
+  nbytes = 34971, size (w, h, d) = (329, 400, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image weasel8.240c.png with format png:
+  nbytes = 3628, size (w, h, d) = (82, 73, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image test16.png with format png:
+  nbytes = 25630, size (w, h, d) = (550, 426, 16)
+  bps = 16, spp = 1, iscmap = 0
+Format data for image weasel32.png with format png:
+  nbytes = 3383, size (w, h, d) = (82, 73, 32)
+  bps = 8, spp = 3, iscmap = 0
+Format data for image test32-alpha.png with format png:
+  nbytes = 1284, size (w, h, d) = (128, 128, 32)
+  bps = 8, spp = 4, iscmap = 0
+Format data for image test-cmap-alpha.png with format png:
+  nbytes = 830, size (w, h, d) = (128, 128, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image test-cmap-alpha2.png with format png:
+  nbytes = 557, size (w, h, d) = (120, 120, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image test-fulltrans-alpha.png with format png:
+  nbytes = 260, size (w, h, d) = (449, 593, 1)
+  bps = 1, spp = 1, iscmap = 0
+Info in readHeaderMemPng: gray + alpha: will extract as RGBA (spp = 4)
+Format data for image test-gray-alpha.png with format png:
+  nbytes = 561, size (w, h, d) = (128, 128, 16)
+  bps = 8, spp = 2, iscmap = 0
+Info in readHeaderMemPng: gray + alpha: will extract as RGBA (spp = 4)
+
+  ******* Success on reading headers *******
+
+  ******* Failure on at least one test *******
+
+Time:   0.262 sec
+
+////////////////////////////////////////////////
+////////////////   pngio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test bmp 1 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp grayscale file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp color file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 16 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 32 bpp RGB file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 32 bpp RGBA file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 1, cmap with alpha file:
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 1, cmap with alpha (small alpha array):
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 1, fully transparent with alpha file:
+Info in pixReadStreamPng: transparency, 1 spp, no colormap, no transparency array: convention is fully transparent image
+Info in pixReadStreamPng: converting (fully transparent 1 spp) ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test spp = 2, gray with alpha file:
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+  ********** Success on lossless r/w to file *********
+
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in pixReadStreamPng: converting (cmap + alpha) ==> RGBA
+Info in pixReadStreamPng: converting 8 bpp cmap with alpha ==> RGBA
+Info in pixReadStreamPng: transparency, 1 spp, no colormap, no transparency array: convention is fully transparent image
+Info in pixReadStreamPng: converting (fully transparent 1 spp) ==> RGBA
+Info in pixReadStreamPng: converting (gray + alpha) ==> RGBA
+
+  ****** Success on lossless r/w to memory *****
+
+Test lossless 1 and 8 bpp r/w
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-trans.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_trans: bad output
+Error in fopenReadStream: file not found
+Error in fgetPngColormapInfo: stream not opened
+1bpp_trans: error -- no transparency found!
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-color.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_color: bad output
+Error in fopenReadStream: file not found
+Error in fgetPngColormapInfo: stream not opened
+1bpp_color: correct -- no transparency found
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-gray.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_gray: bad output
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-bw1.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_bw1: bad output
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetColormap: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/1bpp-bw2.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+1bpp_bw2: bad output
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixColorSegment: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapSetAlpha: cmap not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/8bpp-trans.png
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+8bpp_trans: bad output
+Error in fopenReadStream: file not found
+Error in fgetPngColormapInfo: stream not opened
+8bpp_trans: error -- no transparency found!
+
+  ******* Failure on 1 and 8 bpp lossless *******
+
+Format data for image rabi.png with format png:
+  nbytes = 232718, size (w, h, d) = (2528, 3300, 1)
+  bps = 1, spp = 1, iscmap = 0
+Format data for image speckle2.png with format png:
+  nbytes = 482, size (w, h, d) = (204, 152, 2)
+  bps = 2, spp = 1, iscmap = 0
+Format data for image weasel2.4g.png with format png:
+  nbytes = 744, size (w, h, d) = (82, 73, 2)
+  bps = 2, spp = 1, iscmap = 1
+Format data for image speckle4.png with format png:
+  nbytes = 1319, size (w, h, d) = (408, 304, 4)
+  bps = 4, spp = 1, iscmap = 0
+Format data for image weasel4.16c.png with format png:
+  nbytes = 1559, size (w, h, d) = (82, 73, 4)
+  bps = 4, spp = 1, iscmap = 1
+Format data for image dreyfus8.png with format png:
+  nbytes = 34971, size (w, h, d) = (329, 400, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image weasel8.240c.png with format png:
+  nbytes = 3628, size (w, h, d) = (82, 73, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image test16.png with format png:
+  nbytes = 25630, size (w, h, d) = (550, 426, 16)
+  bps = 16, spp = 1, iscmap = 0
+Format data for image weasel32.png with format png:
+  nbytes = 3383, size (w, h, d) = (82, 73, 32)
+  bps = 8, spp = 3, iscmap = 0
+Format data for image test32-alpha.png with format png:
+  nbytes = 1284, size (w, h, d) = (128, 128, 32)
+  bps = 8, spp = 4, iscmap = 0
+Format data for image test-cmap-alpha.png with format png:
+  nbytes = 830, size (w, h, d) = (128, 128, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image test-cmap-alpha2.png with format png:
+  nbytes = 557, size (w, h, d) = (120, 120, 8)
+  bps = 8, spp = 1, iscmap = 1
+Format data for image test-fulltrans-alpha.png with format png:
+  nbytes = 260, size (w, h, d) = (449, 593, 1)
+  bps = 1, spp = 1, iscmap = 0
+Info in readHeaderMemPng: gray + alpha: will extract as RGBA (spp = 4)
+Format data for image test-gray-alpha.png with format png:
+  nbytes = 561, size (w, h, d) = (128, 128, 16)
+  bps = 8, spp = 2, iscmap = 0
+Info in readHeaderMemPng: gray + alpha: will extract as RGBA (spp = 4)
+
+  ******* Success on reading headers *******
+
+  ******* Failure on at least one test *******
+
+Time:   0.267 sec
+FAIL pngio_reg (exit status: 1)

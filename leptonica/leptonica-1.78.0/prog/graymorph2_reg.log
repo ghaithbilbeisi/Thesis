@@ -1,0 +1,155 @@
+
+////////////////////////////////////////////////
+////////////////   graymorph2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixDilateGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixDilateGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixErodeGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixErodeGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixOpenGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixOpenGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixCloseGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixCloseGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   graymorph2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixDilateGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixDilateGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixDilateGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixErodeGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixErodeGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixErodeGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixOpenGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixOpenGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixOpenGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixCloseGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixCloseGray3: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCloseGray: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Time:   0.000 sec
+FAIL graymorph2_reg (exit status: 1)

@@ -1,0 +1,139 @@
+Omitting libjpeg tests in ioformats_reg
+Omitting libtiff tests in ioformats_reg
+Omitting libwebp tests in ioformats_reg
+Omitting libopenjp2 tests in ioformats_reg
+Omitting libgif tests in ioformats_reg
+
+////////////////////////////////////////////////
+////////////////   ioformats_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test bmp 1 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp grayscale file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp color file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+  ********** Success on all i/o format tests *********
+
+No libtiff.  Skipping:
+  part 2 (tiff r/w)
+  part 3 (tiff r/w to memory)
+  part 4 (non-tiff r/w to memory)
+  part 5 (multipage tiff r/w to memory)
+
+Missing libpng, libjpeg or libtiff.  Skipping:
+  part 6 (24 bpp r/w)
+  part 7 (header read)
+
+  ******* Success on all tests *******
+
+Time:   0.033 sec
+Omitting libjpeg tests in ioformats_reg
+Omitting libtiff tests in ioformats_reg
+Omitting libwebp tests in ioformats_reg
+Omitting libopenjp2 tests in ioformats_reg
+Omitting libgif tests in ioformats_reg
+
+////////////////////////////////////////////////
+////////////////   ioformats_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test bmp 1 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 2 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Warning in pixWriteMemBmp: 2 bpp files can't be read; converting to 8 bpp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 4 bpp file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp grayscale file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+Test 8 bpp color file with cmap:
+Info in ioFormatTest: write/read bmp
+Info in ioFormatTest: write/read png
+Info in ioFormatTest: write/read pnm
+Info in ioFormatTest: All formats read and written OK!
+
+  ********** Success on all i/o format tests *********
+
+No libtiff.  Skipping:
+  part 2 (tiff r/w)
+  part 3 (tiff r/w to memory)
+  part 4 (non-tiff r/w to memory)
+  part 5 (multipage tiff r/w to memory)
+
+Missing libpng, libjpeg or libtiff.  Skipping:
+  part 6 (24 bpp r/w)
+  part 7 (header read)
+
+  ******* Success on all tests *******
+
+Time:   0.032 sec
+PASS ioformats_reg (exit status: 0)

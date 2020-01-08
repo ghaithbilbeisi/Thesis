@@ -1,0 +1,187 @@
+
+////////////////////////////////////////////////
+////////////////   writetext_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixThresholdOn8bpp: pixs not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixThresholdTo2bpp: pixs not defined
+Error in pixThresholdTo2bpp: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.037 sec
+
+////////////////////////////////////////////////
+////////////////   writetext_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixThresholdOn8bpp: pixs not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixThresholdTo2bpp: pixs not defined
+Error in pixThresholdTo2bpp: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.036 sec
+FAIL writetext_reg (exit status: 1)

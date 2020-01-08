@@ -1,0 +1,99 @@
+
+////////////////////////////////////////////////
+////////////////   pageseg_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetRegionsBinary: pixs undefined or not 1 bpp
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFindPageForeground: pixs not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFindPageForeground: pixs not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixScale: pixs not defined
+Error in pixFindLargeRectangles: pixs not defined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixDecideIfTable: pixs not defined
+Failure in pageseg_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixDecideIfTable: pixs not defined
+Failure in pageseg_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixDecideIfTable: pixs not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.510 sec
+
+////////////////////////////////////////////////
+////////////////   pageseg_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetRegionsBinary: pixs undefined or not 1 bpp
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFindPageForeground: pixs not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFindPageForeground: pixs not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixScale: pixs not defined
+Error in pixFindLargeRectangles: pixs not defined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixDecideIfTable: pixs not defined
+Failure in pageseg_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixDecideIfTable: pixs not defined
+Failure in pageseg_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixDecideIfTable: pixs not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.520 sec
+FAIL pageseg_reg (exit status: 1)

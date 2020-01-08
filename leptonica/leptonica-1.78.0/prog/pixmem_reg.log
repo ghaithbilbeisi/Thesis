@@ -1,0 +1,165 @@
+
+////////////////////////////////////////////////
+////////////////   pixmem_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixCopy: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixCopy: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixCopy: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixTransferAllData: pixd not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTransferAllData: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixTransferAllData: pixd not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTransferAllData: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixClone: pixs not defined
+Error in pixTransferAllData: pixd not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTransferAllData: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixCopy: pixs not defined
+Error in pixExtractData: pixs not defined
+Error in pixCreateTemplateNoInit: pixs not defined
+Error in pixFreeData: pix not defined
+Error in pixSetData: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.004 sec
+
+////////////////////////////////////////////////
+////////////////   pixmem_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixCopy: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixCopy: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixCopy: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixTransferAllData: pixd not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTransferAllData: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixTransferAllData: pixd not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTransferAllData: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixClone: pixs not defined
+Error in pixTransferAllData: pixd not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixTransferAllData: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixCopy: pixs not defined
+Error in pixExtractData: pixs not defined
+Error in pixCreateTemplateNoInit: pixs not defined
+Error in pixFreeData: pix not defined
+Error in pixSetData: pix not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.005 sec
+FAIL pixmem_reg (exit status: 1)

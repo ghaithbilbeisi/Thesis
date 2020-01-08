@@ -1,0 +1,331 @@
+
+////////////////////////////////////////////////
+////////////////   shear1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test binary image:
+Test 2 bpp cmapped image with filled cmap:
+Test 4 bpp cmapped image with unfilled cmap:
+Test 4 bpp cmapped image with filled cmap:
+Test 8 bpp grayscale image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Test 8 bpp grayscale cmap image:
+Test 8 bpp color cmap image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixOctreeColorQuant: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Test rgb image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.801 sec
+
+////////////////////////////////////////////////
+////////////////   shear1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test binary image:
+Test 2 bpp cmapped image with filled cmap:
+Test 4 bpp cmapped image with unfilled cmap:
+Test 4 bpp cmapped image with filled cmap:
+Test 8 bpp grayscale image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Test 8 bpp grayscale cmap image:
+Test 8 bpp color cmap image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixOctreeColorQuant: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Test rgb image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixHShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixHShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixVShear: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixCopy: pixs not defined
+Error in pixVShearIP: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.776 sec
+FAIL shear1_reg (exit status: 1)

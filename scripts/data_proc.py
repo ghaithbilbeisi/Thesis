@@ -14,6 +14,8 @@ def write_file(filename, data):
             c+=1
         print('Wrote '+str(c)+' lines to '+ filename)
 
+## Script that transforms the original image list and label data files into the required format for ONMT to process and produce the data files
+
 assert len(sys.argv)==5, 'Must use 4 arguments. Syntax: data_proc.py input_filename labels_filename sourcedata_filename targetdata_filename'
 
 filename = sys.argv[1]
@@ -29,9 +31,11 @@ tgt = []
 c = 0
 for line in lines:
     l = line.split()
-    src.append(l[0])
-    tgt.append(labels[int(l[1])])
-    c+=1
+    label = labels[int(l[1])]
+    if label.strip()!="":
+        src.append(l[0])
+        tgt.append(label)
+        c+=1
 print('Read '+str(c)+' lines from ' + filename)
 
 write_file(src_filename, src)

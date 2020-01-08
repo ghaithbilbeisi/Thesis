@@ -1,0 +1,358 @@
+
+////////////////////////////////////////////////
+////////////////   psio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixWriteStreamPS: pix not defined
+Error in l_binaryWrite: nbytes must be > 0
+Warning in getScaledParametersPS: right edge > 8.5 inch
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo32: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in l_generateJpegData: data not extracted
+Error in convertJpegToPSString: jpeg data not made
+Error in convertJpegToPS: ps string not made
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in l_generateJpegData: data not extracted
+Error in convertJpegToPSString: jpeg data not made
+Error in convertJpegToPS: ps string not made
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadIndexed: pix not read from file ./lion-page.00010.jpg
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadIndexed: pix not read from file ./lion-page.00016.jpg
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSEmbed: g4 data not made
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Time:   0.054 sec
+
+////////////////////////////////////////////////
+////////////////   psio_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixWriteStreamPS: pix not defined
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in psio_reg, index 0: comparing /tmp/lept/regout/psio0.ps with /tmp/lept/golden/psio_golden.00.ps
+Warning in getScaledParametersPS: right edge > 8.5 inch
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo32: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in l_generateJpegData: data not extracted
+Error in convertJpegToPSString: jpeg data not made
+Error in convertJpegToPS: ps string not made
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in psio_reg, index 2: comparing /tmp/lept/regout/psio2.jpg with /tmp/lept/golden/psio_golden.02.jpg
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in psio_reg, index 3: comparing /tmp/lept/regout/psio3.ps with /tmp/lept/golden/psio_golden.03.ps
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Failure in psio_reg, index 4: comparing /tmp/lept/regout/psio4.ps with /tmp/lept/golden/psio_golden.04.ps
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in l_generateJpegData: data not extracted
+Error in convertJpegToPSString: jpeg data not made
+Error in convertJpegToPS: ps string not made
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Failure in psio_reg, index 5: comparing /tmp/lept/regout/psio5.ps with /tmp/lept/golden/psio_golden.05.ps
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadIndexed: pix not read from file ./lion-page.00010.jpg
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadIndexed: pix not read from file ./lion-page.00016.jpg
+Error in pixWriteStreamTiff: function not present
+Error in pixWrite: pix not written to stream
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSString: g4 data not made
+Error in convertG4ToPS: ps string not made
+Error in pixWriteMixedToPS: tiff data not written
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in psio_reg, index 6: comparing /tmp/lept/regout/psio6.ps with /tmp/lept/golden/psio_golden.06.ps
+Error in readHeaderMemJpeg: function not present
+Error in readResolutionMemJpeg: function not present
+Failure in psio_reg, index 7: comparing /tmp/lept/regout/psio7.ps with /tmp/lept/golden/psio_golden.07.ps
+Error in getTiffResolution: function not present
+Error in extractG4DataFromFile: function not present
+Error in l_generateG4Data: datacomp not extracted
+Error in convertG4ToPSEmbed: g4 data not made
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in psio_reg, index 8: comparing /tmp/lept/regout/psio8.ps with /tmp/lept/golden/psio_golden.08.ps
+Time:   0.034 sec
+FAIL psio_reg (exit status: 1)

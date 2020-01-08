@@ -1,0 +1,144 @@
+
+////////////////////////////////////////////////
+////////////////   psioseg_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetRegionsBinary: pixs undefined or not 1 bpp
+Error in pixSubtract: pixs1 not defined
+Error in pixGetDimensions: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixScale: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixRasterop: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeColorQuant: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeQuantNumColors: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Warning in getSortedPathnamesInDirectory: no files found
+Warning in getSortedPathnamesInDirectory: no files found
+Error in convertSegmentedPagesToPS: no matching pages found
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Info in psioseg: Output ps: /tmp/lept/regout/psioseg.5.ps
+Error: /undefinedfilename in (/tmp/lept/regout/psioseg.5.ps)
+Operand stack:
+
+Execution stack:
+   %interp_exit   .runexec2   --nostringval--   --nostringval--   --nostringval--   2   %stopped_push   --nostringval--   --nostringval--   --nostringval--   false   1   %stopped_push
+Dictionary stack:
+   --dict:960/1684(ro)(G)--   --dict:0/20(G)--   --dict:77/200(L)--
+Current allocation mode is local
+Last OS error: No such file or directory
+GPL Ghostscript 9.26: Unrecoverable error, exit code 1
+Warning in psioseg: ps2pdf failed to generate pdf
+Time:   0.001 sec
+
+////////////////////////////////////////////////
+////////////////   psioseg_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetRegionsBinary: pixs undefined or not 1 bpp
+Error in pixSubtract: pixs1 not defined
+Error in pixGetDimensions: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixScale: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in pixRasterop: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertRGBToGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeColorQuant: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeQuantNumColors: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Error in pixWrite: pix not defined
+Warning in getSortedPathnamesInDirectory: no files found
+Warning in getSortedPathnamesInDirectory: no files found
+Error in convertSegmentedPagesToPS: no matching pages found
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in psioseg_reg, index 0: comparing /tmp/lept/regout/psioseg.5.ps with /tmp/lept/golden/psioseg_golden.00.ps
+Info in psioseg: Output ps: /tmp/lept/regout/psioseg.5.ps
+Error: /undefinedfilename in (/tmp/lept/regout/psioseg.5.ps)
+Operand stack:
+
+Execution stack:
+   %interp_exit   .runexec2   --nostringval--   --nostringval--   --nostringval--   2   %stopped_push   --nostringval--   --nostringval--   --nostringval--   false   1   %stopped_push
+Dictionary stack:
+   --dict:960/1684(ro)(G)--   --dict:0/20(G)--   --dict:77/200(L)--
+Current allocation mode is local
+Last OS error: No such file or directory
+GPL Ghostscript 9.26: Unrecoverable error, exit code 1
+Warning in psioseg: ps2pdf failed to generate pdf
+Time:   0.000 sec
+FAIL psioseg_reg (exit status: 1)

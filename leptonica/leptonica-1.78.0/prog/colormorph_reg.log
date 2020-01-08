@@ -1,0 +1,59 @@
+
+////////////////////////////////////////////////
+////////////////   colormorph_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   colormorph_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Error in pixColorMorph: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorMorphSequence: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaAddPix: pix not defined
+Time:   0.000 sec
+FAIL colormorph_reg (exit status: 1)

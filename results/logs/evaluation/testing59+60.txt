@@ -1,0 +1,64 @@
+Wrote 10355 lines to ../results/predictions/results59_70.txt
+2019-12-13 14:16:19,441 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 14:16:26,951 root  INFO     Jobs finished
+2019-12-13 14:16:27,062 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 14:16:53,479 root  INFO     Jobs finished
+bBLEU = 88.91, 97.6/95.0/92.5/90.1 (BP=0.948, ratio=0.949, hyp_len=644980, ref_len=679364)
+
+Edit Distance Accuracy: 0.910085
+Wrote 10355 lines to ../results/predictions/results59_80.txt
+2019-12-13 14:47:51,272 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 14:47:58,228 root  INFO     Jobs finished
+2019-12-13 14:47:58,315 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 14:48:24,711 root  INFO     Jobs finished
+bBLEU = 88.89, 97.7/95.2/92.8/90.4 (BP=0.946, ratio=0.947, hyp_len=643486, ref_len=679364)
+
+Edit Distance Accuracy: 0.910248
+Wrote 10355 lines to ../results/predictions/results59_90.txt
+2019-12-13 15:18:35,992 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 15:18:43,051 root  INFO     Jobs finished
+2019-12-13 15:18:43,134 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 15:19:07,339 root  INFO     Jobs finished
+bBLEU = 89.00, 97.7/95.2/92.7/90.4 (BP=0.947, ratio=0.949, hyp_len=644387, ref_len=679364)
+
+Edit Distance Accuracy: 0.910923
+Wrote 10355 lines to ../results/predictions/results59_100.txt
+2019-12-13 15:47:54,287 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 15:48:00,331 root  INFO     Jobs finished
+2019-12-13 15:48:00,426 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 15:48:26,111 root  INFO     Jobs finished
+bBLEU = 89.04, 97.7/95.1/92.7/90.4 (BP=0.948, ratio=0.949, hyp_len=644848, ref_len=679364)
+
+Edit Distance Accuracy: 0.911280
+Wrote 10355 lines to ../results/predictions/results60_70.txt
+2019-12-13 16:19:34,442 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 16:19:40,940 root  INFO     Jobs finished
+2019-12-13 16:19:41,022 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 16:20:07,946 root  INFO     Jobs finished
+bBLEU = 89.14, 97.6/95.0/92.5/90.1 (BP=0.951, ratio=0.952, hyp_len=646654, ref_len=679364)
+
+Edit Distance Accuracy: 0.911559
+Wrote 10355 lines to ../results/predictions/results60_80.txt
+2019-12-13 16:51:09,227 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 16:51:14,943 root  INFO     Jobs finished
+2019-12-13 16:51:15,028 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 16:51:38,756 root  INFO     Jobs finished
+bBLEU = 88.94, 97.6/95.0/92.6/90.2 (BP=0.948, ratio=0.950, hyp_len=645063, ref_len=679364)
+
+Edit Distance Accuracy: 0.910560
+Wrote 10355 lines to ../results/predictions/results60_90.txt
+2019-12-13 17:22:51,299 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 17:22:57,530 root  INFO     Jobs finished
+2019-12-13 17:22:57,623 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 17:23:21,146 root  INFO     Jobs finished
+bBLEU = 89.09, 97.6/95.1/92.6/90.3 (BP=0.949, ratio=0.950, hyp_len=645726, ref_len=679364)
+
+Edit Distance Accuracy: 0.911471
+Wrote 10355 lines to ../results/predictions/results60_100.txt
+2019-12-13 17:54:21,172 root  INFO     Script being executed: evaluation/evaluate_bleu.py
+2019-12-13 17:54:27,549 root  INFO     Jobs finished
+2019-12-13 17:54:27,633 root  INFO     Script being executed: evaluation/evaluate_text_edit_distance.py
+2019-12-13 17:54:51,704 root  INFO     Jobs finished
+bBLEU = 89.06, 97.6/95.1/92.6/90.3 (BP=0.949, ratio=0.950, hyp_len=645522, ref_len=679364)
+
+Edit Distance Accuracy: 0.911095

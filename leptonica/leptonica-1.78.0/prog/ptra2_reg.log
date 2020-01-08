@@ -1,0 +1,895 @@
+
+////////////////////////////////////////////////
+////////////////   ptra2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test 1: Boxa sort test on small image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaBinSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 4
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixGetDimensions: pix not defined
+Error in ptraaCreate: n must be > 0
+Error in boxaGetCount: boxa not defined
+Error in ptraaFlattenToPtra: paa not defined
+Error in ptraGetActualCount: pa not defined
+n(orig) = 0, m(new) = 48
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Test 2: Boxa sort test on large image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaBinSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 13
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 14
+difference = 1.000000 but allowed delta = 0.000000
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixGetDimensions: pix not defined
+Error in ptraaCreate: n must be > 0
+Error in boxaGetCount: boxa not defined
+Error in ptraaFlattenToPtra: paa not defined
+Error in ptraGetActualCount: pa not defined
+n(orig) = 0, m(new) = 48
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Test 3: Pixa sort test on small image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixaBinSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 24
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 25
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 26
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 27
+difference = 1.000000 but allowed delta = 0.000000
+Test 4: Pixa sort test on large image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixaBinSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 34
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 35
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 36
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 37
+difference = 1.000000 but allowed delta = 0.000000
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   ptra2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test 1: Boxa sort test on small image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 0: comparing /tmp/lept/ptra/boxa1.1.ba with /tmp/lept/golden/ptra2_golden.00.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 1: comparing /tmp/lept/ptra/nad1.1.na with /tmp/lept/golden/ptra2_golden.01.na
+Error in boxaBinSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 2: comparing /tmp/lept/ptra/boxa2.1.ba with /tmp/lept/golden/ptra2_golden.02.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 3: comparing /tmp/lept/ptra/nad2.1.na with /tmp/lept/golden/ptra2_golden.03.na
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 4
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 6: comparing /tmp/lept/ptra/naindex.1.na with /tmp/lept/golden/ptra2_golden.06.na
+Error in pixGetDimensions: pix not defined
+Error in ptraaCreate: n must be > 0
+Error in boxaGetCount: boxa not defined
+Error in ptraaFlattenToPtra: paa not defined
+Error in ptraGetActualCount: pa not defined
+n(orig) = 0, m(new) = 48
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Test 2: Boxa sort test on large image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 9: comparing /tmp/lept/ptra/boxa1.2.ba with /tmp/lept/golden/ptra2_golden.09.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 10: comparing /tmp/lept/ptra/nad1.2.na with /tmp/lept/golden/ptra2_golden.10.na
+Error in boxaBinSort: boxas not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 11: comparing /tmp/lept/ptra/boxa2.2.ba with /tmp/lept/golden/ptra2_golden.11.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 12: comparing /tmp/lept/ptra/nad2.2.na with /tmp/lept/golden/ptra2_golden.12.na
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 13
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 14
+difference = 1.000000 but allowed delta = 0.000000
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 15: comparing /tmp/lept/ptra/naindex.2.na with /tmp/lept/golden/ptra2_golden.15.na
+Error in pixGetDimensions: pix not defined
+Error in ptraaCreate: n must be > 0
+Error in boxaGetCount: boxa not defined
+Error in ptraaFlattenToPtra: paa not defined
+Error in ptraGetActualCount: pa not defined
+n(orig) = 0, m(new) = 48
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Error in ptraRemove: pa not defined
+Error in boxaAddBox: box not defined
+Test 3: Pixa sort test on small image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 18: comparing /tmp/lept/ptra/bap1.3.ba with /tmp/lept/golden/ptra2_golden.18.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 19: comparing /tmp/lept/ptra/nap1.3.na with /tmp/lept/golden/ptra2_golden.19.na
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 20: comparing /tmp/lept/ptra/pixa1.3.pa with /tmp/lept/golden/ptra2_golden.20.pa
+Error in pixaBinSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 21: comparing /tmp/lept/ptra/bap2.3.ba with /tmp/lept/golden/ptra2_golden.21.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 22: comparing /tmp/lept/ptra/nap2.3.na with /tmp/lept/golden/ptra2_golden.22.na
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 23: comparing /tmp/lept/ptra/pixa2.3.pa with /tmp/lept/golden/ptra2_golden.23.pa
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 24
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 25
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 26
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 27
+difference = 1.000000 but allowed delta = 0.000000
+Test 4: Pixa sort test on large image
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 28: comparing /tmp/lept/ptra/bap1.4.ba with /tmp/lept/golden/ptra2_golden.28.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 29: comparing /tmp/lept/ptra/nap1.4.na with /tmp/lept/golden/ptra2_golden.29.na
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 30: comparing /tmp/lept/ptra/pixa1.4.pa with /tmp/lept/golden/ptra2_golden.30.pa
+Error in pixaBinSort: pixas not defined
+Error in pixaGetBoxa: pixa not defined
+Error in boxaWrite: boxa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 31: comparing /tmp/lept/ptra/bap2.4.ba with /tmp/lept/golden/ptra2_golden.31.ba
+Error in numaWrite: na not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 32: comparing /tmp/lept/ptra/nap2.4.na with /tmp/lept/golden/ptra2_golden.32.na
+Error in pixaWrite: pixa not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in ptra2_reg, index 33: comparing /tmp/lept/ptra/pixa2.4.pa with /tmp/lept/golden/ptra2_golden.33.pa
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 34
+difference = 1.000000 but allowed delta = 0.000000
+Error in boxaEqual: boxa1 and boxa2 not both defined
+Failure in ptra2_reg: value comparison for index 35
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 36
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixaEqual: pixa1 and pixa2 not both defined
+Failure in ptra2_reg: value comparison for index 37
+difference = 1.000000 but allowed delta = 0.000000
+Time:   0.000 sec
+FAIL ptra2_reg (exit status: 1)

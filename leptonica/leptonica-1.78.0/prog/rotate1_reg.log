@@ -1,0 +1,925 @@
+
+////////////////////////////////////////////////
+////////////////   rotate1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test binary image:
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Test 2 bpp cmapped image with filled cmap:
+Test 4 bpp cmapped image with unfilled cmap:
+Test 4 bpp cmapped image with filled cmap:
+Test 8 bpp grayscale image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixaDisplay: no components; no size
+Test 8 bpp grayscale cmap image:
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Test 8 bpp color cmap image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixOctreeColorQuant: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixaDisplay: no components; no size
+Test rgb image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixaDisplay: no components; no size
+Time:   0.855 sec
+
+////////////////////////////////////////////////
+////////////////   rotate1_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test binary image:
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Info in pixRotate: 1 bpp, large angle; rotate by sampling
+Test 2 bpp cmapped image with filled cmap:
+Test 4 bpp cmapped image with unfilled cmap:
+Test 4 bpp cmapped image with filled cmap:
+Test 8 bpp grayscale image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixaDisplay: no components; no size
+Test 8 bpp grayscale cmap image:
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 32: comparing /tmp/lept/regout/rotate1.32.jpg with /tmp/lept/golden/rotate1_golden.32.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 33: comparing /tmp/lept/regout/rotate1.33.jpg with /tmp/lept/golden/rotate1_golden.33.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 34: comparing /tmp/lept/regout/rotate1.34.jpg with /tmp/lept/golden/rotate1_golden.34.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 35: comparing /tmp/lept/regout/rotate1.35.jpg with /tmp/lept/golden/rotate1_golden.35.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 36: comparing /tmp/lept/regout/rotate1.36.jpg with /tmp/lept/golden/rotate1_golden.36.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 37: comparing /tmp/lept/regout/rotate1.37.jpg with /tmp/lept/golden/rotate1_golden.37.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 38: comparing /tmp/lept/regout/rotate1.38.jpg with /tmp/lept/golden/rotate1_golden.38.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in rotate1_reg, index 39: comparing /tmp/lept/regout/rotate1.39.jpg with /tmp/lept/golden/rotate1_golden.39.jpg
+Test 8 bpp color cmap image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixOctreeColorQuant: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixaDisplay: no components; no size
+Test rgb image:
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotate: pixs not defined
+Error in pixRotate: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixRotateAMCorner: pixs not defined
+Error in pixaDisplay: no components; no size
+Time:   0.831 sec
+FAIL rotate1_reg (exit status: 1)

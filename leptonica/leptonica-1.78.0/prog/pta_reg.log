@@ -1,0 +1,327 @@
+
+////////////////////////////////////////////////
+////////////////   pta_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in pta_reg: value comparison for index 0
+difference = 464.000000 but allowed delta = 0.000000
+Error in pixMorphSequence: pixs not defined
+Error in pixXor: pixs1 not defined
+Error in pixCountPixels: pixs not defined or not 1 bpp
+Failure in pta_reg: value comparison for index 1
+difference = 58764.000000 but allowed delta = 0.000000
+Error in pixMorphSequence: pixs not defined
+Error in pixXor: pixs1 not defined
+Error in pixCountPixels: pixs not defined or not 1 bpp
+Failure in pta_reg: value comparison for index 2
+difference = 60335.000000 but allowed delta = 0.000000
+Error in ptaaGetBoundaryPixels: pixs undefined or not 1 bpp
+Error in ptaaGetCount: ptaa not defined
+Error in ptaaGetBoundaryPixels: pixs undefined or not 1 bpp
+Error in ptaaGetCount: ptaa not defined
+Failure in pta_reg: value comparison for index 6
+difference = 60602.000000 but allowed delta = 0.000000
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixClearAll: pix not defined
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixAddBorderGeneral: pixs not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.001 sec
+
+////////////////////////////////////////////////
+////////////////   pta_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Failure in pta_reg: value comparison for index 0
+difference = 464.000000 but allowed delta = 0.000000
+Error in pixMorphSequence: pixs not defined
+Error in pixXor: pixs1 not defined
+Error in pixCountPixels: pixs not defined or not 1 bpp
+Failure in pta_reg: value comparison for index 1
+difference = 58764.000000 but allowed delta = 0.000000
+Error in pixMorphSequence: pixs not defined
+Error in pixXor: pixs1 not defined
+Error in pixCountPixels: pixs not defined or not 1 bpp
+Failure in pta_reg: value comparison for index 2
+difference = 60335.000000 but allowed delta = 0.000000
+Error in ptaaGetBoundaryPixels: pixs undefined or not 1 bpp
+Error in ptaaGetCount: ptaa not defined
+Error in ptaaGetBoundaryPixels: pixs undefined or not 1 bpp
+Error in ptaaGetCount: ptaa not defined
+Failure in pta_reg: value comparison for index 6
+difference = 60602.000000 but allowed delta = 0.000000
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixClearAll: pix not defined
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixRenderRandomCmapPtaa: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplay: no components; no size
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixAddBorderGeneral: pixs not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in ptaGetPixelsFromPix: pixs undefined or not 1 bpp
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in ptaRotate: ptas not defined
+Error in ptaaAddPta: pta not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixSetAll: pix not defined
+Error in pixRenderPtaArb: pix not defined
+Error in pixDisplayPtaa: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL pta_reg (exit status: 1)

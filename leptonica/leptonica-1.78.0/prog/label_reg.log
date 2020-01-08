@@ -1,0 +1,271 @@
+
+////////////////////////////////////////////////
+////////////////   label_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test earthmover distance
+Test c.c. labelling
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnCompTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnCompTransform: pixs undefined or not 1 bpp
+Error in pixConvert16To8: pixs not defined
+Error in regTestCompareSimilarPix: pix1 and pix2 not both defined
+Error in pixConnCompTransform: pixs undefined or not 1 bpp
+Error in pixConvert32to8: pixs undefined or not 32 bpp
+Error in regTestCompareSimilarPix: pix1 and pix2 not both defined
+Test c.c. area labelling
+Error in pixConnCompAreaTransform: pixs undefined or not 1 bpp
+Error in pixConvert32to8: pixs undefined or not 32 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixMultConstantGray: pixs not defined
+Error in pixConvert32to8: pixs undefined or not 32 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Test color transform: 4-fold symmetry
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixRotateOrth: pixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 1
+difference = 0.120000 but allowed delta = 0.010000
+90 deg rotation: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 4
+difference = 0.120000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 5
+difference = 0.090000 but allowed delta = 0.010000
+180 deg rotation: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 8
+difference = 0.090000 but allowed delta = 0.010000
+270 deg rotation: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Test color transform with translation
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in pixTranslate: pixs not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 10
+difference = 1.760000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 11
+difference = 2.650000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 12
+difference = 2.030000 but allowed delta = 0.010000
+Translation dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Test color transform with small rotation
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in pixRotateShearCenterIP: pixs not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 13
+difference = 1.500000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 14
+difference = 1.710000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 15
+difference = 1.420000 but allowed delta = 0.010000
+Rotation dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Test color transform (2 forms)
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 16
+difference = 6.100000 but allowed delta = 0.020000
+Failure in label_reg: value comparison for index 17
+difference = 11.130000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 18
+difference = 10.530000 but allowed delta = 0.010000
+Different forms: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   label_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Test earthmover distance
+Test c.c. labelling
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConnCompTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnCompTransform: pixs undefined or not 1 bpp
+Error in pixConvert16To8: pixs not defined
+Error in regTestCompareSimilarPix: pix1 and pix2 not both defined
+Error in pixConnCompTransform: pixs undefined or not 1 bpp
+Error in pixConvert32to8: pixs undefined or not 32 bpp
+Error in regTestCompareSimilarPix: pix1 and pix2 not both defined
+Test c.c. area labelling
+Error in pixConnCompAreaTransform: pixs undefined or not 1 bpp
+Error in pixConvert32to8: pixs undefined or not 32 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixMultConstantGray: pixs not defined
+Error in pixConvert32to8: pixs undefined or not 32 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Test color transform: 4-fold symmetry
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixRotateOrth: pixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in pixRotateOrth: pixs not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 1
+difference = 0.120000 but allowed delta = 0.010000
+90 deg rotation: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 4
+difference = 0.120000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 5
+difference = 0.090000 but allowed delta = 0.010000
+180 deg rotation: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 8
+difference = 0.090000 but allowed delta = 0.010000
+270 deg rotation: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Test color transform with translation
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in pixTranslate: pixs not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 10
+difference = 1.760000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 11
+difference = 2.650000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 12
+difference = 2.030000 but allowed delta = 0.010000
+Translation dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Test color transform with small rotation
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in pixRotateShearCenterIP: pixs not defined
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 13
+difference = 1.500000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 14
+difference = 1.710000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 15
+difference = 1.420000 but allowed delta = 0.010000
+Rotation dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Test color transform (2 forms)
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixLocToColorTransform: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in pixGetColorHistogram: pixs not defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Error in numaEarthMoverDistance: na1 and na2 not both defined
+Failure in label_reg: value comparison for index 16
+difference = 6.100000 but allowed delta = 0.020000
+Failure in label_reg: value comparison for index 17
+difference = 11.130000 but allowed delta = 0.010000
+Failure in label_reg: value comparison for index 18
+difference = 10.530000 but allowed delta = 0.010000
+Different forms: dist (r,g,b) = ( 0.00,  0.00,  0.00)
+Time:   0.000 sec
+FAIL label_reg (exit status: 1)

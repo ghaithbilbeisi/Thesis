@@ -1,0 +1,105 @@
+
+////////////////////////////////////////////////
+////////////////   lowaccess_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixGetData: pix not defined
+Error in pixGetWpl: pix not defined
+Error in pixGetLinePtrs: pix not defined
+Time with line ptrs     = 0.000 sec, count1 = 0
+Time with l_get*        = 0.000 sec, count2 = 0
+Time with pixGetPixel() = 0.000 sec, count3 = 0
+Error in pixCreateTemplate: pixs not defined
+Error in pixGetLinePtrs: pix not defined
+Error in pixCreateTemplate: pixs not defined
+Error in pixGetData: pix not defined
+Error in pixGetLinePtrs: pix not defined
+Compare set: 1 bpp; index starts at 0
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 2 bpp; index starts at 1
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 4 bpp; index starts at 2
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 8 bpp; index starts at 3
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 16 bpp; index starts at 4
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 32 bpp; index starts at 5
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   lowaccess_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixGetData: pix not defined
+Error in pixGetWpl: pix not defined
+Error in pixGetLinePtrs: pix not defined
+Time with line ptrs     = 0.000 sec, count1 = 0
+Time with l_get*        = 0.000 sec, count2 = 0
+Time with pixGetPixel() = 0.000 sec, count3 = 0
+Error in pixCreateTemplate: pixs not defined
+Error in pixGetLinePtrs: pix not defined
+Error in pixCreateTemplate: pixs not defined
+Error in pixGetData: pix not defined
+Error in pixGetLinePtrs: pix not defined
+Compare set: 1 bpp; index starts at 0
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 2 bpp; index starts at 1
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 4 bpp; index starts at 2
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 8 bpp; index starts at 3
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 16 bpp; index starts at 4
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Compare set: 32 bpp; index starts at 5
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixClearAll: pix not defined
+Error in pixClearAll: pix not defined
+Time:   0.000 sec
+FAIL lowaccess_reg (exit status: 1)

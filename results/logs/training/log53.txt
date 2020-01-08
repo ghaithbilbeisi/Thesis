@@ -1,0 +1,432 @@
+[2019-11-24 20:10:26,550 INFO] Loading checkpoint from ../results/models/im2latex-1_step_100000.pt
+[2019-11-24 20:10:26,620 INFO] Loading vocab from checkpoint at ../results/models/im2latex-1_step_100000.pt.
+[2019-11-24 20:10:26,620 INFO]  * tgt vocab size = 510
+[2019-11-24 20:10:26,620 INFO] Building model...
+[2019-11-24 20:10:40,114 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer3): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(512, 250, num_layers=2, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 512)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+        (1): LSTMCell(500, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-11-24 20:10:40,123 INFO] encoder: 8047424
+[2019-11-24 20:10:40,123 INFO] decoder: 5214310
+[2019-11-24 20:10:40,123 INFO] * number of parameters: 13261734
+[2019-11-24 20:10:41,513 INFO] Starting training on GPU: [0]
+[2019-11-24 20:10:41,513 INFO] Start training loop and validate every 10000 steps...
+[2019-11-24 20:10:47,680 INFO] Saving checkpoint ../results/models/im2latex-53_step_100001.pt
+[2019-11-24 20:15:01,486 INFO] Loading checkpoint from ../results/models/im2latex-1_step_100000.pt
+[2019-11-24 20:15:01,590 INFO] Loading vocab from checkpoint at ../results/models/im2latex-1_step_100000.pt.
+[2019-11-24 20:15:01,590 INFO]  * tgt vocab size = 510
+[2019-11-24 20:15:01,590 INFO] Building model...
+[2019-11-24 20:15:17,138 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer3): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(512, 250, num_layers=2, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 512)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+        (1): LSTMCell(500, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-11-24 20:15:17,154 INFO] encoder: 8047424
+[2019-11-24 20:15:17,155 INFO] decoder: 5214310
+[2019-11-24 20:15:17,155 INFO] * number of parameters: 13261734
+[2019-11-24 20:15:17,673 INFO] Starting training on GPU: [0]
+[2019-11-24 20:15:17,673 INFO] Start training loop and validate every 10000 steps...
+[2019-11-24 20:25:42,539 INFO] Step 100500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/942 tok/s;    625 sec
+[2019-11-24 20:35:45,157 INFO] Step 101000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/965 tok/s;   1227 sec
+[2019-11-24 20:42:00,753 INFO]  * tgt vocab size = 510
+[2019-11-24 20:42:00,753 INFO] Building model...
+[2019-11-24 20:42:10,049 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer3): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(512, 250, num_layers=2, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 512)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3, inplace=False)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3, inplace=False)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+        (1): LSTMCell(500, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-11-24 20:42:10,058 INFO] encoder: 8047424
+[2019-11-24 20:42:10,059 INFO] decoder: 5214310
+[2019-11-24 20:42:10,059 INFO] * number of parameters: 13261734
+[2019-11-24 20:42:10,570 INFO] Starting training on GPU: [0]
+[2019-11-24 20:42:10,571 INFO] Start training loop and validate every 10000 steps...
+[2019-11-24 20:52:43,230 INFO] Step 500/100000; acc:  29.01; ppl: 38.32; xent: 3.65; lr: 0.10000;   0/930 tok/s;    633 sec
+[2019-11-24 20:54:17,965 INFO] Loading checkpoint from ../results/models/im2latex-1_step_100000.pt
+[2019-11-24 20:54:18,059 INFO] Loading vocab from checkpoint at ../results/models/im2latex-1_step_100000.pt.
+[2019-11-24 20:54:18,062 INFO]  * tgt vocab size = 510
+[2019-11-24 20:54:18,062 INFO] Building model...
+[2019-11-24 20:54:28,650 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer3): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(512, 250, num_layers=2, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 512)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3, inplace=False)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3, inplace=False)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+        (1): LSTMCell(500, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2019-11-24 20:54:28,656 INFO] encoder: 8047424
+[2019-11-24 20:54:28,656 INFO] decoder: 5214310
+[2019-11-24 20:54:28,656 INFO] * number of parameters: 13261734
+[2019-11-24 20:54:29,154 INFO] Starting training on GPU: [0]
+[2019-11-24 20:54:29,154 INFO] Start training loop and validate every 10000 steps...
+[2019-11-24 21:04:45,123 INFO] Step 100500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/955 tok/s;    616 sec
+[2019-11-24 21:14:54,613 INFO] Step 101000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/954 tok/s;   1225 sec
+[2019-11-24 21:25:12,899 INFO] Step 101500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/953 tok/s;   1844 sec
+[2019-11-24 21:35:28,037 INFO] Step 102000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/953 tok/s;   2459 sec
+[2019-11-24 21:45:33,465 INFO] Step 102500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/964 tok/s;   3064 sec
+[2019-11-24 21:54:44,245 INFO] Step 103000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1066 tok/s;   3615 sec
+[2019-11-24 22:03:31,246 INFO] Step 103500/200000; acc:  98.91; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1108 tok/s;   4142 sec
+[2019-11-24 22:10:43,830 INFO] Step 104000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1360 tok/s;   4575 sec
+[2019-11-24 22:16:18,521 INFO] Step 104500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1744 tok/s;   4909 sec
+[2019-11-24 22:21:42,404 INFO] Step 105000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1810 tok/s;   5233 sec
+[2019-11-24 22:28:29,949 INFO] Step 105500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1443 tok/s;   5641 sec
+[2019-11-24 22:35:19,498 INFO] Step 106000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1429 tok/s;   6050 sec
+[2019-11-24 22:42:05,345 INFO] Step 106500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1445 tok/s;   6456 sec
+[2019-11-24 22:48:55,815 INFO] Step 107000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1429 tok/s;   6867 sec
+[2019-11-24 22:55:48,680 INFO] Step 107500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1412 tok/s;   7280 sec
+[2019-11-24 23:02:38,974 INFO] Step 108000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1438 tok/s;   7690 sec
+[2019-11-24 23:09:18,284 INFO] Step 108500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1458 tok/s;   8089 sec
+[2019-11-24 23:15:57,180 INFO] Step 109000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1467 tok/s;   8488 sec
+[2019-11-24 23:22:48,036 INFO] Step 109500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00156;   0/1440 tok/s;   8899 sec
+[2019-11-24 23:29:28,784 INFO] Step 110000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1452 tok/s;   9300 sec
+[2019-11-24 23:32:53,748 INFO] Validation perplexity: 1.09569
+[2019-11-24 23:32:53,749 INFO] Validation accuracy: 97.9551
+[2019-11-24 23:32:53,757 INFO] Saving checkpoint ../results/models/im2latex-53_step_110000.pt
+[2019-11-24 23:39:38,967 INFO] Step 110500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/960 tok/s;   9910 sec
+[2019-11-24 23:46:21,996 INFO] Step 111000/200000; acc:  98.92; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1456 tok/s;  10313 sec
+[2019-11-24 23:53:00,163 INFO] Step 111500/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1468 tok/s;  10711 sec
+[2019-11-24 23:59:42,189 INFO] Step 112000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1461 tok/s;  11113 sec
+[2019-11-25 00:07:45,675 INFO] Step 112500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1205 tok/s;  11597 sec
+[2019-11-25 00:15:57,042 INFO] Step 113000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1191 tok/s;  12088 sec
+[2019-11-25 00:23:53,037 INFO] Step 113500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1236 tok/s;  12564 sec
+[2019-11-25 00:33:37,273 INFO] Step 114000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/1002 tok/s;  13148 sec
+[2019-11-25 00:44:23,415 INFO] Step 114500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/909 tok/s;  13794 sec
+[2019-11-25 00:55:36,793 INFO] Step 115000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/866 tok/s;  14468 sec
+[2019-11-25 01:07:03,213 INFO] Step 115500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/859 tok/s;  15154 sec
+[2019-11-25 01:18:15,129 INFO] Step 116000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/867 tok/s;  15826 sec
+[2019-11-25 01:29:36,102 INFO] Step 116500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/858 tok/s;  16507 sec
+[2019-11-25 01:40:56,007 INFO] Step 117000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/868 tok/s;  17187 sec
+[2019-11-25 01:52:13,776 INFO] Step 117500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/860 tok/s;  17865 sec
+[2019-11-25 02:03:40,294 INFO] Step 118000/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/856 tok/s;  18551 sec
+[2019-11-25 02:14:59,155 INFO] Step 118500/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/865 tok/s;  19230 sec
+[2019-11-25 02:26:09,407 INFO] Step 119000/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/869 tok/s;  19900 sec
+[2019-11-25 02:37:38,979 INFO] Step 119500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00078;   0/855 tok/s;  20590 sec
+[2019-11-25 02:49:01,987 INFO] Step 120000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/853 tok/s;  21273 sec
+[2019-11-25 02:55:20,398 INFO] Validation perplexity: 1.09622
+[2019-11-25 02:55:20,401 INFO] Validation accuracy: 97.9503
+[2019-11-25 02:55:20,413 INFO] Saving checkpoint ../results/models/im2latex-53_step_120000.pt
+[2019-11-25 03:05:25,292 INFO] Step 120500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/597 tok/s;  22256 sec
+[2019-11-25 03:15:37,186 INFO] Step 121000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/963 tok/s;  22868 sec
+[2019-11-25 03:25:41,001 INFO] Step 121500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/966 tok/s;  23472 sec
+[2019-11-25 03:35:48,815 INFO] Step 122000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/963 tok/s;  24080 sec
+[2019-11-25 03:45:50,031 INFO] Step 122500/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/975 tok/s;  24681 sec
+[2019-11-25 03:56:05,768 INFO] Step 123000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/953 tok/s;  25297 sec
+[2019-11-25 04:06:10,783 INFO] Step 123500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/967 tok/s;  25902 sec
+[2019-11-25 04:16:25,711 INFO] Step 124000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/949 tok/s;  26517 sec
+[2019-11-25 04:26:49,021 INFO] Step 124500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/940 tok/s;  27140 sec
+[2019-11-25 04:36:56,597 INFO] Step 125000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/964 tok/s;  27747 sec
+[2019-11-25 04:47:15,618 INFO] Step 125500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/949 tok/s;  28366 sec
+[2019-11-25 04:57:33,459 INFO] Step 126000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/950 tok/s;  28984 sec
+[2019-11-25 05:07:47,981 INFO] Step 126500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/948 tok/s;  29599 sec
+[2019-11-25 05:18:03,132 INFO] Step 127000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/959 tok/s;  30214 sec
+[2019-11-25 05:28:12,203 INFO] Step 127500/200000; acc:  99.02; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/957 tok/s;  30823 sec
+[2019-11-25 05:37:20,339 INFO] Step 128000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/1068 tok/s;  31371 sec
+[2019-11-25 05:46:38,631 INFO] Step 128500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/1057 tok/s;  31929 sec
+[2019-11-25 05:55:36,416 INFO] Step 129000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/1082 tok/s;  32467 sec
+[2019-11-25 06:04:33,182 INFO] Step 129500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00039;   0/1096 tok/s;  33004 sec
+[2019-11-25 06:13:30,731 INFO] Step 130000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1090 tok/s;  33542 sec
+[2019-11-25 06:18:11,828 INFO] Validation perplexity: 1.09603
+[2019-11-25 06:18:11,829 INFO] Validation accuracy: 97.9479
+[2019-11-25 06:18:11,837 INFO] Saving checkpoint ../results/models/im2latex-53_step_130000.pt
+[2019-11-25 06:27:02,817 INFO] Step 130500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/718 tok/s;  34354 sec
+[2019-11-25 06:36:07,317 INFO] Step 131000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1083 tok/s;  34898 sec
+[2019-11-25 06:44:57,022 INFO] Step 131500/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1097 tok/s;  35428 sec
+[2019-11-25 06:54:02,024 INFO] Step 132000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1079 tok/s;  35973 sec
+[2019-11-25 07:03:49,587 INFO] Step 132500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1003 tok/s;  36560 sec
+[2019-11-25 07:14:02,897 INFO] Step 133000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/953 tok/s;  37174 sec
+[2019-11-25 07:24:30,376 INFO] Step 133500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/932 tok/s;  37801 sec
+[2019-11-25 07:34:52,177 INFO] Step 134000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/941 tok/s;  38423 sec
+[2019-11-25 07:45:12,666 INFO] Step 134500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/946 tok/s;  39044 sec
+[2019-11-25 07:55:14,503 INFO] Step 135000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/972 tok/s;  39645 sec
+[2019-11-25 08:04:22,969 INFO] Step 135500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1068 tok/s;  40194 sec
+[2019-11-25 08:11:33,096 INFO] Step 136000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1360 tok/s;  40624 sec
+[2019-11-25 08:18:12,322 INFO] Step 136500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1467 tok/s;  41023 sec
+[2019-11-25 08:24:43,741 INFO] Step 137000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1499 tok/s;  41415 sec
+[2019-11-25 08:31:14,733 INFO] Step 137500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1499 tok/s;  41806 sec
+[2019-11-25 08:37:37,593 INFO] Step 138000/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1523 tok/s;  42188 sec
+[2019-11-25 08:44:15,581 INFO] Step 138500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1484 tok/s;  42586 sec
+[2019-11-25 08:50:53,047 INFO] Step 139000/200000; acc:  99.02; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1466 tok/s;  42984 sec
+[2019-11-25 08:57:13,590 INFO] Step 139500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00020;   0/1535 tok/s;  43364 sec
+[2019-11-25 09:03:47,448 INFO] Step 140000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1501 tok/s;  43758 sec
+[2019-11-25 09:07:46,465 INFO] Validation perplexity: 1.0963
+[2019-11-25 09:07:46,466 INFO] Validation accuracy: 97.9483
+[2019-11-25 09:07:46,478 INFO] Saving checkpoint ../results/models/im2latex-53_step_140000.pt
+[2019-11-25 09:15:41,293 INFO] Step 140500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/816 tok/s;  44472 sec
+[2019-11-25 09:23:24,269 INFO] Step 141000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1267 tok/s;  44935 sec
+[2019-11-25 09:30:47,130 INFO] Step 141500/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1324 tok/s;  45378 sec
+[2019-11-25 09:37:55,002 INFO] Step 142000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1364 tok/s;  45806 sec
+[2019-11-25 09:45:09,120 INFO] Step 142500/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1356 tok/s;  46240 sec
+[2019-11-25 09:52:24,961 INFO] Step 143000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1335 tok/s;  46676 sec
+[2019-11-25 09:59:37,122 INFO] Step 143500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1361 tok/s;  47108 sec
+[2019-11-25 10:06:57,363 INFO] Step 144000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1339 tok/s;  47548 sec
+[2019-11-25 10:14:08,965 INFO] Step 144500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1354 tok/s;  47980 sec
+[2019-11-25 10:21:27,671 INFO] Step 145000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1338 tok/s;  48419 sec
+[2019-11-25 10:28:36,369 INFO] Step 145500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1362 tok/s;  48847 sec
+[2019-11-25 10:35:53,752 INFO] Step 146000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1346 tok/s;  49285 sec
+[2019-11-25 10:43:06,062 INFO] Step 146500/200000; acc:  99.02; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1349 tok/s;  49717 sec
+[2019-11-25 10:50:21,038 INFO] Step 147000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1346 tok/s;  50152 sec
+[2019-11-25 10:57:33,505 INFO] Step 147500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1355 tok/s;  50584 sec
+[2019-11-25 11:04:52,700 INFO] Step 148000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1331 tok/s;  51024 sec
+[2019-11-25 11:12:10,172 INFO] Step 148500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1341 tok/s;  51461 sec
+[2019-11-25 11:19:29,317 INFO] Step 149000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1335 tok/s;  51900 sec
+[2019-11-25 11:27:29,200 INFO] Step 149500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00010;   0/1214 tok/s;  52380 sec
+[2019-11-25 11:37:33,207 INFO] Step 150000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/977 tok/s;  52984 sec
+[2019-11-25 11:43:46,349 INFO] Validation perplexity: 1.09606
+[2019-11-25 11:43:46,351 INFO] Validation accuracy: 97.9497
+[2019-11-25 11:43:46,363 INFO] Saving checkpoint ../results/models/im2latex-53_step_150000.pt
+[2019-11-25 11:56:33,516 INFO] Step 150500/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/511 tok/s;  54124 sec
+[2019-11-25 12:09:22,505 INFO] Step 151000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/762 tok/s;  54893 sec
+[2019-11-25 12:21:53,616 INFO] Step 151500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/787 tok/s;  55644 sec
+[2019-11-25 12:33:08,772 INFO] Step 152000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/863 tok/s;  56320 sec
+[2019-11-25 12:43:42,065 INFO] Step 152500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/924 tok/s;  56953 sec
+[2019-11-25 12:53:32,802 INFO] Step 153000/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/993 tok/s;  57544 sec
+[2019-11-25 13:03:30,277 INFO] Step 153500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/979 tok/s;  58141 sec
+[2019-11-25 13:13:30,266 INFO] Step 154000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/978 tok/s;  58741 sec
+[2019-11-25 13:23:17,290 INFO] Step 154500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/993 tok/s;  59328 sec
+[2019-11-25 13:33:16,855 INFO] Step 155000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/982 tok/s;  59928 sec
+[2019-11-25 13:43:07,633 INFO] Step 155500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/995 tok/s;  60518 sec
+[2019-11-25 13:53:03,198 INFO] Step 156000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/984 tok/s;  61114 sec
+[2019-11-25 14:02:58,226 INFO] Step 156500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/988 tok/s;  61709 sec
+[2019-11-25 14:12:45,431 INFO] Step 157000/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/992 tok/s;  62296 sec
+[2019-11-25 14:22:39,161 INFO] Step 157500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/994 tok/s;  62890 sec
+[2019-11-25 14:32:30,602 INFO] Step 158000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/985 tok/s;  63481 sec
+[2019-11-25 14:42:23,482 INFO] Step 158500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/984 tok/s;  64074 sec
+[2019-11-25 14:52:24,846 INFO] Step 159000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/978 tok/s;  64676 sec
+[2019-11-25 15:02:15,552 INFO] Step 159500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00005;   0/986 tok/s;  65266 sec
+[2019-11-25 15:12:10,588 INFO] Step 160000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/988 tok/s;  65861 sec
+[2019-11-25 15:17:07,281 INFO] Validation perplexity: 1.09622
+[2019-11-25 15:17:07,282 INFO] Validation accuracy: 97.9547
+[2019-11-25 15:17:07,289 INFO] Saving checkpoint ../results/models/im2latex-53_step_160000.pt
+[2019-11-25 15:25:55,695 INFO] Step 160500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/711 tok/s;  66687 sec
+[2019-11-25 15:34:33,549 INFO] Step 161000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1125 tok/s;  67204 sec
+[2019-11-25 15:43:38,535 INFO] Step 161500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1083 tok/s;  67749 sec
+[2019-11-25 15:52:43,841 INFO] Step 162000/200000; acc:  99.02; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1066 tok/s;  68295 sec
+[2019-11-25 16:01:49,334 INFO] Step 162500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1078 tok/s;  68840 sec
+[2019-11-25 16:10:59,748 INFO] Step 163000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1069 tok/s;  69391 sec
+[2019-11-25 16:19:41,906 INFO] Step 163500/200000; acc:  99.02; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1117 tok/s;  69913 sec
+[2019-11-25 16:28:36,312 INFO] Step 164000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1094 tok/s;  70447 sec
+[2019-11-25 16:37:35,383 INFO] Step 164500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1088 tok/s;  70986 sec
+[2019-11-25 16:46:24,376 INFO] Step 165000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1109 tok/s;  71515 sec
+[2019-11-25 16:55:03,645 INFO] Step 165500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1127 tok/s;  72034 sec
+[2019-11-25 17:03:41,553 INFO] Step 166000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1128 tok/s;  72552 sec
+[2019-11-25 17:12:24,633 INFO] Step 166500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1125 tok/s;  73075 sec
+[2019-11-25 17:21:11,906 INFO] Step 167000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1112 tok/s;  73603 sec
+[2019-11-25 17:30:00,560 INFO] Step 167500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1111 tok/s;  74131 sec
+[2019-11-25 17:38:53,357 INFO] Step 168000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1100 tok/s;  74664 sec
+[2019-11-25 17:47:21,037 INFO] Step 168500/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1147 tok/s;  75172 sec
+[2019-11-25 17:55:55,168 INFO] Step 169000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1148 tok/s;  75686 sec
+[2019-11-25 18:04:30,412 INFO] Step 169500/200000; acc:  99.03; ppl:  1.03; xent: 0.03; lr: 0.00002;   0/1132 tok/s;  76201 sec
+[2019-11-25 18:13:01,461 INFO] Step 170000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1145 tok/s;  76712 sec
+[2019-11-25 18:17:32,821 INFO] Validation perplexity: 1.09629
+[2019-11-25 18:17:32,822 INFO] Validation accuracy: 97.9519
+[2019-11-25 18:17:32,827 INFO] Saving checkpoint ../results/models/im2latex-53_step_170000.pt
+[2019-11-25 18:26:07,018 INFO] Step 170500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/750 tok/s;  77498 sec
+[2019-11-25 18:34:37,224 INFO] Step 171000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1143 tok/s;  78008 sec
+[2019-11-25 18:43:14,013 INFO] Step 171500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1137 tok/s;  78525 sec
+[2019-11-25 18:51:51,608 INFO] Step 172000/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1132 tok/s;  79042 sec
+[2019-11-25 19:00:24,544 INFO] Step 172500/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1136 tok/s;  79555 sec
+[2019-11-25 19:09:07,136 INFO] Step 173000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1126 tok/s;  80078 sec
+[2019-11-25 19:17:43,247 INFO] Step 173500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1126 tok/s;  80594 sec
+[2019-11-25 19:26:24,528 INFO] Step 174000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1129 tok/s;  81115 sec
+[2019-11-25 19:35:01,015 INFO] Step 174500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1137 tok/s;  81632 sec
+[2019-11-25 19:43:28,593 INFO] Step 175000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1150 tok/s;  82139 sec
+[2019-11-25 19:52:50,585 INFO] Step 175500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1042 tok/s;  82701 sec
+[2019-11-25 20:02:34,070 INFO] Step 176000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1003 tok/s;  83285 sec
+[2019-11-25 20:12:26,779 INFO] Step 176500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/991 tok/s;  83878 sec
+[2019-11-25 20:21:43,908 INFO] Step 177000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1049 tok/s;  84435 sec
+[2019-11-25 20:30:50,634 INFO] Step 177500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1072 tok/s;  84981 sec
+[2019-11-25 20:39:28,722 INFO] Step 178000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1137 tok/s;  85500 sec
+[2019-11-25 20:47:16,404 INFO] Step 178500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1251 tok/s;  85967 sec
+[2019-11-25 20:53:01,487 INFO] Step 179000/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1699 tok/s;  86312 sec
+[2019-11-25 20:58:44,737 INFO] Step 179500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1709 tok/s;  86656 sec
+[2019-11-25 21:04:19,711 INFO] Step 180000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1739 tok/s;  86991 sec
+[2019-11-25 21:07:11,425 INFO] Validation perplexity: 1.09595
+[2019-11-25 21:07:11,428 INFO] Validation accuracy: 97.9602
+[2019-11-25 21:07:11,440 INFO] Saving checkpoint ../results/models/im2latex-53_step_180000.pt
+[2019-11-25 21:13:00,425 INFO] Step 180500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1135 tok/s;  87511 sec
+[2019-11-25 21:18:43,056 INFO] Step 181000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1701 tok/s;  87854 sec
+[2019-11-25 21:24:18,618 INFO] Step 181500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1739 tok/s;  88189 sec
+[2019-11-25 21:30:20,684 INFO] Step 182000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1631 tok/s;  88552 sec
+[2019-11-25 21:36:23,069 INFO] Step 182500/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/1609 tok/s;  88914 sec
+[2019-11-25 21:40:19,601 INFO] Step 183000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2476 tok/s;  89150 sec
+[2019-11-25 21:44:17,966 INFO] Step 183500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2458 tok/s;  89389 sec
+[2019-11-25 21:48:16,322 INFO] Step 184000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2450 tok/s;  89627 sec
+[2019-11-25 21:52:19,263 INFO] Step 184500/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2424 tok/s;  89870 sec
+[2019-11-25 21:56:12,130 INFO] Step 185000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2497 tok/s;  90103 sec
+[2019-11-25 22:00:33,936 INFO] Step 185500/200000; acc:  98.97; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2237 tok/s;  90365 sec
+[2019-11-25 22:04:28,928 INFO] Step 186000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2505 tok/s;  90600 sec
+[2019-11-25 22:08:24,183 INFO] Step 186500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2488 tok/s;  90835 sec
+[2019-11-25 22:12:20,456 INFO] Step 187000/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2484 tok/s;  91071 sec
+[2019-11-25 22:16:11,855 INFO] Step 187500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2522 tok/s;  91303 sec
+[2019-11-25 22:20:08,741 INFO] Step 188000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2487 tok/s;  91540 sec
+[2019-11-25 22:24:01,106 INFO] Step 188500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2509 tok/s;  91772 sec
+[2019-11-25 22:27:54,975 INFO] Step 189000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2501 tok/s;  92006 sec
+[2019-11-25 22:31:50,887 INFO] Step 189500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00001;   0/2506 tok/s;  92242 sec
+[2019-11-25 22:35:41,163 INFO] Step 190000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2535 tok/s;  92472 sec
+[2019-11-25 22:37:23,492 INFO] Validation perplexity: 1.09619
+[2019-11-25 22:37:23,493 INFO] Validation accuracy: 97.9555
+[2019-11-25 22:37:23,497 INFO] Saving checkpoint ../results/models/im2latex-53_step_190000.pt
+[2019-11-25 22:41:21,774 INFO] Step 190500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/1723 tok/s;  92813 sec
+[2019-11-25 22:45:14,360 INFO] Step 191000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2523 tok/s;  93045 sec
+[2019-11-25 22:49:08,255 INFO] Step 191500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2488 tok/s;  93279 sec
+[2019-11-25 22:53:05,130 INFO] Step 192000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2490 tok/s;  93516 sec
+[2019-11-25 22:57:01,345 INFO] Step 192500/200000; acc:  99.03; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2469 tok/s;  93752 sec
+[2019-11-25 23:00:54,230 INFO] Step 193000/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2518 tok/s;  93985 sec
+[2019-11-25 23:05:13,805 INFO] Step 193500/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2271 tok/s;  94245 sec
+[2019-11-25 23:09:29,037 INFO] Step 194000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2281 tok/s;  94500 sec
+[2019-11-25 23:13:50,287 INFO] Step 194500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2243 tok/s;  94761 sec
+[2019-11-25 23:18:07,191 INFO] Step 195000/200000; acc:  98.93; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2279 tok/s;  95018 sec
+[2019-11-25 23:22:05,071 INFO] Step 195500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2463 tok/s;  95256 sec
+[2019-11-25 23:26:06,440 INFO] Step 196000/200000; acc:  99.01; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2430 tok/s;  95497 sec
+[2019-11-25 23:30:16,824 INFO] Step 196500/200000; acc:  99.00; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2328 tok/s;  95748 sec
+[2019-11-25 23:34:34,989 INFO] Step 197000/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2269 tok/s;  96006 sec
+[2019-11-25 23:38:52,077 INFO] Step 197500/200000; acc:  98.99; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2285 tok/s;  96263 sec
+[2019-11-25 23:43:11,697 INFO] Step 198000/200000; acc:  98.98; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2260 tok/s;  96523 sec
+[2019-11-25 23:47:30,903 INFO] Step 198500/200000; acc:  98.94; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2267 tok/s;  96782 sec
+[2019-11-25 23:52:02,669 INFO] Step 199000/200000; acc:  98.95; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2142 tok/s;  97054 sec
+[2019-11-25 23:56:20,835 INFO] Step 199500/200000; acc:  98.96; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2287 tok/s;  97312 sec
+[2019-11-26 00:00:43,751 INFO] Step 200000/200000; acc:  99.02; ppl:  1.03; xent: 0.03; lr: 0.00000;   0/2216 tok/s;  97575 sec
+[2019-11-26 00:03:11,428 INFO] Validation perplexity: 1.0959
+[2019-11-26 00:03:11,429 INFO] Validation accuracy: 97.9531
+[2019-11-26 00:03:11,433 INFO] Saving checkpoint ../results/models/im2latex-53_step_200000.pt

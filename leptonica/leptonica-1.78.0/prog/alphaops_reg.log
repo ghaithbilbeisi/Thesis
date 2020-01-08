@@ -1,0 +1,265 @@
+
+////////////////////////////////////////////////
+////////////////   alphaops_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixConvert1To8: pixs not defined
+Error in pixBlockconvGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateTemplate: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSetRGBComponent: pixd not defined
+Error in pixWrite: pix not defined
+Error in pixSetUnderTransparency: pixs not defined or not 32 bpp
+Error in pixWrite: pix not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/alpha/cs1.png
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/alpha/cs2.png
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+ Original: 0 bytes
+ Cleaned: 0 bytes
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWrite: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixSetRGBComponent: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeColorQuant: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapToArrays: cmap not defined
+Error in pixcmapGetCount: cmap not defined
+Error in pixcmapSerializeToMemory: cmap not defined
+Error in pixcmapDeserializeFromMemory: data not defined
+Error in cmapEqual: cmap1 not defined
+Failure in alphaops_reg: value comparison for index 11
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixcmapWriteStream: cmap not defined
+Error in pixcmapReadStream: invalid cmap size
+Error in cmapEqual: cmap1 not defined
+Failure in alphaops_reg: value comparison for index 12
+difference = 1.000000 but allowed delta = 0.000000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/alpha/fourcomp.png
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.075 sec
+
+////////////////////////////////////////////////
+////////////////   alphaops_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixConvert1To8: pixs not defined
+Error in pixBlockconvGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScaleToSize: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCreateTemplate: pixs not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSetRGBComponent: pixd not defined
+Error in pixWrite: pix not defined
+Error in pixSetUnderTransparency: pixs not defined or not 32 bpp
+Error in pixWrite: pix not defined
+Error in pixBlendWithGrayMask: pixs1 not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/alpha/cs1.png
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/alpha/cs2.png
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+ Original: 0 bytes
+ Cleaned: 0 bytes
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWrite: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in alphaops_reg, index 5: comparing /tmp/lept/regout/alphaops.05.jpg with /tmp/lept/golden/alphaops_golden.05.jpg
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in alphaops_reg, index 6: comparing /tmp/lept/regout/alphaops.06.jpg with /tmp/lept/golden/alphaops_golden.06.jpg
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in alphaops_reg, index 7: comparing /tmp/lept/regout/alphaops.07.jpg with /tmp/lept/golden/alphaops_golden.07.jpg
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in alphaops_reg, index 8: comparing /tmp/lept/regout/alphaops.08.jpg with /tmp/lept/golden/alphaops_golden.08.jpg
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in alphaops_reg, index 9: comparing /tmp/lept/regout/alphaops.09.jpg with /tmp/lept/golden/alphaops_golden.09.jpg
+Info in boxaWriteMem: work-around: writing to a temp file
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in alphaops_reg, index 10: comparing /tmp/lept/regout/alphaops.10.jpg with /tmp/lept/golden/alphaops_golden.10.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixSetRGBComponent: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixOctreeColorQuant: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapToArrays: cmap not defined
+Error in pixcmapGetCount: cmap not defined
+Error in pixcmapSerializeToMemory: cmap not defined
+Error in pixcmapDeserializeFromMemory: data not defined
+Error in cmapEqual: cmap1 not defined
+Failure in alphaops_reg: value comparison for index 11
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixcmapWriteStream: cmap not defined
+Error in pixcmapReadStream: invalid cmap size
+Error in cmapEqual: cmap1 not defined
+Failure in alphaops_reg: value comparison for index 12
+difference = 1.000000 but allowed delta = 0.000000
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/alpha/fourcomp.png
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.068 sec
+FAIL alphaops_reg (exit status: 1)

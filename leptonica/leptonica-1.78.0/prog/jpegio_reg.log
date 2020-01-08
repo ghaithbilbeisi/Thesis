@@ -1,0 +1,9 @@
+jpegio is not enabled
+See environ.h: #define HAVE_LIBJPEG
+See prog/Makefile: link in -ljpeg
+
+jpegio is not enabled
+See environ.h: #define HAVE_LIBJPEG
+See prog/Makefile: link in -ljpeg
+
+PASS jpegio_reg (exit status: 0)

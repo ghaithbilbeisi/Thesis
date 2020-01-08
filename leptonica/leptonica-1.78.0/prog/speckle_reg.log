@@ -1,0 +1,83 @@
+
+////////////////////////////////////////////////
+////////////////   speckle_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBackgroundNormFlex: pixs undefined or not 8 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSubtract: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSubtract: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   speckle_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBackgroundNormFlex: pixs undefined or not 8 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSubtract: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in processMorphArgs1: pixs not defined
+Error in pixDilate: processMorphArgs1 failed
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSubtract: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL speckle_reg (exit status: 1)

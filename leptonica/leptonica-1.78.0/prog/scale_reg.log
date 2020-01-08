@@ -1,0 +1,557 @@
+
+////////////////////////////////////////////////
+////////////////   scale_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+
+-------------- Testing 1 bpp ----------
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray3: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray4: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray6: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray8: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray16: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetWidth: pix not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetWidth: pix not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+
+-------------- Testing 2 bpp without cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 2 bpp with cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 4 bpp without cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 4 bpp with cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 8 bpp without cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 8 bpp with cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 16 bpp ------------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in l_binaryWrite: nbytes must be > 0
+
+-------------- Testing 32 bpp ------------
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.158 sec
+
+////////////////////////////////////////////////
+////////////////   scale_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+
+-------------- Testing 1 bpp ----------
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray3: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray4: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray6: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray8: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScaleToGray16: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 0: comparing /tmp/lept/regout/scale.00.jpg with /tmp/lept/golden/scale_golden.00.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 1: comparing /tmp/lept/regout/scale.01.jpg with /tmp/lept/golden/scale_golden.01.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 2: comparing /tmp/lept/regout/scale.02.jpg with /tmp/lept/golden/scale_golden.02.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 3: comparing /tmp/lept/regout/scale.03.jpg with /tmp/lept/golden/scale_golden.03.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 4: comparing /tmp/lept/regout/scale.04.jpg with /tmp/lept/golden/scale_golden.04.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 5: comparing /tmp/lept/regout/scale.05.jpg with /tmp/lept/golden/scale_golden.05.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 6: comparing /tmp/lept/regout/scale.06.jpg with /tmp/lept/golden/scale_golden.06.jpg
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetWidth: pix not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetWidth: pix not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+
+-------------- Testing 2 bpp without cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 7: comparing /tmp/lept/regout/scale.07.jpg with /tmp/lept/golden/scale_golden.07.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 8: comparing /tmp/lept/regout/scale.08.jpg with /tmp/lept/golden/scale_golden.08.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 9: comparing /tmp/lept/regout/scale.09.jpg with /tmp/lept/golden/scale_golden.09.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 10: comparing /tmp/lept/regout/scale.10.jpg with /tmp/lept/golden/scale_golden.10.jpg
+
+-------------- Testing 2 bpp with cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 14: comparing /tmp/lept/regout/scale.14.jpg with /tmp/lept/golden/scale_golden.14.jpg
+
+-------------- Testing 4 bpp without cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 18: comparing /tmp/lept/regout/scale.18.jpg with /tmp/lept/golden/scale_golden.18.jpg
+
+-------------- Testing 4 bpp with cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 22: comparing /tmp/lept/regout/scale.22.jpg with /tmp/lept/golden/scale_golden.22.jpg
+
+-------------- Testing 8 bpp without cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 23: comparing /tmp/lept/regout/scale.23.jpg with /tmp/lept/golden/scale_golden.23.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 24: comparing /tmp/lept/regout/scale.24.jpg with /tmp/lept/golden/scale_golden.24.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 25: comparing /tmp/lept/regout/scale.25.jpg with /tmp/lept/golden/scale_golden.25.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 27: comparing /tmp/lept/regout/scale.27.jpg with /tmp/lept/golden/scale_golden.27.jpg
+
+-------------- Testing 8 bpp with cmap ----------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 28: comparing /tmp/lept/regout/scale.28.jpg with /tmp/lept/golden/scale_golden.28.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 29: comparing /tmp/lept/regout/scale.29.jpg with /tmp/lept/golden/scale_golden.29.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 30: comparing /tmp/lept/regout/scale.30.jpg with /tmp/lept/golden/scale_golden.30.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 31: comparing /tmp/lept/regout/scale.31.jpg with /tmp/lept/golden/scale_golden.31.jpg
+
+-------------- Testing 16 bpp ------------
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 32: comparing /tmp/lept/regout/scale.32.jpg with /tmp/lept/golden/scale_golden.32.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 33: comparing /tmp/lept/regout/scale.33.jpg with /tmp/lept/golden/scale_golden.33.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 34: comparing /tmp/lept/regout/scale.34.jpg with /tmp/lept/golden/scale_golden.34.jpg
+Error in pixWriteStreamJpeg: function not present
+Error in pixWrite: pix not written to stream
+Error in findFileFormatStream: truncated file
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array2 not read
+Failure in scale_reg, index 35: comparing /tmp/lept/regout/scale.35.jpg with /tmp/lept/golden/scale_golden.35.jpg
+
+-------------- Testing 32 bpp ------------
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.155 sec
+FAIL scale_reg (exit status: 1)

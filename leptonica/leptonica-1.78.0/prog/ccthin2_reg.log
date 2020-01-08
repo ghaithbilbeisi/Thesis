@@ -1,0 +1,109 @@
+
+////////////////////////////////////////////////
+////////////////   ccthin2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixClipToForeground: pixs not defined or not 1 bpp
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in regTestWritePixAndCheck: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.133 sec
+
+////////////////////////////////////////////////
+////////////////   ccthin2_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixClipToForeground: pixs not defined or not 1 bpp
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThinConnectedBySet: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in regTestWritePixAndCheck: pix not defined
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Info in boxaWriteMem: work-around: writing to a temp file
+Time:   0.140 sec
+FAIL ccthin2_reg (exit status: 1)

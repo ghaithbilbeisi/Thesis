@@ -1,0 +1,235 @@
+
+////////////////////////////////////////////////
+////////////////   paint_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvert8To32: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapGetIndex: cmap not defined
+Error in pixSetSelectCmap: pixs not defined
+Error in pixSetSelectCmap: pixs not defined
+Error in pixSetSelectCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderBoxArb: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderBoxArb: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixRenderLineBlend: pix not defined
+Error in pixRenderLineBlend: pix not defined
+Error in pixRenderBoxBlend: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixConvolve: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdOn8bpp: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Time:   0.018 sec
+
+////////////////////////////////////////////////
+////////////////   paint_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvert8To32: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapGetIndex: cmap not defined
+Error in pixSetSelectCmap: pixs not defined
+Error in pixSetSelectCmap: pixs not defined
+Error in pixSetSelectCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderBoxArb: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderLineArb: pix not defined
+Error in pixRenderBoxArb: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvert8To32: pixs not defined
+Error in pixRenderLineBlend: pix not defined
+Error in pixRenderLineBlend: pix not defined
+Error in pixRenderBoxBlend: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixConvolve: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixThresholdOn8bpp: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGray: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Time:   0.018 sec
+FAIL paint_reg (exit status: 1)

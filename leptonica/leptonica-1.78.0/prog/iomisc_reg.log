@@ -1,0 +1,352 @@
+
+////////////////////////////////////////////////
+////////////////   iomisc_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 3
+difference = 1047873.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 4
+difference = 215039.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 5
+difference = 195778.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 6
+difference = 189709.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 7
+difference = 180987.000000 but allowed delta = 3000.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixSetChromaSampling: function not present
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in pixSetChromaSampling: function not present
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Error in readHeaderTiff: function not present
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 24
+difference = 65674.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 26
+difference = 34872.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 28
+difference = 20482.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 30
+difference = 20998.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 32
+difference = 11178.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 34
+difference = 21500.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 36
+difference = 18472.000000 but allowed delta = 200.000000
+Error in pixConvertTo8: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 38
+difference = 151885.000000 but allowed delta = 0.000000
+Time:   0.038 sec
+
+////////////////////////////////////////////////
+////////////////   iomisc_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 3
+difference = 1047873.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 4
+difference = 215039.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 5
+difference = 195778.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 6
+difference = 189709.000000 but allowed delta = 3000.000000
+Error in pixSetZlibCompression: pix not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 7
+difference = 180987.000000 but allowed delta = 3000.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 8: comparing /tmp/lept/io/chromatest1.jpg with /tmp/lept/golden/iomisc_golden.08.jpg
+Error in pixSetChromaSampling: function not present
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 9: comparing /tmp/lept/io/chromatest2.jpg with /tmp/lept/golden/iomisc_golden.09.jpg
+Error in pixSetChromaSampling: function not present
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 10: comparing /tmp/lept/io/chromatest3.jpg with /tmp/lept/golden/iomisc_golden.10.jpg
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Info in pixReadStreamPng: not stripping 16 --> 8 in png reading
+Error in readHeaderTiff: function not present
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 23: comparing /tmp/lept/io/fract1.tif with /tmp/lept/golden/iomisc_golden.23.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 24
+difference = 65674.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 25: comparing /tmp/lept/io/fract2.tif with /tmp/lept/golden/iomisc_golden.25.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 26
+difference = 34872.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 27: comparing /tmp/lept/io/fract3.tif with /tmp/lept/golden/iomisc_golden.27.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 28
+difference = 20482.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 29: comparing /tmp/lept/io/fract4.tif with /tmp/lept/golden/iomisc_golden.29.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 30
+difference = 20998.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 31: comparing /tmp/lept/io/fract5.tif with /tmp/lept/golden/iomisc_golden.31.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 32
+difference = 11178.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 33: comparing /tmp/lept/io/fract6.tif with /tmp/lept/golden/iomisc_golden.33.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 34
+difference = 21500.000000 but allowed delta = 0.000000
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 35: comparing /tmp/lept/io/fract7.tif with /tmp/lept/golden/iomisc_golden.35.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 36
+difference = 18472.000000 but allowed delta = 200.000000
+Error in pixConvertTo8: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in findFileFormat: image file not found
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in filesAreIdentical: array1 not read
+Failure in iomisc_reg, index 37: comparing /tmp/lept/io/fract8.tif with /tmp/lept/golden/iomisc_golden.37.tif
+Error in fopenReadStream: file not found
+Error in nbytesInFile: stream not opened
+Failure in iomisc_reg: value comparison for index 38
+difference = 151885.000000 but allowed delta = 0.000000
+Time:   0.032 sec
+FAIL iomisc_reg (exit status: 1)

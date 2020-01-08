@@ -1,0 +1,259 @@
+
+////////////////////////////////////////////////
+////////////////   colorize_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetRGBComponent: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBackgroundNorm: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixThresholdOn8bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixComponentFunction: pix undefined or not 32 bpp
+Error in fpixThresholdToPix: fpix not defined
+Error in pixInvert: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetRGBComponent: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixAnd: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSeedfillBinary: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixMorphSequence: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixForegroundFraction: pix not defined or not 1 bpp
+Error in pixGetAverageMaskedRGB: pixs not defined
+(r,g,b) = (-2147483648,-2147483648,-2147483648)
+Error in pixColorGrayMasked: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayMasked: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnCompBB: pixs undefined or not 1 bpp
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Info in colorize: Writing to /tmp/lept/color/colorize.pdf
+Warning in pixaConvertToPdfData: invalid compression type; using per-page default
+Error in pixaConvertToPdfData: no pdf files made
+Error in pixaConvertToPdf: conversion to pdf failed
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 0
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 6
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Info in colorize: Writing to /tmp/lept/color/colordetect.pdf
+Warning in pixaConvertToPdfData: invalid compression type; using per-page default
+Error in pixaConvertToPdfData: no pdf files made
+Error in pixaConvertToPdf: conversion to pdf failed
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   colorize_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetRGBComponent: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixBackgroundNorm: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGammaTRC: pixs not defined
+Error in pixThresholdOn8bpp: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixComponentFunction: pix undefined or not 32 bpp
+Error in fpixThresholdToPix: fpix not defined
+Error in pixInvert: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetRGBComponent: pixs not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixInvert: pixs not defined
+Error in pixAnd: pixs1 not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdToBinary: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSeedfillBinary: pixs undefined or not 1 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixMorphSequence: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixForegroundFraction: pix not defined or not 1 bpp
+Error in pixGetAverageMaskedRGB: pixs not defined
+(r,g,b) = (-2147483648,-2147483648,-2147483648)
+Error in pixColorGrayMasked: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixColorGrayMasked: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixConnCompBB: pixs undefined or not 1 bpp
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixCopy: pixs not defined
+Error in pixColorGray: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixThresholdTo4bpp: pixs not defined
+Error in pixColorGrayRegions: pixs undefined or not 1 bpp
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixColorGrayCmap: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Info in colorize: Writing to /tmp/lept/color/colorize.pdf
+Warning in pixaConvertToPdfData: invalid compression type; using per-page default
+Error in pixaConvertToPdfData: no pdf files made
+Error in pixaConvertToPdf: conversion to pdf failed
+Error in pixReadMemTiff: function not present
+Error in pixReadMem: tiff: no pix returned
+Error in pixaGenerateFontFromString: pix not made
+Error in bmfCreate: font pixa not made
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 0
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 2
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 3
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 5
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixHasHighlightRed: pixs not defined or not 32 bpp
+Failure in colorize_reg: value comparison for index 6
+difference = 1.000000 but allowed delta = 0.000000
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixaAddPix: pix not defined
+Info in colorize: Writing to /tmp/lept/color/colordetect.pdf
+Warning in pixaConvertToPdfData: invalid compression type; using per-page default
+Error in pixaConvertToPdfData: no pdf files made
+Error in pixaConvertToPdf: conversion to pdf failed
+Time:   0.001 sec
+FAIL colorize_reg (exit status: 1)

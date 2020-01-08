@@ -1,0 +1,118 @@
+
+////////////////////////////////////////////////
+////////////////   pixserial_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSerializeToMemory: pixs not defined
+Error in l_binaryWrite: data not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSerializeToMemory: pixs not defined
+Error in l_binaryWrite: data not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSerializeToMemory: pixs not defined
+Error in l_binaryWrite: data not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSerializeToMemory: pixs not defined
+Error in l_binaryWrite: data not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixSerializeToMemory: pixs not defined
+Error in l_binaryWrite: data not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/pixs.5.spix
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/pixs.16.spix
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/pixs.17.spix
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/pixs.18.spix
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetDimensions: pix not defined
+Error in pixClipRectangle: pixs not defined
+Error in pixWrite: pix not defined
+Error in fopenReadStream: file not found
+Error in l_binaryRead: file stream not opened
+Error in fileCopy: data not returned
+Error in fopenReadStream: file not found
+Error in pixRead: image file not found: /tmp/lept/regout/pixs.19.spix
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixWriteMem: &pix not defined
+Error in findTiffCompression: function not present
+Error in readHeaderTiff: function not present
+Error in pixReadHeader: tiff: no header info returned
+Error in pixReadHeaderMem: data not defined
+Failure comparing dataError in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixWriteMem: &pix not defined
+Error in readHeaderJpeg: function not present
+Error in pixReadHeader: jpeg: no header info returned
+Error in pixReadHeaderMem: unknown format; no data returned
+Failure comparing datadouble free or corruption (!prev)
+Aborted
+FAIL pixserial_reg (exit status: 134)

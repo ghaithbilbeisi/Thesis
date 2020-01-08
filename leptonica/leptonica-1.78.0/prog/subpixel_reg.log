@@ -1,0 +1,103 @@
+
+////////////////////////////////////////////////
+////////////////   subpixel_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time sep:   0.480
+Time non-sep:   0.752
+Time:   2.184 sec
+
+////////////////////////////////////////////////
+////////////////   subpixel_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertGrayToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixScale: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertToSubpixelRGB: pixs not defined
+Error in pixAddSingleTextblock: pixs not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in pixAddSingleTextblock: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Time sep:   0.385
+Time non-sep:   0.675
+Time:   1.944 sec
+FAIL subpixel_reg (exit status: 1)

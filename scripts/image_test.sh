@@ -1,9 +1,8 @@
-model=$1 #../results/models/im2latex-1_step_100000.pt
 src_dir=../data/im2text/images
 src_test=../data/im2text/src-test.txt
 tg_test=../data/im2text/tgt-test.txt
-pred_log=$2 #../results/logs/pred_log1.txt
-save_result=$3 #../results/predictions/results1.txt
+pred_log=$1 #../results/logs/pred_log1.txt
+save_result=$2 #../results/predictions/results1.txt
 test_list=../data/im2text/test_filter.lst
 labels_norm=../data/im2text/formulas.norm.lst
 #labels_orig = $9

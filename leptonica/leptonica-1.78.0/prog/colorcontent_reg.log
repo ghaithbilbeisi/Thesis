@@ -1,0 +1,87 @@
+
+////////////////////////////////////////////////
+////////////////   colorcontent_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetMostPopulatedColors: pixs not defined
+Error in pixDisplayColorArray: carray not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSimpleColorQuantize: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRemoveColormap: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixNumColors: pixs not defined
+Failure in colorcontent_reg: value comparison for index 0
+difference = 10.000000 but allowed delta = 0.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixNumColors: pixs not defined
+Error in pixSimpleColorQuantize: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapGetCount: cmap not defined
+Failure in colorcontent_reg: value comparison for index 2
+difference = 20.000000 but allowed delta = 0.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixNumSignificantGrayColors: pixs not defined or not 8 bpp
+Failure in colorcontent_reg: value comparison for index 3
+difference = 219.000000 but allowed delta = 0.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFindColorRegions: pixs not defined or not 32 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   colorcontent_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixGetMostPopulatedColors: pixs not defined
+Error in pixDisplayColorArray: carray not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSimpleColorQuantize: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixRemoveColormap: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixNumColors: pixs not defined
+Failure in colorcontent_reg: value comparison for index 0
+difference = 10.000000 but allowed delta = 0.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixNumColors: pixs not defined
+Error in pixSimpleColorQuantize: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapGetCount: cmap not defined
+Failure in colorcontent_reg: value comparison for index 2
+difference = 20.000000 but allowed delta = 0.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixConvertTo8: pixs not defined
+Error in pixNumSignificantGrayColors: pixs not defined or not 8 bpp
+Failure in colorcontent_reg: value comparison for index 3
+difference = 219.000000 but allowed delta = 0.000000
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in pixFindColorRegions: pixs not defined or not 32 bpp
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaDisplayTiledInColumns: no components
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL colorcontent_reg (exit status: 1)

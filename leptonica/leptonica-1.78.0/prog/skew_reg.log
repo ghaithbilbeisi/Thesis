@@ -1,0 +1,87 @@
+
+////////////////////////////////////////////////
+////////////////   skew_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetOrClearBorder: pixs not defined
+Error in pixReduceRankBinaryCascade: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddBorder: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixRotateBySampling: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixFindSkewSweepAndSearchScorePivot: pixs not defined or not 1 bpp
+Should be 40 degrees: angle =   0.000, conf =   0.000
+Error in pixRotateBySampling: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixFindSkewOrthogonalRange: pixs not defined or not 1 bpp
+Orth search time:   0.000 sec
+Should be about -128 degrees: angle =   0.000
+Error in pixRotate: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   skew_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixSetOrClearBorder: pixs not defined
+Error in pixReduceRankBinaryCascade: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixAddBorder: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixRotateBySampling: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixFindSkewSweepAndSearchScorePivot: pixs not defined or not 1 bpp
+Should be 40 degrees: angle =   0.000, conf =   0.000
+Error in pixRotateBySampling: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixRotate: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixFindSkewOrthogonalRange: pixs not defined or not 1 bpp
+Orth search time:   0.000 sec
+Should be about -128 degrees: angle =   0.000
+Error in pixRotate: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixGetDimensions: pix not defined
+Error in pixCreateHeader: width must be > 0
+Error in pixCreateNoInit: pixd not made
+Error in pixCreate: pixd not made
+Error in pixRasterop: pixd not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL skew_reg (exit status: 1)

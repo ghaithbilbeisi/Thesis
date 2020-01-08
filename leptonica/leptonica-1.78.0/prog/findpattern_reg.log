@@ -1,0 +1,23 @@
+
+////////////////////////////////////////////////
+////////////////   findpattern_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Time to find patterns =   0.033
+Time to find patterns =   0.007
+Time to find patterns =   0.001
+Time to find patterns =   0.011
+Time to find patterns =   0.002
+Time:   0.756 sec
+
+////////////////////////////////////////////////
+////////////////   findpattern_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Time to find patterns =   0.033
+Time to find patterns =   0.007
+Time to find patterns =   0.001
+Time to find patterns =   0.011
+Time to find patterns =   0.002
+Time:   0.761 sec
+PASS findpattern_reg (exit status: 0)

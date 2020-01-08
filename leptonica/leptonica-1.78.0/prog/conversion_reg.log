@@ -1,0 +1,139 @@
+
+////////////////////////////////////////////////
+////////////////   conversion_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+OK: conversion 1 bpp <==> 8 bpp
+OK: conversion 2 bpp <==> 8 bpp
+OK: conversion 2 bpp <==> 8 bpp; cmap
+OK: conversion 4 bpp <==> 8 bpp
+OK: conversion 4 bpp <==> 8 bpp; cmap
+OK: conversion 2 bpp <==> 2 bpp
+OK: conversion 4 bpp <==> 4 bpp
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+OK: conversion 2 bpp <==> 32 bpp
+OK: conversion 2 bpp <==> 32 bpp
+OK: conversion 4 bpp <==> 32 bpp
+OK: conversion 4 bpp <==> 32 bpp
+Error in pixConvertTo32: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixConvert8To16: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixConvert16To8: pixs not defined
+Error in pixConvertTo16: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+OK: conversion 8 bpp <==> 32 bpp
+Errors in the following:
+ conversion 8 bpp <==> 8 bpp
+conversion 8 bpp <==> 32 bpp
+conversion 8 bpp <==> 16 bpp
+conversion 16 bpp <==> 8 bpp
+Error in pixConvertTo2: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvertTo2: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvertTo4: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvertTo4: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Time:   0.163 sec
+
+////////////////////////////////////////////////
+////////////////   conversion_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+OK: conversion 1 bpp <==> 8 bpp
+OK: conversion 2 bpp <==> 8 bpp
+OK: conversion 2 bpp <==> 8 bpp; cmap
+OK: conversion 4 bpp <==> 8 bpp
+OK: conversion 4 bpp <==> 8 bpp; cmap
+OK: conversion 2 bpp <==> 2 bpp
+OK: conversion 4 bpp <==> 4 bpp
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+OK: conversion 2 bpp <==> 32 bpp
+OK: conversion 2 bpp <==> 32 bpp
+OK: conversion 4 bpp <==> 32 bpp
+OK: conversion 4 bpp <==> 32 bpp
+Error in pixConvertTo32: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixConvert8To16: pixs not defined
+Error in pixConvertTo8: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixConvert16To8: pixs not defined
+Error in pixConvertTo16: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixDisplayWithTitle: pixs not defined
+Error in pixDisplayWithTitle: pixs not defined
+OK: conversion 8 bpp <==> 32 bpp
+Errors in the following:
+ conversion 8 bpp <==> 8 bpp
+conversion 8 bpp <==> 32 bpp
+conversion 8 bpp <==> 16 bpp
+conversion 16 bpp <==> 8 bpp
+Error in pixConvertTo2: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvertTo2: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvertTo4: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConvertTo4: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Time:   0.278 sec
+FAIL conversion_reg (exit status: 1)

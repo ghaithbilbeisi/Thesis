@@ -1,7 +1,6 @@
 import os, sys, argparse, logging
 import distance
 
-
 def process_args(args):
     parser = argparse.ArgumentParser(description='Evaluate text edit distance.')
 

@@ -1,0 +1,241 @@
+
+////////////////////////////////////////////////
+////////////////   fhmtauto_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 0 (sel_3hm)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 1 (sel_3de)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 2 (sel_3ue)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 3 (sel_3re)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 4 (sel_3le)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 5 (sel_sl1)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 6 (sel_ulc)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 7 (sel_urc)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 8 (sel_llc)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 9 (sel_lrc)
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   fhmtauto_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 0 (sel_3hm)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 1 (sel_3de)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 2 (sel_3ue)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 3 (sel_3re)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 4 (sel_3le)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 5 (sel_sl1)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 6 (sel_ulc)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 7 (sel_urc)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 8 (sel_llc)
+Error in processMorphArgs1: pixs not defined
+Error in pixHMT: processMorphArgs1 failed
+Error in pixAddBorder: pixs not defined
+Error in pixFHMTGen_1: pixs not defined
+Error in pixRemoveBorder: pixs not defined
+Error in pixHMTDwa_1: pixs not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+Error in pixEqualWithAlpha: pix1 and pix2 not both defined
+hmt differ for sel 9 (sel_lrc)
+Time:   0.000 sec
+FAIL fhmtauto_reg (exit status: 1)

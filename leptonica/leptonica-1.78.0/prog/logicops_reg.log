@@ -1,0 +1,29 @@
+
+////////////////////////////////////////////////
+////////////////   logicops_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.027 sec
+
+////////////////////////////////////////////////
+////////////////   logicops_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in regTestComparePix: pix1 and pix2 not both defined
+Time:   0.024 sec
+FAIL logicops_reg (exit status: 1)

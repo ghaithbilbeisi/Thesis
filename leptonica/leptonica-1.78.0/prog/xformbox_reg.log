@@ -1,0 +1,251 @@
+
+////////////////////////////////////////////////
+////////////////   xformbox_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixTranslate: pixs not defined
+Error in pixCloseBrick: pixs not defined
+Error in pixOpenBrick: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixConvertTo32: pixs not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixTranslate: pixs not defined
+Error in boxaTranslate: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in boxaScale: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixRotateAM: pixs not defined
+Error in boxaRotate: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in boxaAffineTransform: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   xformbox_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConvertTo8: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRotateOrth: pixs not defined
+Error in boxaRotateOrth: boxas not defined
+Error in pixRenderHashBoxArb: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in pixAddBorderGeneral: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in boxaGetCount: boxa not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixConvertTo32: pixs not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixTranslate: pixs not defined
+Error in pixCloseBrick: pixs not defined
+Error in pixOpenBrick: pixs not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixConvertTo32: pixs not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixTranslate: pixs not defined
+Error in boxaTranslate: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixScale: pixs not defined
+Error in boxaScale: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in pixRotateAM: pixs not defined
+Error in boxaRotate: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in boxaAffineTransform: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixGetDimensions: pix not defined
+Error in boxaTransformOrdered: boxas not defined
+Error in pixCopy: pixs not defined
+Error in boxaGetCount: boxa not defined
+Error in pixSaveTiledOutline: pixs not defined
+Error in pixaDisplay: no components; no size
+Error in regTestWritePixAndCheck: pix not defined
+Time:   0.000 sec
+FAIL xformbox_reg (exit status: 1)

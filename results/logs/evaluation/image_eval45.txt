@@ -1,0 +1,149 @@
+2019-11-24 19:46:23,840 root  INFO     Script being executed: evaluation/render_latex.py
+2019-11-24 19:46:24,277 root  INFO     Creating pool with 4 threads
+2019-11-24 19:46:24,319 root  INFO     Jobs running...
+/bin/sh: 1: /bin/sh: 1: /bin/sh: 1: pdflatex: not foundpdflatex: not found
+
+pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,357 root  INFO     ERROR: 7944775fc9.png cannot compile
+
+2019-11-24 19:46:24,357 root  INFO     ERROR: 74678e5cd5.png cannot compile
+
+2019-11-24 19:46:24,357 root  INFO     ERROR: 249ac72433.png cannot compile
+
+2019-11-24 19:46:24,360 root  INFO     ERROR: 53141c732b.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,399 root  INFO     ERROR: 78228211ca.png cannot compile
+
+2019-11-24 19:46:24,400 root  INFO     ERROR: 7db4513075.png cannot compile
+
+2019-11-24 19:46:24,400 root  INFO     ERROR: 7fc69b03c7.png cannot compile
+
+2019-11-24 19:46:24,400 root  INFO     ERROR: dae8f8c5fe.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,431 root  INFO     ERROR: 15b9034ba8.png cannot compile
+
+2019-11-24 19:46:24,438 root  INFO     ERROR: 6ae3f51bf7.png cannot compile
+
+2019-11-24 19:46:24,441 root  INFO     ERROR: 623b84f9a5.png cannot compile
+
+2019-11-24 19:46:24,452 root  INFO     ERROR: 501876f543.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,474 root  INFO     ERROR: 6968dfca15.png cannot compile
+
+2019-11-24 19:46:24,474 root  INFO     ERROR: 6f23409a73.png cannot compile
+
+2019-11-24 19:46:24,474 root  INFO     ERROR: 7d16a5a138.png cannot compile
+
+2019-11-24 19:46:24,485 root  INFO     ERROR: 43e9045078.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,510 root  INFO     ERROR: 3d074c8835.png cannot compile
+
+2019-11-24 19:46:24,510 root  INFO     ERROR: 6d3a3daa64.png cannot compile
+
+2019-11-24 19:46:24,511 root  INFO     ERROR: 6cead0df53.png cannot compile
+
+2019-11-24 19:46:24,511 root  INFO     ERROR: 2e25834a89.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,535 root  INFO     ERROR: 17e600c661.png cannot compile
+
+2019-11-24 19:46:24,536 root  INFO     ERROR: 50fbce890a.png cannot compile
+
+2019-11-24 19:46:24,536 root  INFO     ERROR: 7ca2d975e9.png cannot compile
+
+2019-11-24 19:46:24,548 root  INFO     ERROR: 5381b22df4.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,569 root  INFO     ERROR: 55f9dd1da5.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,575 root  INFO     ERROR: 1473677d01.png cannot compile
+
+2019-11-24 19:46:24,580 root  INFO     ERROR: 27f2b37ce9.png cannot compile
+
+2019-11-24 19:46:24,581 root  INFO     ERROR: 77e31a3b5d.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,604 root  INFO     ERROR: 4e1992529d.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,626 root  INFO     ERROR: 42dda3681c.png cannot compile
+
+2019-11-24 19:46:24,633 root  INFO     ERROR: 51a257cdf5.png cannot compile
+
+2019-11-24 19:46:24,642 root  INFO     ERROR: 7504a5c766.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,652 root  INFO     ERROR: 5c0628f0b3.png cannot compile
+
+2019-11-24 19:46:24,653 root  INFO     ERROR: 5108925e21.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,666 root  INFO     ERROR: 30d03c8d16.png cannot compile
+
+2019-11-24 19:46:24,667 root  INFO     ERROR: 641af186fb.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,683 root  INFO     ERROR: 3882dd3d43.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,693 root  INFO     ERROR: 1e0441eb7a.png cannot compile
+
+2019-11-24 19:46:24,693 root  INFO     ERROR: 7a5abd315f.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,707 root  INFO     ERROR: 554ccb8232.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,723 root  INFO     ERROR: 566cf0c6f5.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,737 root  INFO     ERROR: 121d943918.png cannot compile
+
+2019-11-24 19:46:24,738 root  INFO     ERROR: b825a83b2f.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,745 root  INFO     ERROR: 1a181204bd.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,759 root  INFO     ERROR: 7d1fe2cc05.png cannot compile
+
+2019-11-24 19:46:24,768 root  INFO     ERROR: 7c1b676ba4.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,784 root  INFO     ERROR: 6a6d5de820.png cannot compile
+
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+/bin/sh: 1: pdflatex: not found
+2019-11-24 19:46:24,795 root  INFO     ERROR: 450b24df87.png cannot compile
+

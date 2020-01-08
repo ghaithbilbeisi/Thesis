@@ -1,0 +1,145 @@
+
+////////////////////////////////////////////////
+////////////////   pixadisp_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaSelectBySize: pixas not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixGetDimensions: pix not defined
+Error in pixaDisplay: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayRandomCmap: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapResetColor: cmap not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in boxaGetCount: boxa not defined
+Number of columns = 0; number of boxes: 0
+Error in pixaSplitPix: pixs not defined
+Error in pixaDisplayUnsplit: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilter: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixScale: pixs not defined
+Error in pixRankFilter: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixScale: pixs not defined
+Error in pixRankFilter: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaMakeFromTiledPix: pixs not defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in pixaMakeFromTiledPix: pixs not defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixScale: pixs not defined
+Error in pixaAddPix: pix not defined
+Time:   0.000 sec
+
+////////////////////////////////////////////////
+////////////////   pixadisp_reg   ///////////////
+////////////////////////////////////////////////
+leptonica-1.78.0 : libpng 1.6.34 : zlib 1.2.11
+Error in pixReadStreamJpeg: function not present
+Error in pixReadStream: jpeg: no pix returned
+Error in pixRead: pix not read
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixClipRectangle: pixs not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixaSelectBySize: pixas not defined
+Error in pixConnComp: pixs undefined or not 1 bpp
+Error in pixGetDimensions: pix not defined
+Error in pixaDisplay: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayRandomCmap: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixGetColormap: pix not defined
+Error in pixcmapResetColor: cmap not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in boxaGetCount: boxa not defined
+Number of columns = 0; number of boxes: 0
+Error in pixaSplitPix: pixs not defined
+Error in pixaDisplayUnsplit: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledInRows: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: pixa not defined
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in pixRankFilter: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixScale: pixs not defined
+Error in pixRankFilter: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixScale: pixs not defined
+Error in pixRankFilter: pixs not defined
+Error in pixaAddPix: pix not defined
+Error in pixaDisplayTiledAndScaled: no components
+Error in regTestWritePixAndCheck: pix not defined
+Error in pixaAddPix: pix not defined
+Error in findTiffCompression: function not present
+Error in pixReadStreamTiff: function not present
+Error in pixReadStream: tiff: no pix returned
+Error in pixRead: pix not read
+Error in pixaMakeFromTiledPix: pixs not defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in pixaMakeFromTiledPix: pixs not defined
+Error in pixaDisplayOnLattice: pixa not defined
+Error in regTestComparePix: pix1 and pix2 not both defined
+Error in pixScale: pixs not defined
+Error in pixaAddPix: pix not defined
+Time:   0.000 sec
+FAIL pixadisp_reg (exit status: 1)

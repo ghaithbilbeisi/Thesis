@@ -1,0 +1,596 @@
+[2020-01-05 01:31:15,718 INFO]  * tgt vocab size = 510
+[2020-01-05 01:31:15,718 INFO] Building model...
+[2020-01-05 01:31:19,333 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 01:31:19,335 INFO] encoder: 2550016
+[2020-01-05 01:31:19,335 INFO] decoder: 3210310
+[2020-01-05 01:31:19,335 INFO] * number of parameters: 5760326
+[2020-01-05 01:31:19,913 INFO] Starting training on GPU: [0]
+[2020-01-05 01:31:19,913 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 01:31:44,203 INFO]  * tgt vocab size = 510
+[2020-01-05 01:31:44,203 INFO] Building model...
+[2020-01-05 01:31:48,137 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 01:31:48,138 INFO] encoder: 2550016
+[2020-01-05 01:31:48,138 INFO] decoder: 3210310
+[2020-01-05 01:31:48,138 INFO] * number of parameters: 5760326
+[2020-01-05 01:31:48,426 INFO] Starting training on GPU: [0]
+[2020-01-05 01:31:48,426 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:03:25,967 INFO]  * tgt vocab size = 510
+[2020-01-05 02:03:25,967 INFO] Building model...
+[2020-01-05 02:03:29,969 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:03:29,971 INFO] encoder: 2550016
+[2020-01-05 02:03:29,971 INFO] decoder: 3210310
+[2020-01-05 02:03:29,971 INFO] * number of parameters: 5760326
+[2020-01-05 02:03:30,466 INFO] Starting training on GPU: [0]
+[2020-01-05 02:03:30,467 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:04:23,254 INFO]  * tgt vocab size = 510
+[2020-01-05 02:04:23,254 INFO] Building model...
+[2020-01-05 02:04:27,130 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:04:27,131 INFO] encoder: 2550016
+[2020-01-05 02:04:27,131 INFO] decoder: 3210310
+[2020-01-05 02:04:27,131 INFO] * number of parameters: 5760326
+[2020-01-05 02:04:27,442 INFO] Starting training on GPU: [0]
+[2020-01-05 02:04:27,442 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:05:47,739 INFO]  * tgt vocab size = 510
+[2020-01-05 02:05:47,739 INFO] Building model...
+[2020-01-05 02:05:51,657 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:05:51,659 INFO] encoder: 2550016
+[2020-01-05 02:05:51,659 INFO] decoder: 3210310
+[2020-01-05 02:05:51,659 INFO] * number of parameters: 5760326
+[2020-01-05 02:05:52,054 INFO] Starting training on GPU: [0]
+[2020-01-05 02:05:52,054 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:06:24,973 INFO]  * tgt vocab size = 510
+[2020-01-05 02:06:24,973 INFO] Building model...
+[2020-01-05 02:06:28,842 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:06:28,843 INFO] encoder: 2550016
+[2020-01-05 02:06:28,843 INFO] decoder: 3210310
+[2020-01-05 02:06:28,843 INFO] * number of parameters: 5760326
+[2020-01-05 02:06:29,139 INFO] Starting training on GPU: [0]
+[2020-01-05 02:06:29,139 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:07:45,413 INFO]  * tgt vocab size = 510
+[2020-01-05 02:07:45,413 INFO] Building model...
+[2020-01-05 02:07:49,368 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:07:49,370 INFO] encoder: 2550016
+[2020-01-05 02:07:49,370 INFO] decoder: 3210310
+[2020-01-05 02:07:49,370 INFO] * number of parameters: 5760326
+[2020-01-05 02:07:49,753 INFO] Starting training on GPU: [0]
+[2020-01-05 02:07:49,753 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:08:14,779 INFO]  * tgt vocab size = 510
+[2020-01-05 02:08:14,779 INFO] Building model...
+[2020-01-05 02:08:18,343 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:08:18,344 INFO] encoder: 2550016
+[2020-01-05 02:08:18,344 INFO] decoder: 3210310
+[2020-01-05 02:08:18,345 INFO] * number of parameters: 5760326
+[2020-01-05 02:08:18,639 INFO] Starting training on GPU: [0]
+[2020-01-05 02:08:18,639 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:51:00,948 INFO]  * tgt vocab size = 510
+[2020-01-05 02:51:00,949 INFO] Building model...
+[2020-01-05 02:51:04,836 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 02:51:04,837 INFO] encoder: 2550016
+[2020-01-05 02:51:04,838 INFO] decoder: 3210310
+[2020-01-05 02:51:04,838 INFO] * number of parameters: 5760326
+[2020-01-05 02:51:05,268 INFO] Starting training on GPU: [0]
+[2020-01-05 02:51:05,268 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 02:57:11,166 INFO] Step 500/100000; acc:  33.11; ppl: 29.47; xent: 3.38; lr: 0.10000;   0/1608 tok/s;    366 sec
+[2020-01-05 03:02:59,118 INFO] Step 1000/100000; acc:  46.53; ppl: 11.91; xent: 2.48; lr: 0.10000;   0/1670 tok/s;    714 sec
+[2020-01-05 03:16:45,113 INFO]  * tgt vocab size = 510
+[2020-01-05 03:16:45,113 INFO] Building model...
+[2020-01-05 03:16:48,746 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 03:16:48,748 INFO] encoder: 2550016
+[2020-01-05 03:16:48,748 INFO] decoder: 3210310
+[2020-01-05 03:16:48,748 INFO] * number of parameters: 5760326
+[2020-01-05 03:16:49,145 INFO] Starting training on GPU: [0]
+[2020-01-05 03:16:49,145 INFO] Start training loop and validate every 10000 steps...
+[2020-01-05 03:17:12,988 INFO]  * tgt vocab size = 510
+[2020-01-05 03:17:12,988 INFO] Building model...
+[2020-01-05 03:17:16,672 INFO] NMTModel(
+  (encoder): ImageEncoder(
+    (layer1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (ds1): Downsample(
+      (pad): ReflectionPad2d([3, 3, 3, 3])
+    )
+    (layer3): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer4): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer5): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer6): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (layer7): Conv2d(128, 128, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer8): Conv2d(128, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer9): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (layer10): Conv2d(256, 256, kernel_size=(2, 2), stride=(1, 1), padding=(1, 1))
+    (batch_norm1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (batch_norm3): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (rnn): LSTM(256, 250, dropout=0.3, bidirectional=True)
+    (pos_lut): Embedding(1000, 256)
+  )
+  (decoder): InputFeedRNNDecoder(
+    (embeddings): Embeddings(
+      (make_embedding): Sequential(
+        (emb_luts): Elementwise(
+          (0): Embedding(510, 80, padding_idx=1)
+        )
+      )
+    )
+    (dropout): Dropout(p=0.3)
+    (rnn): StackedLSTM(
+      (dropout): Dropout(p=0.3)
+      (layers): ModuleList(
+        (0): LSTMCell(580, 500)
+      )
+    )
+    (attn): GlobalAttention(
+      (linear_in): Linear(in_features=500, out_features=500, bias=False)
+      (linear_out): Linear(in_features=1000, out_features=500, bias=False)
+    )
+  )
+  (generator): Sequential(
+    (0): Linear(in_features=500, out_features=510, bias=True)
+    (1): Cast()
+    (2): LogSoftmax()
+  )
+)
+[2020-01-05 03:17:16,673 INFO] encoder: 2550016
+[2020-01-05 03:17:16,673 INFO] decoder: 3210310
+[2020-01-05 03:17:16,674 INFO] * number of parameters: 5760326
+[2020-01-05 03:17:16,967 INFO] Starting training on GPU: [0]
+[2020-01-05 03:17:16,967 INFO] Start training loop and validate every 10000 steps...
