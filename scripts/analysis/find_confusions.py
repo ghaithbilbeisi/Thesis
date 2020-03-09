@@ -83,8 +83,8 @@ def main(args):
                     #all_confusions.append((confusions[c][0],'@',confusions[c][1], '@', len(confusions[c][0])))
                     add_confusions(confusions[c][0], confusions[c][1], all_confusions)
                     c += 1
-    print(all_confusions)
-    exit()
+    #print(all_confusions)
+    #exit()
     all_confusions = np.asarray(all_confusions)
     np.savetxt(parameters.out_path, all_confusions, fmt='%s')
     
