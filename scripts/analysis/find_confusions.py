@@ -39,8 +39,6 @@ def main(args):
     parameters = process_args(args)
 
     result_file = parameters.result_path
-    total_ref = 0
-    total_edit_distance = 0
     all_confusions = []
     with open(result_file) as fin:
         for idx,line in enumerate(fin):
