@@ -3,7 +3,7 @@ import difflib
 import numpy as np
 
 def process_args(args):
-    parser = argparse.ArgumentParser(description='Evaluate text edit distance.')
+    parser = argparse.ArgumentParser(description='Get List of Symbol Confusions.')
 
     parser.add_argument('--result-path', dest='result_path',
                         type=str, required=True,
