@@ -1,4 +1,4 @@
-import os, sys, argparse, logging
+import os, sys, argparse
 import difflib
 import numpy as np
 
