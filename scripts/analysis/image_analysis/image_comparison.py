@@ -5,7 +5,6 @@ sys.path.insert(0, '%s'%os.path.join(os.path.dirname(__file__), '../utils/'))
 from utils import run
 from image_utils import *
 from multiprocessing import Pool
-from multiprocessing.dummy import Pool as ThreadPool 
 from pathlib import Path
 from PIL import Image
 
@@ -194,11 +193,7 @@ def main(args):
             lines.append((items1[0], 0, 0, items1[2], items1[1], items2[1]))
             lines[-1] = main_parallel(lines[-1])
             c += 1
-    
-    #pool = ThreadPool(parameters.num_threads)
-    #results = pool.map(main_parallel, lines)
-    #pool.close() 
-    #pool.join() 
+
 
     lines = np.asarray(lines)
     np.savetxt(parameters.output_path, lines[:,:3], delimiter="\t", fmt='%s')
