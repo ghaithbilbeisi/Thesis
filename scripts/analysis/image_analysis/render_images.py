@@ -1,8 +1,7 @@
-import sys, os, re, shutil, argparse, logging
+import sys, os, re, argparse, logging
 sys.path.insert(0, '%s'%os.path.join(os.path.dirname(__file__), '../utils/'))
 from utils import run
 from image_utils import *
-from multiprocessing import Pool
 from multiprocessing.dummy import Pool as ThreadPool 
 from pathlib import Path
 
