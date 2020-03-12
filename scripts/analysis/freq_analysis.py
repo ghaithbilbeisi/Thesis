@@ -1,10 +1,9 @@
 import argparse
 import numpy as np
 import sys, subprocess
-from scipy import stats
 
 def process_args(args):
-    parser = argparse.ArgumentParser(description='Evaluate text edit distance.')
+    parser = argparse.ArgumentParser(description='Produce symbol frequency analysis data.')
     parser.add_argument('--result-path1', dest='result_path1', type=str, required=True, help=('Result of first file containing <img_path> <label_gold> <label_pred> <score_pred> <score_gold> per line. This should be set to the output file of the model.'))
     parser.add_argument('--output-path', dest="out_path", type=str, default='freq_analysis.txt', help=('Output file path, default=freq_analysis.txt, save to txt then copy to csv or excel sheet since the \'=\' symbol will cause issues.'))
     parameters = parser.parse_args(args)
