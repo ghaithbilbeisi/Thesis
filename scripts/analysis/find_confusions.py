@@ -45,7 +45,7 @@ def main(args):
             #if idx % 100 == 0:
                 #print (idx)
             items = line.strip().split('\t')
-            if len(items) == 5 and idx < 10:
+            if len(items) == 5: #and idx < 10:
                 img_path, label_gold, label_pred, score_pred, score_gold = items
                 l_pred = label_pred.strip()
                 l_gold = label_gold.strip()
@@ -55,9 +55,9 @@ def main(args):
                 confusions = []
                 matcher = difflib.SequenceMatcher(None, tokens_gold, tokens_pred)
                 mb = matcher.get_matching_blocks()
-                print(l_gold)
-                print(l_pred)
-                print(mb)
+                #print(l_gold)
+                #print(l_pred)
+                #print(mb)
                 for idm, m in enumerate(mb[:-1]):
                     if idm == 0 and (m[0] != 0 or m[1] != 0):
                         confusions.append((tokens_gold[0 : m[0]], tokens_pred[0 : m[1]]))
